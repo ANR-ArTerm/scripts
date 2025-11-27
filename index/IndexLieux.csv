@@ -1,0 +1,410 @@
+xml:id,name_fr,name_it,continent,country,geo,wikidata
+Calidonia,,,,,,
+Adee,,,,,,
+Cotton,,,,,,
+Afrique,Afrique,Africa,,,21.09375 7.1881,Q15
+Amerique,Amérique,America,,,19 -96,Q828
+Asie,Asie,Asia,,,43.681111111111115 87.33111111111111,Q48
+Catalogne,Catalogne (région culturelle),,,,,Q113834065
+Barbarie,Côte des Barbaresques,Stati barbareschi,,,,Q501768
+Europe,Europe,Europa,,,48.690959 9.14062,Q46
+Ogygie,Ogygie,Ogigia,,,,Q1232442
+AixLaChapelle,Aix-la-Chapelle,Aquisgrana,,Allemagne,50.776207 6.083788,Q1017
+Augsbourg,Augsbourg,Augusta,,Allemagne,48.36888888888889 10.897777777777778,Q2749
+Cologne,Cologne,Colonia,,Allemagne,50.942222222222 6.9577777777778,Q365
+Heidelberg,Heidelberg,Heidelberg,,Allemagne,49.412222222222 8.71,Q2966
+Ingolstadt,Ingolstadt,Ingolstadt,,Allemagne,48.76305555555555 11.425,Q3004
+Kalkar,Kalkar,Kalkar,,Allemagne,51.738888888889 6.2925,Q243554
+Mainz,Mayence,Magonza,,Allemagne,49.99944444444444 8.27361111111111,Q1720
+Nuremberg,Nuremberg,Norimberga,,Allemagne,49.45388888888889 11.0775,Q2090
+Wurtzbourg,Wurtzbourg,Würzburg,,Allemagne,49.794444444444 9.9294444444444,Q2999
+Artaxata,Artaxata,Artaxata,,Arménie,39.886613 44.57943,Q706215
+Xipete,Xypétè,Xipete,,Athènes,37.957553 23.685482,Q13424319
+Alost,Alost,Aalst,,Belgique,50.93833333333333 4.039166666666667,Q13121
+Anvers,Anvers,Anversa,,Belgique,51.221111111111114 4.3997222222222225,Q12892
+Oudenaarde,Audenarde,Oudenaarde,,Belgique,50.85 3.6,Q12992
+Avennes,Avennes,,,Belgique,50.6292 5.1147,Q2660309
+Barbencon,Barbençon,,,Belgique,50.2206905 4.2859259,Q2257276
+Bruges,Bruges,Bruges,,Belgique,51.208888888888886 3.2241666666666666,Q12994
+Courtrai,Courtrai,Courtrai,,Belgique,50.8275 3.265833333333333,Q12995
+Dinant,Dinant,Dinant,,Belgique,50.256388888889 4.9136111111111,Q108247
+Liege,Liège,Liegi,,Belgique,50.639722222222225 5.570555555555556,Q3992
+Louvain,Louvain,Lovanio,,Belgique,50.8775 4.704444,Q118958
+Malines,Malines,Malines,,Belgique,51.028055555555554 4.480277777777777,Q162022
+Maaseik,Maseyk,Maaseik,,Belgique,51.101944444444 5.7855555555556,Q110989
+Meulebeke,Meulebeke,Meulebeke,,Belgique,50.9497 3.2869,Q822783
+Mons,Mons,Mons,,Belgique,50.45472222222222 3.9525,Q83407
+Namur,Namur,Namur,,Belgique,50.466666666667 4.8666666666667,Q134121
+Rance,Rance,,,Belgique,50.1430111 4.2731851,Q2094603
+Martaban,Martaban,Mottama,,Birmanie,16.53 97.60222222222222,Q1950091
+Pegou,Pégou,Pegu,,Birmanie,17.343333333333 96.498055555556,Q800122
+Pula,Pula,Pola,,Croatie,44.87027777777778 13.845555555555556,Q4656
+Copenhague,Copenhague,Copenaghen,,Danemark,55.676111111111 12.568888888889,Q1748
+Alsace,Alsace,Alsazia,,France,48.5 7.5,Q1142
+Amiens,Amiens,Amiens,,France,49.891944444444 2.2977777777778,Q41604
+Anet,Anet,Anet,,France,48.855 1.4394444444444,Q529402
+Angers,Angers,Angers,,France,47.472777777778 -0.55555555555556,Q38380
+test,Angoulême,Angoulême,,France,45.649444444444 0.15944444444444,Q134346
+Arcueil,Arcueil,Arcueil,,France,48.806666666667 2.3352777777778,Q467132
+Arles,Arles,Arles,,France,43.676944444444 4.6286111111111,Q48292
+Arras,Arras,Arras,,France,50.289166666667 2.78,Q131329
+Autun,Autun,Autun,,France,46.951111111111 4.2986111111111,Q190827
+Auvergne,Auvergne,Alvernia,,France,45.7 3.3,Q1152
+Avignon,Avignon,Avignone,,France,43.948611111111 4.8083333333333,Q6397
+Barbazan,Barbazan,Barbazan,,France,43.032222222222 0.62305555555556,Q632072
+Belleville,Belleville,Belleville,,France,48.873888888889 2.3852777777778,Q815949
+Belvedere,Belvédère,Belvedere,,France,44.014722222222 7.3211111111111,Q742848
+BercheresLesPierres,Berchères-les-Pierres,Berchères-les-Pierres,,France,48.385 1.5536111111111,Q1075225
+Blois,Blois,Blois,,France,47.593055555556 1.3272222222222,Q160927
+Bordeaux,Bordeaux,Bordeaux,,France,44.837777777778 -0.57944444444444,Q1479
+Bourgogne,Bourgogne,Borgogna,,France,47 4.5,Q1173
+Beziers,Béziers,Béziers,,France,43.343333333333 3.2161111111111,Q174019
+Caen,Caen,Caen,,France,49.18138888888889 -0.3636111111111111,Q41185
+Campan,Campan,Campan,,France,43.016944444444 0.1775,Q835569
+Chambray,Chambray,Chambray,,France,49.075 1.3058333333333,Q1077048
+Champagne,Champagne,Champagne,,France,49 4,Q273827
+CharentonLePont,Charenton-le-Pont,Charenton-le-Pont,,France,48.821388888889 2.4119444444444,Q212793
+Chartres,Chartres,Chartres,,France,48.446666666667 1.4883333333333,Q130272
+Chateaudun,Châteaudun,Châteaudun,,France,48.070833333333 1.3377777777778,Q181886
+ConchesEnOuche,Conches-en-Ouche,Conches-en-Ouche,,France,48.960555555556 0.9425,Q326369
+Fayence,Fayence,Fayence,,France,43.623333333333 6.6938888888889,Q687823
+Fontainebleau,Fontainebleau,Fontainebleau,,France,48.408888888889 2.7016666666667,Q182872
+FrancheComte,Franche-Comté,Franca Contea,,France,47 6,Q16394
+Gouvieux,Gouvieux,Gouvieux,,France,49.187777777778 2.4161111111111,Q752088
+IvrySurSeine,Ivry-sur-Seine,Ivry-sur-Seine,,France,48.813888888889 2.3877777777778,Q193877
+Lallaing,Lallaing,Lallaing,,France,50.39 3.1680555555556,Q1099211
+Languedoc,Languedoc,Linguadoca,,France,43.666666666667 3.1666666666667,Q206221
+LeMans,Le Mans,Le Mans,,France,48.004166666667 0.19694444444444,Q1476
+Andelys,Les Andelys,Les Andelys,,France,49.245555555556 1.4116666666667,Q209770
+Loches,Loches,Loches,,France,47.128611111111 0.99527777777778,Q213349
+Lombez,Lombez,Lombez,,France,43.474722222222 0.91027777777778,Q253370
+LyonsLaForet,Lyons-la-Forêt,Lyons-la-Forêt,,France,49.399444444444 1.4761111111111,Q115476
+Marseille,Marseille,Marsiglia,,France,43.296666666667 5.3763888888889,Q23482
+Maubeuge,Maubeuge,Maubeuge,,France,50.276944444444 3.9725,Q138648
+Melun,Melun,Melun,,France,48.539722222222 2.6591666666667,Q41139
+Meudon,Meudon,Meudon,,France,48.8075 2.2402777777778,Q234735
+Montesson,Montesson,Montesson,,France,48.908611111111 2.1494444444444,Q830293
+MontmirailSarthe,Montmirail,Montmirail,,France,48.102777777778 0.79055555555556,Q840523
+MontoireSurLeLoir,Montoire-sur-le-Loir,Montoire-sur-le-Loir,,France,47.754166666667 0.86361111111111,Q752979
+Montpellier,Montpellier,Montpellier,,France,43.610919444444 3.8772305555556,Q6441
+Moulins,Moulins,Moulins,,France,46.564722222222 3.3325,Q184883
+MezieresSurSeine,Mézières-sur-Seine,Mézières-sur-Seine,,France,48.958055555556 1.8038888888889,Q1464487
+Narbonne,Narbonne,Narbona,,France,43.184722222222 3.0036111111111,Q6555
+Nevers,Nevers,Nevers,,France,46.9925 3.1566666666667,Q166997
+Nivernais,Nivernais,Nivernese,,France,46.99 3.16,Q1468519
+Normandie,Normandie,Normandia,,France,49.18333333333333 -0.35,Q18677875
+Nimes,Nîmes,Nîmes,,France,43.83833333333333 4.3597222222222225,Q42807
+Orange,Orange,Orange,,France,44.1375 4.8088888888889,Q187796
+Orleans,Orléans,Orléans,,France,47.902222222222 1.9041666666667,Q6548
+Passy,Passy,Passy,,France,48.857111111111 2.2841361111111,Q1241308
+Picardie,Picardie,Piccardia,,France,49.5 2.8333333333333,Q13950
+Poitou,Poitou,Poitou,,France,46.64861111 -0.24777778,Q954076
+Prasville,Prasville,Prasville,,France,48.275833333333 1.7108333333333,Q746057
+Provence,Provence,Provenza,,France,44 6,Q101081
+Roquebrun,Roquebrun,Roquebrun,,France,43.500555555556 3.0305555555556,Q269453
+Rouen,Rouen,Rouen,,France,49.443055555556 1.1025,Q30974
+SaintBeat,Saint-Béat,Saint-Béat,,France,42.914444444444 0.6925,Q671104
+SaintCloud,Saint-Cloud,Saint-Cloud,,France,48.846388888889 2.2152777777778,Q189153
+SaintDizier,Saint-Dizier,Saint-Dizier,,France,48.637777777778 4.9488888888889,Q208310
+SaintGermainEnLaye,Saint-Germain-en-Laye,Saint-Germain-en-Laye,,France,48.896388888889 2.0905555555556,Q60847808
+SaintLeuDEsserent,Saint-Leu-d'Esserent,Saint-Leu-d'Esserent,,France,49.217222222222 2.4219444444444,Q1332424
+SaintMaurDesFosses,Saint-Maur-des-Fossés,Saint-Maur-des-Fossés,,France,48.8025 2.4855555555556,Q193313
+SaintQuentinVille,Saint-Quentin,San Quintino,,France,49.847777777778 3.2855555555556,Q182744
+SaintRemyDeProvence,Saint-Rémy-de-Provence,Saint-Rémy-de-Provence,,France,43.789444444444 4.8316666666667,Q221507
+SaintEtienneVille,Saint-Étienne,Saint-Étienne,,France,45.433888888889 4.3897222222222,Q42716
+Sarrancolin,Sarrancolin,Sarrancolin,,France,42.966388888889 0.37722222222222,Q1599885
+Savoie,Savoie,Savoia,,France,45.57 5.9118,Q14118
+Sceaux,Sceaux,Sceaux,,France,48.778611111111 2.2905555555556,Q370498
+Senlis,Senlis,Senlis,,France,49.207222222222 2.5866666666667,Q126668
+Senonches,Senonches,Senonches,,France,48.561388888889 1.0305555555556,Q693987
+Sens,Sens,Sens,,France,48.197222222222 3.2833333333333,Q212420
+Sevran,Sevran,Sevran,,France,48.941388888889 2.5227777777778,Q387630
+Strasbourg,Strasbourg,Strasburgo,,France,48.573333333333 7.7522222222222,Q6602
+Sevres,Sèvres,Sèvres,,France,48.823055555556 2.2108333333333,Q206493
+Tarbes,Tarbes,Tarbes,,France,43.232777777778 0.074444444444444,Q184023
+Tonnerre,Tonnerre,Tonnerre,,France,47.855277777778 3.9733333333333,Q498854
+Touraine,Touraine,Turenna,,France,47.4 0.68333333333333,Q605051
+Tours,Tours,Tours,,France,47.392777777778 0.68833333333333,Q288
+TrocyEnMultien,Trocy-en-Multien,Trocy-en-Multien,,France,49.043055555556 2.9630555555556,Q976305
+Troyes,Troyes,Troyes,,France,48.298888888889 4.0780555555556,Q5489
+VerLesChartres,Ver-lès-Chartres,Ver-lès-Chartres,,France,48.385277777778 1.4783333333333,Q1138962
+Vernon,Vernon,Vernon,,France,49.091666666667 1.485,Q236736
+Versailles,Versailles,Versailles,,France,48.805 2.135,Q621
+Vibraye,Vibraye,Vibraye,,France,48.058888888889 0.73583333333333,Q749693
+Charlemont,fort de Charlemont,,,France,50.134831362333706 4.811826820600982,Q3078162
+SainteBaume,réserve biologique dirigée de Sainte-Baume,,,France,43.32948 5.7609,Q64846473
+ValléeDeFecamp,vallée de Fécamp,,,France,,Q23824393
+Argos,Argos,Argo,,Grèce,37.63333333333333 22.729166666666668,Q189901
+Cadmee,Cadmée,Cadmea,,Grèce,38.31944444 23.31666667,Q1276854
+Cholarge,Cholargós,Cholargos,,Grèce,38 23.8,Q1247513
+Chios,Chíos,Chio,,Grèce,38.4 26.016666666667,Q160483
+Corfou,Corfou,Corfù,,Grèce,39.6 19.87,Q121378
+Corinthe,Corinthe,Corinto,,Grèce,37.93861111111111 22.927222222222223,Q103011
+Crete,Crète,Creta,,Grèce,35.309722222222 24.893333333333,Q34374
+Delphes,Delphes,Delfi,,Grèce,38.483333333333 22.5,Q75459
+Lemnos,Lemnos,Lemno,,Grèce,39.916666666667 25.25,Q192483
+Leuctres,Leuctres,Leuttra,,Grèce,38.254444444444 23.182222222222,Q2606004
+Lindos,Lindos,Lindo,,Grèce,36.091389 28.088056,Q65122097
+Mantinee,Mantinée,Mantinea,,Grèce,37.616666666667 22.383333333333,Q1160195
+Marathon,Marathon,Maratona,,Grèce,38.155 23.963611111111,Q212150
+Milos,Milos,Milo,,Grèce,36.733333333333 24.416666666667,Q203979
+Mycenes,Mycènes,Micene,,Grèce,37.730833333333 22.756111111111,Q132564
+Paros,Páros,Paro,,Grèce,37.05 25.183333333333,Q201272
+Peloponnese ,Péloponnèse,Peloponneso,,Grèce,37.349722222222 22.352222222222,Q78967
+Samothrace,Samothrace,Samotracia,,Grèce,40.45 25.5875,Q203175
+Samos,Sámos,Samo,,Grèce,37.75 26.8333,Q156882
+Thessalie,Thessalie,Tessaglia,,Grèce,39.6 22.2,Q166919
+Thasos,Thásos,Taso,,Grèce,40.694166666667 24.661111111111,Q204096
+Thebes,Thèbes,Tebe,,Grèce,38.32388889 23.31722222,Q11225429
+Elide,district régional d'Élide,Elide,,Grèce,37.66666667 21.5,Q1063649
+Athos,mont Athos,Monte Athos,,Grèce,40.15833333333333 24.327222222222222,Q130321
+Egine,Égine,Egina,,Grèce,37.73 23.49,Q191082
+,Cambay,Khambhat,,Inde,22.313114 72.619408,Q1740527
+,Cambay,Khambhat,,Inde,22.313114 72.619408,Q1740527
+,Cambay,Khambhat,,Inde,22.313114 72.619408,Q1740527
+Cambay,Cambay,Khambhat,,Inde,22.313114 72.619408,Q1740527
+,Cambay,Khambhat,,Inde,22.313114 72.619408,Q1740527
+,Cambay,Khambhat,,Inde,22.313114 72.619408,Q1740527
+,Cambay,Khambhat,,Inde,22.313114 72.619408,Q1740527
+Ninive,Ninive,Ninive,,Irak,36.366667 43.15,Q5680
+Skerries,Skerries,Skerries,,Irlande,53.5828 -6.1083,Q2268677
+Cesaree,Césarée,Cesarea,,Israël,32.5 34.9,Q1615560
+Galilee,Galilée,Galilea,,Israël,32.76 35.527,Q83241
+Judee,Judée,Giudea,,Israël,31.698889 35.306389,Q104028
+Catane,,Katane,,Italie,37.505 15.086388888888889,Q3813280
+Adria,Adria,Adria,,Italie,45.05 12.05,Q34615
+AlexandrieItalie,Alexandrie,Alessandria,,Italie,44.913330555556 8.62,Q6088
+Ancone,Ancône,Ancona,,Italie,43.616666666667 13.516666666667,Q3415
+Apennins,Apennins,Appennini,,Italie,42.469166666666666 13.565555555555555,Q1285
+Aquilee,Aquilée,Aquileia,,Italie,45.766666666667 13.366666666667,Q53216
+Ardea,Ardea,Ardea,,Italie,41.616666666667 12.55,Q241733
+Arezzo,Arezzo,Arezzo,,Italie,43.463055555556 11.878055555556,Q13378
+Ariccia,Ariccia,Ariccia,,Italie,41.716666666667 12.666666666667,Q241744
+Arpino,Arpino,Arpino,,Italie,41.64705 13.61155,Q116440
+Assise,Assise,Assisi,,Italie,43.07 12.6175,Q20103
+BassanoDelGrappa,Bassano del Grappa,Bassano del Grappa,,Italie,45.766666666666666 11.734166666666667,Q47094
+Baies,Baïes,Baia,,Italie,40.816666666667 14.069722222222,Q290097
+Bergame,Bergame,Bergamo,,Italie,45.695 9.67,Q628
+Bologne,Bologne,Bologna,,Italie,44.493888888889 11.342777777778,Q1891
+Bolsena,Bolsena,Bolsena,,Italie,42.644722222222 11.985833333333,Q159685
+Brescia,Brescia,Brescia,,Italie,45.538888888889 10.220280555556,Q6221
+Bresso,Bresso,Bresso,,Italie,45.533333333333 9.1833333333333,Q42898
+Calabre,Calabre,Calabria,,Italie,39 16.5,Q1458
+Camerino,Camerino,Camerino,,Italie,43.133333333333 13.066666666667,Q73489
+Capitole,Capitole,Campidoglio,,Italie,41.893333333333 12.483055555556,Q34925
+Caprarola,Caprarola,Caprarola,,Italie,42.3275 12.236666666667,Q160262
+Capri,Capri,Isola di Capri,,Italie,40.55 14.233333333333,Q173292
+Caravaggio,Caravaggio,Caravaggio,,Italie,45.497777777778 9.6430555555556,Q100145
+Carpi,Carpi,Carpi,,Italie,44.783333333333 10.885,Q100041
+Carrara,Carrare,Carrara,,Italie,44.083333333333 10.1,Q13372
+CastelFranco,Castelfranco Veneto,Castelfranco Veneto,,Italie,45.666666666667 11.933333333333,Q29352
+Cento,Cento,Cento,,Italie,44.733333333333 11.283333333333,Q95094
+CittaDiCastello,Città di Castello,Città di Castello,,Italie,43.4574214 12.2403118,Q20413
+Correggio,Correggio,Correggio,,Italie,44.771666666667 10.780555555556,Q111176
+Cortone,Cortone,Cortona,,Italie,43.275555555556 11.988055555556,Q52080
+Crema,Crema,Crema,,Italie,45.366666666667 9.6833333333333,Q42793
+Crotone,Crotone,Crotone,,Italie,39.083333333333 17.116666666667,Q6681
+Cremone,Crémone,Cremona,,Italie,45.13333333333333 10.024722222222222,Q6231
+Fabriano,Fabriano,Fabriano,,Italie,43.338561111111 12.908519444444,Q13145
+Faenza,Faenza,Faenza,,Italie,44.285555555556 11.883333333333,Q52981
+Ferrare,Ferrare,Ferrara,,Italie,44.839166666666664 11.6175,Q13362
+Fiesole,Fiesole,Fiesole,,Italie,43.8 11.3,Q82670
+Frascati,Frascati,Frascati,,Italie,41.816666666667 12.683333333333,Q190963
+Frioul,Frioul,Friuli,,Italie,46.166388888889 13,Q160570
+GambassiTerme,Gambassi Terme,Gambassi Terme,,Italie,43.533333333333 10.95,Q82704
+Gaete,Gaète,Gaeta,,Italie,41.216666666667 13.566666666667,Q128089
+Grottaferrata,Grottaferrata,Grottaferrata,,Italie,41.8 12.666666666667,Q242703
+Genes,Gênes,Genova,,Italie,44.407186111111 8.9339833333333,Q1449
+Heraclee,Héraclée,Eraclea,,Italie,40.2195 16.6704,Q1568583
+Lanuvium,Lanuvio,Lanuvio,,Italie,41.683333333333 12.7,Q242793
+Lazio,Latium,Lazio,,Italie,41.9 12.716666666667,Q1282
+Livourne,Livourne,Livorno,,Italie,43.55 10.316666666667,Q6761
+Locres,Locri,Locri,,Italie,38.233333333333 16.266666666667,Q54619
+Lombardie,Lombardie,Lombardia,,Italie,45.65 9.95,Q1210
+Loreto,Lorette,Loreto,,Italie,43.4403 13.607430555556,Q124110
+Lucanie,Lucania,Lucania,,Italie,40.482608 15.956247,Q1131978
+Lucques,Lucques,Lucca,,Italie,43.85 10.516666666667,Q13373
+Maiano,Maiano,Maiano,,Italie,43.79382 11.30414,Q18487093
+Messine,Messine,Messina,,Italie,38.19361111111111 15.554166666666667,Q13666
+Mondovi,Mondovi,Mondovì,,Italie,44.383333333333 7.8166666666667,Q20188
+MonteCavallo,Monte Cavallo,Monte Cavallo,,Italie,42.992919444444 13.001069444444,Q83070
+Monferrato,Montferrat,Monferrato,,Italie,44.608611111111 7.9636111111111,Q19868
+Monza,Monza,Monza,,Italie,45.58361111111111 9.27361111111111,Q6252
+Metaponte,Métaponte,Metaponto,,Italie,40.416077777778 16.816763888889,Q1058770
+Novare,Novare,Novara,,Italie,45.45 8.62,Q6046
+Orvieto,Orvieto,Orvieto,,Italie,42.716666666667 12.1,Q541
+Ostie,Ostie,Ostia,,Italie,41.75416666666667 12.2875,Q1012797
+Padoue,Padoue,Padova,,Italie,45.40777777777778 11.873333333333333,Q617
+Palerme,Palerme,Palermo,,Italie,38.115658055555556 13.361261944444445,Q2656
+Preneste,Palestrina,Palestrina,,Italie,41.833333333333 12.9,Q243133
+Parme,Parme,Parma,,Italie,44.801472222222 10.328,Q2683
+Passignano,Passignano sul Trasimeno,Passignano sul Trasimeno,,Italie,43.183333333333 12.133333333333,Q20504
+Pesaro,Pesaro,Pesaro,,Italie,43.91015 12.9133,Q13134
+Cadore,Pieve di Cadore,Pieve di Cadore,,Italie,46.428709 12.375297,Q41065
+Pise,Pise,Pisa,,Italie,43.716666666667 10.4,Q13375
+Pistoia,Pistoia,Pistoia,,Italie,43.933333333333 10.916666666667,Q13376
+Piemont,Piémont,Piemonte,,Italie,45.25 7.9166666666667,Q1216
+Plaisance,Plaisance,Piacenza,,Italie,45.05 9.7,Q13329
+Pomarance,Pomarance,Pomarance,,Italie,43.299722222222 10.873611111111,Q103201
+PordenoneVille,Pordenone,Pordenone,,Italie,45.9626 12.6563,Q6606
+PortoErcole,Porto Ercole,Porto Ercole,,Italie,42.393888888889 11.203611111111,Q1394400
+Portovenere,Porto Venere,Portovenere,,Italie,44.05 9.833333,Q188315
+Pouzzoles,Pouzzoles,Pozzuoli,,Italie,40.823055555556 14.122222222222,Q72425
+Perugia,Pérouse,Perugia,,Italie,43.1121 12.3888,Q3437
+Ravenna,Ravenne,Ravenna,,Italie,44.416111111111114 12.201666666666666,Q13364
+Rimini,Rimini,Rimini,,Italie,44.059444444444 12.568333333333,Q13369
+Ripatransone,Ripatransone,Ripatransone,,Italie,43.000216666667 13.762491666667,Q56086
+Romagne,Romagne,Romagna,,Italie,44.1774 12.12479,Q244482
+Sansepolcro,Sansepolcro,Sansepolcro,,Italie,43.575555555556 12.143888888889,Q52098
+SantAngeloInVado,Sant'Angelo in Vado,Sant'Angelo in Vado,,Italie,43.664719444444 12.413,Q493800
+Sermoneta,Sermoneta,Sermoneta,,Italie,41.55 12.983333333333,Q128202
+Settignano,Settignano,Settignano,,Italie,43.78288888888889 11.322027777777778,Q942605
+Sicile,Sicile,Sicilia,,Italie,37.599958333333 14.015377777778,Q1460
+Sienne,Sienne,Siena,,Italie,43.318333333333 11.331388888889,Q2751
+Spoleto,Spolète,Spoleto,,Italie,42.733333333333 12.733333333333,Q20571
+Syracuse,Syracuse,Siracusa,,Italie,37.069166666667 15.2875,Q13670
+Selinonte,Sélinonte,Selinunte,,Italie,37.583611 12.824722,Q952173
+Tarente,Tarente,Taranto,,Italie,40.471111111111114 17.243055555555557,Q13498
+Tivoli,Tivoli,Tivoli,,Italie,41.966666666667 12.8,Q159605
+Toscane,Toscane,Toscana,,Italie,43.35 11.016666666667,Q1273
+Trevise,Trévise,Treviso,,Italie,45.672219444444 12.242219444444,Q5475
+Udine,Udine,Udine,,Italie,46.066666666667 13.233333333333,Q2790
+Urbania,Urbania,Urbania,,Italie,43.667773055556 12.522088055556,Q190134
+Urbino,Urbania,Urbania,,Italie,43.667773055556 12.522088055556,Q190134
+Valdarno,Valdarno,Valdarno,,Italie,43.566666666667 11.533333333333,Q538820
+Valduggia,Valduggia,Valduggia,,Italie,45.733333333333 8.3333333333333,Q25215
+Vallombrosa,Vallombrosa,Vallombrosa,,Italie,43.73294 11.55645,Q4008256
+Valsolda,Valsolda,Valsolda,,Italie,46.033333333333 9.05,Q47338
+Varallo,Varallo Sesia,Varallo,,Italie,45.81383 8.25814,Q25216
+Venise,Venise,Venezia,,Italie,45.439722222222 12.331944444444,Q641
+Vercelli,Verceil,Vercelli,,Italie,45.32555555555555 8.423055555555555,Q5990
+Vicence,Vicence,Vicenza,,Italie,45.55 11.55,Q6537
+Vinci,Vinci,Vinci,,Italie,43.783333 10.916667,Q82884
+Volterra,Volterra,Volterra,,Italie,43.4 10.866666666667,Q103305
+Verone,Vérone,Verona,,Italie,45.43861111111111 10.992777777777778,Q2028
+Tyr,Tyr,Tiro,,Liban,33.266666666667 35.2,Q82070
+Tripoli,Tripoli,Tripoli,,Libye,32.87519 13.18746,Q3579
+Mexique,Royaume du Mexique,Regno del Messico,,Mexique,19.4194 -99.1456,Q30751596
+Alkmaar,Alkmaar,Alkmaar,,Pays-Bas,52.6289 4.74403,Q972
+Arnhem,Arnhem,Arnhem,,Pays-Bas,51.983333333333 5.9166666666667,Q1310
+BoisLeDuc,Bois-le-Duc,'s-Hertogenbosch,,Pays-Bas,51.7 5.3166666666667,Q2766547
+Breda,Bréda,Breda,,Pays-Bas,51.58888888888889 4.775833333333333,Q40844
+Delft,Delft,Delft,,Pays-Bas,52.01166666666666 4.359166666666667,Q690
+Deventer,Deventer,Deventer,,Pays-Bas,52.25 6.2,Q10001
+Dordrecht,Dordrecht,Dordrecht,,Pays-Bas,51.795833333333334 4.678333333333334,Q26421
+Flessingue,Flessingue,Flessinga,,Pays-Bas,51.45 3.5833333333333,Q10084
+Gorinchem,Gorinchem,Gorinchem,,Pays-Bas,51.830555555555556 4.974166666666667,Q244327
+Gouda,Gouda,Gouda,,Pays-Bas,52.018055555555556 4.705555555555556,Q84125
+Gueldre,Gueldre,Gheldria,,Pays-Bas,52.0833 5.9167,Q775
+Haarlem,Haarlem,Haarlem,,Pays-Bas,52.380277777778 4.6405555555556,Q9920
+Heemskerk,Heemskerk,Heemskerk,,Pays-Bas,52.51083333333333 4.672777777777778,Q9926
+Leyde,Leyde,Leida,,Pays-Bas,52.16 4.49,Q43631
+Schoorl,Schoorl,Schoorl,,Pays-Bas,52.7014 4.6944,Q1002717
+Steenwijk,Steenwijk,Steenwijk,,Pays-Bas,52.783333333333 6.1166666666667,Q81175
+Utrecht,Utrecht,Utrecht,,Pays-Bas,52.090833333333336 5.121666666666667,Q803
+Venloo,Venlo,Venlo,,Pays-Bas,51.366666666667 6.1666666666667,Q9777
+Windsor,Windsor,Windsor,,Royaume-Uni,51.483333333333 -0.6,Q464955
+Westphalie,Cercle du Bas-Rhin-Westphalie,Provincia del Basso Reno-Vestfalia,,Saint-Empire romain germanique,,Q708742
+NeubourgDuche,duché du Palatinat-Neubourg,Palatinato-Neuburg,,Saint-Empire romain germanique,48.733333333333334 11.183333333333334,Q675127
+Basel,Bâle,Basilea,,Suisse,47.560555555556 7.5905555555556,Q78
+Lugano,Lugano,Lugano,,Suisse,46.010277777778 8.9625,Q7024
+Schaffhouse,Schaffhouse,Sciaffusa,,Suisse,47.69653 8.63386,Q9009
+ValleDiBlenio,Valle di Blenio,Valle di Blenio,,Suisse,46.427563888889 8.9698222222222,Q353001
+Damas,Damas,Damasco,,Syrie,33.513055555556 36.291944444444,Q3766
+Birsa,Byrsa,Byrsa,,Tunisie,36.85222222 10.32388889,Q1018648
+Tunis,Tunis,Tunisi,,Tunisie,36.800833333333 10.18,Q3572
+Alabanda,Alabanda,Alabanda,,Turquie,37.591796 27.985429,Q778224
+Ancyre,Ancyre,Ancira,,Turquie,39.95 32.863,Q107585355
+Antioche,Antioche,Antiochia di Siria,,Turquie,36.20472222222222 36.181666666666665,Q200441
+Byzance,Byzance,Bisanzio,,Turquie,41.013416666666664 28.98363888888889,Q23725
+Cappadoce,Cappadoce,Cappadocia,,Turquie,38.670556 34.839167,Q217265
+Carie,Carie,Caria,,Turquie,37.5 28,Q193214
+Cnide,Cnide,Cnido,,Turquie,36.685833 27.375,Q690575
+Pessinonte,Pessinonte,Pessinunte,,Turquie,39.3317 31.5809,Q728353
+Troie,Troie,Troia,,Turquie,39.9575 26.238888888889,Q22647
+Ephese,Éphèse,Efeso,,Turquie,37.939722 27.348611,Q47611
+Pavie,Pavie,Pavia,,duché de Milan,45.185280555556 9.155,Q6259
+Mantoue,Mantoue,Mantova,,royaume d'Italie,45.156388888889 10.791111111111,Q6247
+Candie,Duché de Candie,Ducato di Candia,,république de Venise,35.3167 25.1333,Q2288441
+Memphis,Memphis,Menfi,,Égypte,29.85412 31.25934,Q5715
+ThebesEgypte,Thèbes,Tebe,,Égypte,25.720555555556 32.610277777778,Q101583
+Thebaide,Thébaïde,Tebaide,,Égypte antique,23.936209 32.954304,Q768515
+Libye,Libye,Libia,Afrique,Libye,27 17,Q1016
+Mauritanie,Mauritanie,Mauritania,Afrique,Mauritanie,21 -11,Q1025
+Nil,Nil,Nilo,Afrique,Soudan,15.640138888888888 32.5055,Q3392
+Carthage,Carthage,Cartagine,Afrique,Tunisie,36.852558 10.323461,Q6343
+Alexandrie,Alexandrie,Alessandria d'Egitto,Afrique,Égypte,31.1975 29.8925,Q87
+Egypte,Égypte,Egitto,Afrique,Égypte,27 29,Q79
+Indes,Caraïbes,Caraibi,Amérique centrale,,15 -73,Q664609
+Terranova,Terre-Neuve,Terranova,Amérique du Nord,Canada,48.5416666 -56.1249997,Q48335
+Perou,Pérou,Perù,Amérique du Sud,Pérou,-9.4 -76,Q419
+Assyrie,Assyrie,Assiria,Asie,,36 43.3,Q41137
+Chine,Chine,Cina,Asie,,35 105,Q29520
+Perse,Empire perse,Impero persiano,Asie,,33 53,Q83311
+Armenie,Arménie,Armenia,Asie,Arménie,40.383333 44.95,Q399
+Babylone,Babylone,Babilonia,Asie,Babylonie,32.5425 44.42111111111111,Q5684
+Chypre,Chypre,Cipro,Asie,Chypre,35 33,Q229
+Israel,Israël,Israele,Asie,Israël,31 35,Q801
+SriLanka,Sri Lanka,Sri Lanka,Asie,Sri Lanka,7 81,Q854
+Syrie,Syrie,Siria,Asie,Syrie,35.216667 38.583333,Q858
+Jerusalem,Jérusalem,Gerusalemme,Asie,royaume de Juda,31.77888888888889 35.22555555555556,Q1218
+Rhodes,Rhodes,Rodi,Eurasie,Grèce,36.17 27.92,Q43048
+Colchide,Colchide,Colchide,Europe,,42.26666667 42,Q183150
+Belgique,Pays-Bas méridionaux,Paesi Bassi meridionali,Europe,,50.5 4.67,Q6581823
+Baviere,duché de Bavière,Ducato di Baviera,Europe,,,Q47261
+Alpes,Alpes,Alpi,Europe,Allemagne,46.57805555555556 8.615,Q1286
+Munich,Munich,Monaco di Baviera,Europe,Allemagne,48.1375 11.575,Q1726
+Athenes,Athènes,Atene,Europe,Athènes,37.97222222222222 23.72222222222222,Q844930
+Vienne,Vienne,Vienna,Europe,Autriche,48.208333333333336 16.3725,Q1741
+Bruxelles,Bruxelles,Bruxelles,Europe,Belgique,50.846666666666664 4.351666666666667,Q239
+Constantinople,Constantinople,Costantinopoli,Europe,Empire byzantin,41.0125 28.98,Q16869
+PaysBas,Pays-Bas espagnols,Paesi Bassi spagnoli,Europe,Empire espagnol,,Q622783
+EmpireOrient,Empire byzantin,Impero bizantino,Europe,Empire romain,,Q12544
+Londres,Londres,Londra,Europe,Empire romain,51.507222222222 -0.1275,Q84
+Cadix,Cadix,Cadice,Europe,Espagne,36.535 -6.2975,Q15682
+Madrid,Madrid,Madrid,Europe,Espagne,40.41694444444445 -3.703333333333333,Q2807
+Valence,Valence,Valencia,Europe,Espagne,39.47 -0.3763888888888889,Q8818
+Espagne,monarchie catholique espagnole,Regno di Spagna,Europe,Espagne,40.2 -3.5,Q766543
+Albigeois,Albigeois,Albigeois,Europe,France,43.92805555555555 2.1458333333333335,Q2831878
+France,France,Francia,Europe,France,47 2,Q142
+Lyon,Lyon,Lione,Europe,France,45.758888888889 4.8413888888889,Q456
+Meuse,Meuse,Mosa,Europe,France,51.866389 4.018889,Q41986
+Paris,Paris,Parigi,Europe,France,48.85666666666667 2.352222222222222,Q90
+Toulouse,Toulouse,Tolosa,Europe,France,43.60444444444445 1.4433333333333334,Q7880
+Grece,Grèce,Grecia,Europe,Grèce,38.5 23,Q41
+Platees,Platées,Platea,Europe,Grèce,38.22136 23.27388,Q742538
+Sicyone,Sicyone,Sicione,Europe,Grèce,37.984104 22.711145,Q368628
+Hongrie,Hongrie,Ungheria,Europe,Hongrie,47 19,Q28
+Come,Côme,Como,Europe,Italie,45.81025 9.0861388888889,Q1308
+Italie,Italie,Italia,Europe,Italie,42.5 12.5,Q38
+Milan,Milan,Milano,Europe,Italie,45.466944444444 9.19,Q490
+Modene,Modène,Modena,Europe,Italie,44.64582 10.92572,Q279
+Naples,Naples,Napoli,Europe,Italie,40.83583333333333 14.248611111111112,Q2634
+Rome,Rome,Roma,Europe,Italie,41.893055555556 12.482777777778,Q220
+Torino,Turin,Torino,Europe,Italie,45.079166666666666 7.676111111111111,Q495
+Malte,Malte,Malta,Europe,Malte,35.88333333333333 14.5,Q233
+Monaco,Monaco,Monaco,Europe,Monaco,43.73111111111111 7.42,Q235
+Autriche,Monarchie de Habsbourg,Monarchia asburgica,Europe,Monarchie de Habsbourg,48.2 16.36666667,Q153136
+Amsterdam,Amsterdam,Amsterdam,Europe,Pays-Bas,52.36666666666667 4.883333333333333,Q727
+Hollande,Hollande,Olanda,Europe,Pays-Bas,52.25 4.667,Q102911
+LaHaye,La Haye,L'Aia,Europe,Pays-Bas,52.08 4.31,Q36600
+Zelande,Zélande,Zelanda,Europe,Pays-Bas,51.566666666667 3.75,Q705
+Pologne,Pologne,Polonia,Europe,Pologne,52 19,Q36
+Lisbonne,Lisbonne,Lisbona,Europe,Portugal,38.708042 -9.139016,Q597
+Danemark,Danemark,Danimarca,Europe,Royaume du Danemark,56 10,Q35
+Angleterre,Angleterre,Inghilterra,Europe,Royaume-Uni,53 -1,Q21
+Ecosse,Écosse,Scozia,Europe,Royaume-Uni,57 -5,Q22
+Francfort,Francfort-sur-le-Main,Francoforte sul Meno,Europe,Saint-Empire romain germanique,50.11055555555556 8.682222222222222,Q1794
+Allemagne,Saint-Empire romain germanique,Sacro Romano Impero,Europe,Saint-Empire romain germanique,50.091352242113764 14.422158410216143,Q12548
+Brabant,duché de Brabant,Ducato di Brabante,Europe,Saint-Empire romain germanique,50.8 4.3,Q159856
+Berne,Berne,Berna,Europe,Suisse,46.94798 7.44743,Q70
+Rhin,Rhin,Reno,Europe,Suisse,51.980833333333 4.0930555555556,Q584
+Suede,Suède,Svezia,Europe,Suède,61 15,Q34
+Prague,Prague,Praga,Europe,Tchéquie,50.0875 14.421388888888888,Q1085
+Vatican,Vatican,Città del Vaticano,Europe,Vatican,41.904 12.453,Q237
+Navarre,Royaume de Navarre (Haute-Navarre),Regno di Navarra (1512-1841),Europe,couronne de Castille,,Q111628725
+Berlin,Berlin,Berlino,Europe,marche de Brandebourg,52.516666666667 13.383333333333,Q64
+Florence,Florence,Firenze,Europe,royaume d'Italie,43.771388888889 11.254166666667,Q2044
+Flandres,comté de Flandre,Contea delle Fiandre,Europe,royaume de France,51.06 3.72,Q157070
+Macedoine,royaume de Macédoine,Regno di Macedonia,Europe,royaume de Macédoine,,Q83958
+Portugal,royaume de Portugal,Regno del Portogallo,Europe,royaume de Portugal,38.7 -9.18333333,Q45670
