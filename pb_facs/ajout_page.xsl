@@ -4,7 +4,7 @@
     <xsl:output method="xml" indent="yes" omit-xml-declaration="no"/>
 
     <!-- paramètre pour le point de départ -->
-    <xsl:param name="start" select="5"/>
+    <xsl:param name="start" select="1"/>
 
     <!-- Template identité par défaut -->
     <xsl:template match="@* | node()">
@@ -40,8 +40,23 @@
         </xsl:copy>
     </xsl:template>
     -->
+    <!--
+    Template pour les pb-->
+    <xsl:template match="tei:body//tei:pb">
+        <xsl:copy>          
+            <xsl:apply-templates select="@*"/>
+            <xsl:variable name="num">
+                <xsl:number level="any" count="tei:body//tei:pb"/>
+            </xsl:variable>
+            <xsl:attribute name="n">
+                <xsl:value-of select="$start + $num - 1"/>
+            </xsl:attribute>
+            <xsl:apply-templates select="node()"/>
+        </xsl:copy>
+    </xsl:template>
     
-    <xsl:template match="tei:text//tei:pb">
+    
+    <!--<xsl:template match="tei:text//tei:pb">
         <xsl:copy>
             <xsl:variable name="LienINHA">
                 <xsl:text>https://bibliotheque-numerique.inha.fr/idviewer/11862/</xsl:text>
@@ -56,6 +71,6 @@
             <xsl:apply-templates select="node()"/>
         </xsl:copy>
         
-    </xsl:template>
+    </xsl:template>-->
     
 </xsl:stylesheet>
