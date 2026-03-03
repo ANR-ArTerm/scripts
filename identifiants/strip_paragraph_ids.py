@@ -3,10 +3,10 @@
 """
 Supprimer les attributs xml:id des éléments <tei:p> dans le corpus
 Usage:
-  python strip_paragraph_ids.py [--dry-run] [--corpus PATH]
+  python strip_paragraph_ids.py --dry-run [--corpus PATH]
 
 Par défaut, parcourt les sous-dossiers Architecture, Peinture, Perspective
-du dossier '../../corpus-ArTerm'. Exclut explicitement
+du dossier '../../corpus'. Exclut explicitement
 'Martin_ArchitectureSerlio.xml' dans 'Architecture'.
 """
 from pathlib import Path
@@ -50,7 +50,7 @@ def process_file(path: Path, dry_run=True):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--dry-run', action='store_true', help='Ne pas écrire, afficher seulement')
-    parser.add_argument('--corpus', default='../../corpus-ArTerm', help='Chemin vers corpus-ArTerm')
+    parser.add_argument('--corpus', default='../../corpus', help='Chemin vers corpus-ArTerm')
     args = parser.parse_args()
 
     corpus = Path(args.corpus)

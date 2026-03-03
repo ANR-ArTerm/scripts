@@ -77,12 +77,12 @@ def apply_xslt_to_file(xml_file, xslt_file, dry_run=False):
         print(f"   ✓ {len(paragraphs_with_id)} paragraphe(s) avec xml:id")
         
         # Afficher quelques exemples
-        for i, p in enumerate(paragraphs_with_id[:3]):
+        for i, p in enumerate(paragraphs_with_id[:10]):
             xml_id = p.get('{http://www.w3.org/XML/1998/namespace}id')
             print(f"   ✓ xml:id=\"{xml_id}\"")
         
-        if len(paragraphs_with_id) > 3:
-            print(f"   ... et {len(paragraphs_with_id) - 3} autres")
+        if len(paragraphs_with_id) > 10:
+            print(f"   ... et {len(paragraphs_with_id) - 10} autres")
         
         if not dry_run:
             # Sauvegarder le résultat
@@ -135,27 +135,37 @@ def process_corpus(corpus_path='../../corpus', xslt_file='add_xml_ids.xsl', dry_
     total_files = 0
     total_success = 0
     
+    # définir des exceptions nommées (relatif au sous-dossier)
+    exclusions = {
+        'Architecture': ['Martin_ArchitectureSerlio.xml'],
+        # on pourra étendre la liste si besoin
+    }
+
     for subdir in subdirs:
         subdir_path = corpus_dir / subdir
-        
+
         if not subdir_path.exists():
             print(f"\n⚠️  Le sous-dossier '{subdir}' n'existe pas")
             continue
-        
+
         print(f"\n{'=' * 60}")
         print(f"📁 Traitement du dossier: {subdir}")
         print(f"{'=' * 60}")
-        
+
         # Trouver tous les fichiers XML
         xml_files = list(subdir_path.glob('*.xml'))
-        
+
         if not xml_files:
             print(f"   Aucun fichier XML trouvé")
             continue
-        
+
         print(f"   {len(xml_files)} fichier(s) XML trouvé(s)")
-        
+
         for xml_file in sorted(xml_files):
+            # vérifier exclusion
+            if subdir in exclusions and xml_file.name in exclusions[subdir]:
+                print(f"   ⏭️  Ignoré (exception): {xml_file.name}")
+                continue
             total_files += 1
             if apply_xslt_to_file(xml_file, xslt_path, dry_run):
                 total_success += 1
