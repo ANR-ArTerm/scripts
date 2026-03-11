@@ -1,0 +1,3082 @@
+[
+  {
+    "xml_id": "HansVonAachen",
+    "birth_place": "Köln"
+  },
+  {
+    "xml_id": "NicoloDellAbbate",
+    "birth_place": "Modena"
+  },
+  {
+    "xml_id": "DonatoAcciaiuoli",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "PierreAffre",
+    "birth_place": "Béziers"
+  },
+  {
+    "xml_id": "Agucchi",
+    "birth_place": "Bologne"
+  },
+  {
+    "xml_id": "Albane",
+    "birth_place": "Bologna"
+  },
+  {
+    "xml_id": "CherubinoAlberti",
+    "birth_place": "Sansepolcro"
+  },
+  {
+    "xml_id": "AlbertiDurante",
+    "birth_place": "Sansepolcro"
+  },
+  {
+    "xml_id": "GiovanniAlberti",
+    "birth_place": "Sansepolcro"
+  },
+  {
+    "xml_id": "LeonBattistaAlberti",
+    "birth_place": "Genova"
+  },
+  {
+    "xml_id": "MariottoAlbertinelli",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "HeinrichAldegrever",
+    "birth_place": "Paderborn"
+  },
+  {
+    "xml_id": "AlessandroAlgardi",
+    "birth_place": "Bologna"
+  },
+  {
+    "xml_id": "Dante",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "Correge",
+    "birth_place": "Correggio"
+  },
+  {
+    "xml_id": "Ingegno",
+    "birth_place": "Assise"
+  },
+  {
+    "xml_id": "ChristophAmberger",
+    "birth_place": "Kaufbeuren"
+  },
+  {
+    "xml_id": "AngePolitien",
+    "birth_place": "Montepulciano"
+  },
+  {
+    "xml_id": "JostAmman",
+    "birth_place": "Zürich"
+  },
+  {
+    "xml_id": "BartolomeoAmmannati",
+    "birth_place": "Settignano"
+  },
+  {
+    "xml_id": "LippoAndrea",
+    "birth_place": "Florence"
+  },
+  {
+    "xml_id": "JacquesAndrouetDuCerceau",
+    "birth_place": "Paris"
+  },
+  {
+    "xml_id": "FraAngelico",
+    "birth_place": "Vicchio"
+  },
+  {
+    "xml_id": "JacquesAngouleme",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "EuropaAnguissola",
+    "birth_place": "Crémone"
+  },
+  {
+    "xml_id": "LuciaAnguissola",
+    "birth_place": "Cremona"
+  },
+  {
+    "xml_id": "SofonisbaAnguissola",
+    "birth_place": "Cremona"
+  },
+  {
+    "xml_id": "MichelangeloAnselmi",
+    "birth_place": "Toscana"
+  },
+  {
+    "xml_id": "GiuseppeArchimboldo",
+    "birth_place": "Milano"
+  },
+  {
+    "xml_id": "PietroAretino",
+    "birth_place": "Arezzo"
+  },
+  {
+    "xml_id": "SpinelloAretino",
+    "birth_place": "Arezzo"
+  },
+  {
+    "xml_id": "PellegrinoAretusi",
+    "birth_place": "Modène"
+  },
+  {
+    "xml_id": "MargaritoArezzo",
+    "birth_place": "Arezzo"
+  },
+  {
+    "xml_id": "LudovicoAriosto",
+    "birth_place": "Reggio nell'Emilia"
+  },
+  {
+    "xml_id": "GiovanniBattistiArmenini",
+    "birth_place": "Faenza"
+  },
+  {
+    "xml_id": "Guariento",
+    "birth_place": "Piove di Sacco"
+  },
+  {
+    "xml_id": "TizianoAspetti",
+    "birth_place": "Padova"
+  },
+  {
+    "xml_id": "JacopoAvanzi",
+    "birth_place": "Bologne"
+  },
+  {
+    "xml_id": "BacciDiBelforte",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "DominiqueBachelier",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "NicolasBachelier",
+    "birth_place": "Arras"
+  },
+  {
+    "xml_id": "SistoBadalocchio",
+    "birth_place": "Parma"
+  },
+  {
+    "xml_id": "AntonioBadile",
+    "birth_place": "Verona"
+  },
+  {
+    "xml_id": "GiovanniBaglione",
+    "birth_place": "Roma"
+  },
+  {
+    "xml_id": "BaccioBaldini",
+    "birth_place": "Florence"
+  },
+  {
+    "xml_id": "AlessoBaldovinetti",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "BaccioBandinelli",
+    "birth_place": "Gaiole in Chianti"
+  },
+  {
+    "xml_id": "GiovanniBandini",
+    "birth_place": "Florence"
+  },
+  {
+    "xml_id": "DanieleBarbaro",
+    "birth_place": "Venezia"
+  },
+  {
+    "xml_id": "DomenicoDelBarbiere",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "Guerchin",
+    "birth_place": "Cento"
+  },
+  {
+    "xml_id": "DirckBarendsz",
+    "birth_place": "Amsterdam"
+  },
+  {
+    "xml_id": "GiovanniBarile",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "TommasoBarlacchi",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "JacopoBarozziDaVignola",
+    "birth_place": "Vignola"
+  },
+  {
+    "xml_id": "CosimoBartoli",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "TaddeoDiBartolo",
+    "birth_place": "Sienne"
+  },
+  {
+    "xml_id": "FraBartolomeo",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "DomenicoVeneziano",
+    "birth_place": "Venise"
+  },
+  {
+    "xml_id": "MarcoBasaiti",
+    "birth_place": "Venise"
+  },
+  {
+    "xml_id": "Bassano",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "FrancescoBassanoIlVecchio",
+    "birth_place": "Vicenza"
+  },
+  {
+    "xml_id": "FrancescoBassano",
+    "birth_place": "Bassano del Grappa"
+  },
+  {
+    "xml_id": "GerolamoBassano",
+    "birth_place": "Bassano del Grappa"
+  },
+  {
+    "xml_id": "GiovanniBattistaBassano",
+    "birth_place": "Bassano del Grappa"
+  },
+  {
+    "xml_id": "JacopoBassano",
+    "birth_place": "Bassano del Grappa"
+  },
+  {
+    "xml_id": "LeandroBassano",
+    "birth_place": "Bassano del Grappa"
+  },
+  {
+    "xml_id": "MartinoBassi",
+    "birth_place": "Seregno"
+  },
+  {
+    "xml_id": "JeromeBaullery",
+    "birth_place": "Paris"
+  },
+  {
+    "xml_id": "JohannWilhelmBaur",
+    "birth_place": "Strasbourg"
+  },
+  {
+    "xml_id": "Sodoma",
+    "birth_place": "Vercelli"
+  },
+  {
+    "xml_id": "CharlesBeaubrun",
+    "birth_place": "Amboise"
+  },
+  {
+    "xml_id": "HenriBeaubrun",
+    "birth_place": "Amboise"
+  },
+  {
+    "xml_id": "LouisBeaubrun",
+    "birth_place": "Amboise"
+  },
+  {
+    "xml_id": "DomenicoBeccafumi",
+    "birth_place": "Castelnuovo Berardenga"
+  },
+  {
+    "xml_id": "FrancoisBelin",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "JacquesBellange",
+    "birth_place": "Bassigny"
+  },
+  {
+    "xml_id": "BartolomeoBellano",
+    "birth_place": "Padova"
+  },
+  {
+    "xml_id": "JehanBellegambe",
+    "birth_place": "Douai"
+  },
+  {
+    "xml_id": "Bellini",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "GentileBellini",
+    "birth_place": "Venise"
+  },
+  {
+    "xml_id": "GiovanniBellini",
+    "birth_place": "Venezia"
+  },
+  {
+    "xml_id": "JacopoBellini",
+    "birth_place": "Venezia"
+  },
+  {
+    "xml_id": "VittoreBelliniano",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "GiovanniPietroBellori",
+    "birth_place": "Roma"
+  },
+  {
+    "xml_id": "PietroBembo",
+    "birth_place": "Venezia"
+  },
+  {
+    "xml_id": "Bernin",
+    "birth_place": "Napoli"
+  },
+  {
+    "xml_id": "GiovanBattistaBertani",
+    "birth_place": "Mantova"
+  },
+  {
+    "xml_id": "JacopoBertoia",
+    "birth_place": "Parma"
+  },
+  {
+    "xml_id": "LorenzoDiBicci",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "Franciabigio",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "JacquesBlanchard",
+    "birth_place": "Paris"
+  },
+  {
+    "xml_id": "AbrahamBloemaert",
+    "birth_place": "Gorinchem"
+  },
+  {
+    "xml_id": "CornelisIIBloemaert",
+    "birth_place": "Utrecht"
+  },
+  {
+    "xml_id": "Bloemaert",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "LancelotBlondeel",
+    "birth_place": "Poperinge"
+  },
+  {
+    "xml_id": "FrancoisBlondel",
+    "birth_place": "Ribemont"
+  },
+  {
+    "xml_id": "BoccaccioBoccaccino",
+    "birth_place": "Ferrara"
+  },
+  {
+    "xml_id": "CamilloBoccaccino",
+    "birth_place": "Crémone"
+  },
+  {
+    "xml_id": "FerdinandBol",
+    "birth_place": "Dordrecht"
+  },
+  {
+    "xml_id": "HansBol",
+    "birth_place": "Mechelen"
+  },
+  {
+    "xml_id": "NicolasBollery",
+    "birth_place": "Paris"
+  },
+  {
+    "xml_id": "VitaleDaBologna",
+    "birth_place": "Bologne"
+  },
+  {
+    "xml_id": "Giambologna",
+    "birth_place": "Douai"
+  },
+  {
+    "xml_id": "SchelteBolswert",
+    "birth_place": "Bolsward"
+  },
+  {
+    "xml_id": "GiovanniAntonioBoltraffio",
+    "birth_place": "Milan"
+  },
+  {
+    "xml_id": "GiulioBonasone",
+    "birth_place": "Bologna"
+  },
+  {
+    "xml_id": "GianpaoloBonconti",
+    "birth_place": "Bologna"
+  },
+  {
+    "xml_id": "FrancescoBonsignori",
+    "birth_place": "Verona"
+  },
+  {
+    "xml_id": "AlessandroBonvicino",
+    "birth_place": "Rovato"
+  },
+  {
+    "xml_id": "ParisBordone",
+    "birth_place": "Treviso"
+  },
+  {
+    "xml_id": "HieronimusBosch",
+    "birth_place": "Bois-le-Duc"
+  },
+  {
+    "xml_id": "FrancescoBoschi",
+    "birth_place": "Florence"
+  },
+  {
+    "xml_id": "AndreaBoscoli",
+    "birth_place": "Florence"
+  },
+  {
+    "xml_id": "AbrahamBosse",
+    "birth_place": "Tours"
+  },
+  {
+    "xml_id": "AndriesBoth",
+    "birth_place": "Utrecht"
+  },
+  {
+    "xml_id": "JanBoth",
+    "birth_place": "Utrecht"
+  },
+  {
+    "xml_id": "SandroBotticelli",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "PierreBoucle",
+    "birth_place": "Anvers"
+  },
+  {
+    "xml_id": "HennequinDeBruges",
+    "birth_place": "Brugge"
+  },
+  {
+    "xml_id": "Valentin",
+    "birth_place": "Coulommiers"
+  },
+  {
+    "xml_id": "SebastienBourdon",
+    "birth_place": "Montpellier"
+  },
+  {
+    "xml_id": "ClaudineBouzonnetStella",
+    "birth_place": "Lyon"
+  },
+  {
+    "xml_id": "ReneBoyvin",
+    "birth_place": "Angers"
+  },
+  {
+    "xml_id": "FrancescoBrambillaIlGiovane",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "FriedrichIBrentel",
+    "birth_place": "Lauingen"
+  },
+  {
+    "xml_id": "PaulBril",
+    "birth_place": "Antwerpen"
+  },
+  {
+    "xml_id": "AgnoloBronzino",
+    "birth_place": "Monticelli"
+  },
+  {
+    "xml_id": "SalomonDeBrosse",
+    "birth_place": "Verneuil-en-Halatte"
+  },
+  {
+    "xml_id": "AdriaenBrouwer",
+    "birth_place": "Oudenaarde"
+  },
+  {
+    "xml_id": "LiberalBruand",
+    "birth_place": "Paris"
+  },
+  {
+    "xml_id": "JanBrueghel",
+    "birth_place": "Bruxelles"
+  },
+  {
+    "xml_id": "PieterBrueghelDeOude",
+    "birth_place": "Breda"
+  },
+  {
+    "xml_id": "Brunelleschi",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "DomenicoBrusasorzi",
+    "birth_place": "Verona"
+  },
+  {
+    "xml_id": "BuonamicoBuffalmacco",
+    "birth_place": "Florence"
+  },
+  {
+    "xml_id": "GiulianoBugiardini",
+    "birth_place": "Florence"
+  },
+  {
+    "xml_id": "JeanBullant",
+    "birth_place": "Amiens"
+  },
+  {
+    "xml_id": "FrancoisBunel",
+    "birth_place": "Blois"
+  },
+  {
+    "xml_id": "JacobBunel",
+    "birth_place": "Paris"
+  },
+  {
+    "xml_id": "PietroBuonaccorsi",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "MichelAnge",
+    "birth_place": "Caprese Michelangelo"
+  },
+  {
+    "xml_id": "GiovanniBuonconsiglio",
+    "birth_place": "Montecchio Maggiore"
+  },
+  {
+    "xml_id": "Duccio",
+    "birth_place": "Siena"
+  },
+  {
+    "xml_id": "Buschetto",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "AgostinoBusti",
+    "birth_place": "Busto Arsizio"
+  },
+  {
+    "xml_id": "BernardinoButinone",
+    "birth_place": "Treviglio"
+  },
+  {
+    "xml_id": "NicolasBeatrizet",
+    "birth_place": "Thionville"
+  },
+  {
+    "xml_id": "JanStevenVanCalcar",
+    "birth_place": "Kalkar"
+  },
+  {
+    "xml_id": "BenedettoCaliari",
+    "birth_place": "Vérone"
+  },
+  {
+    "xml_id": "CarloCaliari",
+    "birth_place": "Venezia"
+  },
+  {
+    "xml_id": "GabrieleCaliari",
+    "birth_place": "Venezia"
+  },
+  {
+    "xml_id": "JacquesCallot",
+    "birth_place": "Nancy"
+  },
+  {
+    "xml_id": "DenysCalvaert",
+    "birth_place": "Antwerpen"
+  },
+  {
+    "xml_id": "LazzaroCalvi",
+    "birth_place": "Gênes"
+  },
+  {
+    "xml_id": "AndreaCamassei",
+    "birth_place": "Bevagna"
+  },
+  {
+    "xml_id": "LucaCambiaso",
+    "birth_place": "Moneglia"
+  },
+  {
+    "xml_id": "GirolamoCampagnola",
+    "birth_place": "Padoue"
+  },
+  {
+    "xml_id": "GiulioCampagnola",
+    "birth_place": "Padova"
+  },
+  {
+    "xml_id": "AntonioCampi",
+    "birth_place": "Crémone"
+  },
+  {
+    "xml_id": "BernardinoCampi",
+    "birth_place": "Cremona"
+  },
+  {
+    "xml_id": "GaleazzoCampi",
+    "birth_place": "Crémone"
+  },
+  {
+    "xml_id": "GiulioCampi",
+    "birth_place": "Cremona"
+  },
+  {
+    "xml_id": "VincenzoCampi",
+    "birth_place": "Cremona"
+  },
+  {
+    "xml_id": "PeterCandid",
+    "birth_place": "Brugge"
+  },
+  {
+    "xml_id": "LorenzoCanozi",
+    "birth_place": "Lendinara"
+  },
+  {
+    "xml_id": "FrancescoCapriani",
+    "birth_place": "Volterra"
+  },
+  {
+    "xml_id": "GiovanniJacopoCaraglio",
+    "birth_place": "Vérone"
+  },
+  {
+    "xml_id": "Caravage",
+    "birth_place": "Caravaggio"
+  },
+  {
+    "xml_id": "PolidoroDaCaravaggio",
+    "birth_place": "Caravaggio"
+  },
+  {
+    "xml_id": "BavieroDeCarocci",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "GiovanFrancescoCaroto",
+    "birth_place": "Vérone"
+  },
+  {
+    "xml_id": "VittoreCarpaccio",
+    "birth_place": "Venezia"
+  },
+  {
+    "xml_id": "UgoDaCarpi",
+    "birth_place": "Carpi"
+  },
+  {
+    "xml_id": "AgostinoCarracci",
+    "birth_place": "Bologna"
+  },
+  {
+    "xml_id": "AnnibaleCarracci",
+    "birth_place": "Bologna"
+  },
+  {
+    "xml_id": "AntonioCarracci",
+    "birth_place": "Venise"
+  },
+  {
+    "xml_id": "Carrache",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "LodovicoCarracci",
+    "birth_place": "Bologna"
+  },
+  {
+    "xml_id": "JacopoDiCasentino",
+    "birth_place": "Pratovecchio"
+  },
+  {
+    "xml_id": "AlessandroCasolani",
+    "birth_place": "Mensano"
+  },
+  {
+    "xml_id": "AndreaDelCastagno",
+    "birth_place": "San Godenzo"
+  },
+  {
+    "xml_id": "BernardoCastello",
+    "birth_place": "Genova"
+  },
+  {
+    "xml_id": "GiovanniBattistaCastello",
+    "birth_place": "Gandino"
+  },
+  {
+    "xml_id": "BaldassareCastiglione",
+    "birth_place": "Casatico"
+  },
+  {
+    "xml_id": "GiovanniBenedettoCastiglione",
+    "birth_place": "Genova"
+  },
+  {
+    "xml_id": "PietroCataneo",
+    "birth_place": "Sienne"
+  },
+  {
+    "xml_id": "DaneseCattaneo",
+    "birth_place": "Colonnata"
+  },
+  {
+    "xml_id": "GiovanniBattistaDeCavalieri",
+    "birth_place": "Trento"
+  },
+  {
+    "xml_id": "PietroCavallini",
+    "birth_place": "Roma"
+  },
+  {
+    "xml_id": "GiacomoCavedone",
+    "birth_place": "Sassuolo"
+  },
+  {
+    "xml_id": "BenvenutoCellini",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "GiuseppeCesari",
+    "birth_place": "Arpino"
+  },
+  {
+    "xml_id": "CesareCesariano",
+    "birth_place": "Milan"
+  },
+  {
+    "xml_id": "AlonsoChacon",
+    "birth_place": "Baeza"
+  },
+  {
+    "xml_id": "JeanChalette",
+    "birth_place": "Troyes"
+  },
+  {
+    "xml_id": "JeanBaptisteDeChampaigne",
+    "birth_place": "Bruxelles"
+  },
+  {
+    "xml_id": "PhilippeDeChampaigne",
+    "birth_place": "Bruxelles"
+  },
+  {
+    "xml_id": "NicolasChaperon",
+    "birth_place": "Châteaudun"
+  },
+  {
+    "xml_id": "MartinDeCharmois",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "CimaDaConegliano",
+    "birth_place": "Conegliano"
+  },
+  {
+    "xml_id": "Cimabue",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "BartolomeoCincani",
+    "birth_place": "Orzinuovi"
+  },
+  {
+    "xml_id": "ValerioDiSimoneCioli",
+    "birth_place": "Florence"
+  },
+  {
+    "xml_id": "Orcagna",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "NiccoloCircignani",
+    "birth_place": "Pomarance"
+  },
+  {
+    "xml_id": "VincenzoCiverchio",
+    "birth_place": "Crema"
+  },
+  {
+    "xml_id": "MatteoDiGiovanniCivitali",
+    "birth_place": "Lucca"
+  },
+  {
+    "xml_id": "GiovanniBattistaClarici",
+    "birth_place": "Urbino"
+  },
+  {
+    "xml_id": "JoosVanCleve",
+    "birth_place": "Kleve"
+  },
+  {
+    "xml_id": "GiulioClovio",
+    "birth_place": "Hrvatska"
+  },
+  {
+    "xml_id": "HieronymusCock",
+    "birth_place": "Antwerpen"
+  },
+  {
+    "xml_id": "MaertenDeCock",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "BenedettoCoda",
+    "birth_place": "Trévise"
+  },
+  {
+    "xml_id": "PieterCoeckeVanAelst",
+    "birth_place": "Aalst"
+  },
+  {
+    "xml_id": "AdriaenCollaert",
+    "birth_place": "Antwerpen"
+  },
+  {
+    "xml_id": "RaffaellinoDelColle",
+    "birth_place": "Sansepolcro"
+  },
+  {
+    "xml_id": "AntonioDaSangalloIlGiovane",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "AlviseCornaro",
+    "birth_place": "Venezia"
+  },
+  {
+    "xml_id": "MichelCorneille",
+    "birth_place": "Orléans"
+  },
+  {
+    "xml_id": "PierreCorneille",
+    "birth_place": "Rouen"
+  },
+  {
+    "xml_id": "CornelisVanHaarlem",
+    "birth_place": "Haarlem"
+  },
+  {
+    "xml_id": "LucasCornelisz",
+    "birth_place": "Leyde"
+  },
+  {
+    "xml_id": "CornelisCort",
+    "birth_place": "Hoorn"
+  },
+  {
+    "xml_id": "PierreDeCortone",
+    "birth_place": "Cortona"
+  },
+  {
+    "xml_id": "PieroDiCosimo",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "SilvioCosini",
+    "birth_place": "Poggibonsi"
+  },
+  {
+    "xml_id": "LorenzoCosta",
+    "birth_place": "Ferrara"
+  },
+  {
+    "xml_id": "JeanICotelle",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "JacquesCouplet",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "JeanCousin",
+    "birth_place": "Sens"
+  },
+  {
+    "xml_id": "MichelICoxie",
+    "birth_place": "Mechelen"
+  },
+  {
+    "xml_id": "CristoforoDaFerrara",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "SimoneDeiCrocifissi",
+    "birth_place": "Bologne"
+  },
+  {
+    "xml_id": "BattistaDelMoro",
+    "birth_place": "Verona"
+  },
+  {
+    "xml_id": "MarcoDOggiono",
+    "birth_place": "Oggiono"
+  },
+  {
+    "xml_id": "MichelinoDaBesozzo",
+    "birth_place": "Besozzo"
+  },
+  {
+    "xml_id": "BernardoDaddi",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "LippoDalmasio",
+    "birth_place": "Bologne"
+  },
+  {
+    "xml_id": "PellegrinoDaSanDaniele",
+    "birth_place": "San Daniele del Friuli"
+  },
+  {
+    "xml_id": "JeanDaret",
+    "birth_place": "Bruxelles"
+  },
+  {
+    "xml_id": "PierreDaret",
+    "birth_place": "Paris"
+  },
+  {
+    "xml_id": "CarloDati",
+    "birth_place": "Florence"
+  },
+  {
+    "xml_id": "CornelisVanHeem",
+    "birth_place": "Leiden"
+  },
+  {
+    "xml_id": "JuanDeHerreraDeMaliano",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "EtienneDelaune",
+    "birth_place": "Paris"
+  },
+  {
+    "xml_id": "WillemJacobszDelff",
+    "birth_place": "Delft"
+  },
+  {
+    "xml_id": "StefanoDellaBella",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "TomasoDellaPorta",
+    "birth_place": "Porlezza"
+  },
+  {
+    "xml_id": "MarcoDente",
+    "birth_place": "Ravenna"
+  },
+  {
+    "xml_id": "ClaudeDeruet",
+    "birth_place": "Nancy"
+  },
+  {
+    "xml_id": "GirardDesargues",
+    "birth_place": "Lyon"
+  },
+  {
+    "xml_id": "Bramante",
+    "birth_place": "Urbino"
+  },
+  {
+    "xml_id": "ArnolfoDiLapo",
+    "birth_place": "Colle di Val d'Elsa"
+  },
+  {
+    "xml_id": "BenedettoDiada",
+    "birth_place": "Venise"
+  },
+  {
+    "xml_id": "AbrahamJanszVanDiepenbeeck",
+    "birth_place": "s Hertogenbosch"
+  },
+  {
+    "xml_id": "Dominiquin",
+    "birth_place": "Bologna"
+  },
+  {
+    "xml_id": "Donatello",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "Mastelletta",
+    "birth_place": "Bologne"
+  },
+  {
+    "xml_id": "CharlesDorigny",
+    "birth_place": "La Rochelle"
+  },
+  {
+    "xml_id": "MichelDorigny",
+    "birth_place": "Saint-Quentin"
+  },
+  {
+    "xml_id": "BattistaDossi",
+    "birth_place": "San Giovanni del Dosso"
+  },
+  {
+    "xml_id": "DossoDossi",
+    "birth_place": "Mirandola"
+  },
+  {
+    "xml_id": "Dossi",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "GerritDou",
+    "birth_place": "Leiden"
+  },
+  {
+    "xml_id": "CharlesAlphonseDuFresnoy",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "FrancoisDuQuesnoy",
+    "birth_place": "Bruxelles"
+  },
+  {
+    "xml_id": "AmbroiseDubois",
+    "birth_place": "Anvers"
+  },
+  {
+    "xml_id": "ToussaintDubreuil",
+    "birth_place": "Paris"
+  },
+  {
+    "xml_id": "JacquesDubroeucq",
+    "birth_place": "Mons"
+  },
+  {
+    "xml_id": "NicolasDuchesne",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "GaspardDughet",
+    "birth_place": "Roma"
+  },
+  {
+    "xml_id": "KarelDujardin",
+    "birth_place": "Amsterdam"
+  },
+  {
+    "xml_id": "GuillaumeDumee",
+    "birth_place": "Fontainebleau"
+  },
+  {
+    "xml_id": "EtienneDuperac",
+    "birth_place": "Paris"
+  },
+  {
+    "xml_id": "BernardDupuyDeGrez",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "AntoineDurand",
+    "birth_place": "Toulouse"
+  },
+  {
+    "xml_id": "VanDyck",
+    "birth_place": "Antwerpen"
+  },
+  {
+    "xml_id": "AlbrechtDurer",
+    "birth_place": "Nürnberg"
+  },
+  {
+    "xml_id": "AlbrechtDurerElder",
+    "birth_place": "Ajtós"
+  },
+  {
+    "xml_id": "JustusVanEgmont",
+    "birth_place": "Leyde"
+  },
+  {
+    "xml_id": "FerdinandElle",
+    "birth_place": "Malines"
+  },
+  {
+    "xml_id": "AdamElsheimer",
+    "birth_place": "Frankfurt am Main"
+  },
+  {
+    "xml_id": "MarioEquicola",
+    "birth_place": "Alvito (Lazio)"
+  },
+  {
+    "xml_id": "CharlesErrard",
+    "birth_place": "Nantes"
+  },
+  {
+    "xml_id": "JeanErrard",
+    "birth_place": "Bar-le-Duc"
+  },
+  {
+    "xml_id": "VanEyck",
+    "birth_place": "Maaseik"
+  },
+  {
+    "xml_id": "GentileDaFabriano",
+    "birth_place": "Fabriano"
+  },
+  {
+    "xml_id": "PietroFacchetti",
+    "birth_place": "Mantova"
+  },
+  {
+    "xml_id": "Filarete",
+    "birth_place": "Florence"
+  },
+  {
+    "xml_id": "GiacomoFantoni",
+    "birth_place": "Bologne"
+  },
+  {
+    "xml_id": "PaoloFarinati",
+    "birth_place": "Verona"
+  },
+  {
+    "xml_id": "JeanBaptisteDeFaudran",
+    "birth_place": "Lambesc"
+  },
+  {
+    "xml_id": "AndreaFeltrini",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "BernardinoFerrari",
+    "birth_place": "Vigevano"
+  },
+  {
+    "xml_id": "Gaudenzio",
+    "birth_place": "Valduggia"
+  },
+  {
+    "xml_id": "FrancescoFerrucci",
+    "birth_place": "Fiesole"
+  },
+  {
+    "xml_id": "MinoDaFiesole",
+    "birth_place": "Poppi"
+  },
+  {
+    "xml_id": "AmbrogioFigino",
+    "birth_place": "1548"
+  },
+  {
+    "xml_id": "MasoFiniguerra",
+    "birth_place": "Florence"
+  },
+  {
+    "xml_id": "JacobelloDelFiore",
+    "birth_place": "Venise"
+  },
+  {
+    "xml_id": "StefanoFiorentino",
+    "birth_place": "Florence"
+  },
+  {
+    "xml_id": "MaturinoFiorentino",
+    "birth_place": "Florence"
+  },
+  {
+    "xml_id": "Giottino",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "Baroccio",
+    "birth_place": "Urbino"
+  },
+  {
+    "xml_id": "FlaminioVacca",
+    "birth_place": "Roma"
+  },
+  {
+    "xml_id": "FransFlorisI",
+    "birth_place": "Antwerpen"
+  },
+  {
+    "xml_id": "FransFlorisII",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "LouisDeFoix",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "AnnibaleFontana",
+    "birth_place": "Milano"
+  },
+  {
+    "xml_id": "DomenicoFontana",
+    "birth_place": "Melide"
+  },
+  {
+    "xml_id": "LaviniaFontana",
+    "birth_place": "Bologna"
+  },
+  {
+    "xml_id": "ProsperoFontana",
+    "birth_place": "Bologna"
+  },
+  {
+    "xml_id": "Caradosso",
+    "birth_place": "Italia"
+  },
+  {
+    "xml_id": "VincenzoFoppa",
+    "birth_place": "Bagnolo Mella"
+  },
+  {
+    "xml_id": "PierFrancescoFoschi",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "JacquesFouquieres",
+    "birth_place": "Anvers"
+  },
+  {
+    "xml_id": "PieroDellaFrancesca",
+    "birth_place": "Sansepolcro"
+  },
+  {
+    "xml_id": "FrancescoFrancia",
+    "birth_place": "Bologna"
+  },
+  {
+    "xml_id": "BattistaFranco",
+    "birth_place": "Venezia"
+  },
+  {
+    "xml_id": "ClaudeFrancois",
+    "birth_place": "Amiens"
+  },
+  {
+    "xml_id": "FrancoisDerand",
+    "birth_place": "Vic-sur-Seille"
+  },
+  {
+    "xml_id": "SimonFrancois",
+    "birth_place": "Tours"
+  },
+  {
+    "xml_id": "MartinFreminet",
+    "birth_place": "Paris"
+  },
+  {
+    "xml_id": "RolandFreartDeChambray",
+    "birth_place": "Le Mans"
+  },
+  {
+    "xml_id": "PaulFreartDeChantelou",
+    "birth_place": "Le Mans"
+  },
+  {
+    "xml_id": "AmbroiseFredeau",
+    "birth_place": "Paris"
+  },
+  {
+    "xml_id": "AndreFelibien",
+    "birth_place": "Chartres"
+  },
+  {
+    "xml_id": "GiovanniGabrielli   ",
+    "birth_place": "1520"
+  },
+  {
+    "xml_id": "AgnoloGaddi",
+    "birth_place": "Florence"
+  },
+  {
+    "xml_id": "Gaddi",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "GaddoGaddi",
+    "birth_place": "Florence"
+  },
+  {
+    "xml_id": "TaddeoGaddi",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "FedeGalizia",
+    "birth_place": "Milan"
+  },
+  {
+    "xml_id": "CornelisGalleI",
+    "birth_place": "Antwerpen"
+  },
+  {
+    "xml_id": "PhilipGalle",
+    "birth_place": "Haarlem"
+  },
+  {
+    "xml_id": "Garofalo",
+    "birth_place": "Ferrara"
+  },
+  {
+    "xml_id": "LucasGassel",
+    "birth_place": "Helmond"
+  },
+  {
+    "xml_id": "BernardinoGatti",
+    "birth_place": "Pavia"
+  },
+  {
+    "xml_id": "PomponioGaurico",
+    "birth_place": "Guaro"
+  },
+  {
+    "xml_id": "GeorgGeldorp",
+    "birth_place": "Köln"
+  },
+  {
+    "xml_id": "ClaudeLorrain",
+    "birth_place": "Champagne"
+  },
+  {
+    "xml_id": "BartolomeoGenga",
+    "birth_place": "Cesena"
+  },
+  {
+    "xml_id": "GirolamoGenga",
+    "birth_place": "Urbino"
+  },
+  {
+    "xml_id": "ArtemisiaGentileschi",
+    "birth_place": "Roma"
+  },
+  {
+    "xml_id": "AntonioDaFaenza",
+    "birth_place": "Faenza (Emilia-Romagna)"
+  },
+  {
+    "xml_id": "BalthazarGerbier",
+    "birth_place": "Middelburg"
+  },
+  {
+    "xml_id": "ConsiglioGherardi",
+    "birth_place": "Sansepolcro"
+  },
+  {
+    "xml_id": "LorenzoGhiberti",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "BenedettoGhirlandaio",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "DavideGhirlandaio",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "DomenicoGhirlandaio",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "RidolfoDelGhirlandaio",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "GiorgioGhisi",
+    "birth_place": "Mantova"
+  },
+  {
+    "xml_id": "FermoGhisoniDaCaravaggio",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "GiovanniGiocondo",
+    "birth_place": "Melide"
+  },
+  {
+    "xml_id": "Giorgione",
+    "birth_place": "Castelfranco Veneto"
+  },
+  {
+    "xml_id": "Giotto",
+    "birth_place": "Vicchio"
+  },
+  {
+    "xml_id": "AgostinoDiGiovanni",
+    "birth_place": "Sienne"
+  },
+  {
+    "xml_id": "BertoldoDiGiovanni",
+    "birth_place": "Florence"
+  },
+  {
+    "xml_id": "DarioDiGiovanni",
+    "birth_place": "Pordenone"
+  },
+  {
+    "xml_id": "GiovanniMariaFalconetto",
+    "birth_place": "Verona"
+  },
+  {
+    "xml_id": "GirolamoMacchietti",
+    "birth_place": "Florence"
+  },
+  {
+    "xml_id": "DanielGittard",
+    "birth_place": "Blandy"
+  },
+  {
+    "xml_id": "GiovanniPietroGnocchi",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "HendrickGoltzius",
+    "birth_place": "Bracht"
+  },
+  {
+    "xml_id": "HubertusGoltzius",
+    "birth_place": "Venlo"
+  },
+  {
+    "xml_id": "GiovanniGonnelli",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "JanGossaert",
+    "birth_place": "Maubeuge"
+  },
+  {
+    "xml_id": "HendrickGoudt",
+    "birth_place": "s-Gravenhage"
+  },
+  {
+    "xml_id": "JeanGoujon",
+    "birth_place": "Rouen"
+  },
+  {
+    "xml_id": "AntivedutoGramatica",
+    "birth_place": "Rome"
+  },
+  {
+    "xml_id": "MatthausGreuter",
+    "birth_place": "Strasbourg"
+  },
+  {
+    "xml_id": "MatthiasGrunewald",
+    "birth_place": "Wurtzbourg"
+  },
+  {
+    "xml_id": "RaffaelloGuidi",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "GuidoReni",
+    "birth_place": "Bologna"
+  },
+  {
+    "xml_id": "PaoloGuidotti",
+    "birth_place": "Lucca"
+  },
+  {
+    "xml_id": "SimonGuillainII",
+    "birth_place": "1618"
+  },
+  {
+    "xml_id": "FrancoisGuy",
+    "birth_place": "Le Puy-en-Velay"
+  },
+  {
+    "xml_id": "AdriaenHanneman",
+    "birth_place": "La Haye"
+  },
+  {
+    "xml_id": "JulesHardouinMansart",
+    "birth_place": "Paris"
+  },
+  {
+    "xml_id": "MaertenVanHeemskerck",
+    "birth_place": "Heemskerk"
+  },
+  {
+    "xml_id": "LucasDeHeer",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "JosephHeintz",
+    "birth_place": "Basel"
+  },
+  {
+    "xml_id": "JanSandersVanHemessen",
+    "birth_place": "Hemiksem"
+  },
+  {
+    "xml_id": "JanVanDenHoecke",
+    "birth_place": "Anvers"
+  },
+  {
+    "xml_id": "JacobHoefnagel",
+    "birth_place": "Anvers"
+  },
+  {
+    "xml_id": "HansHolbeinDeElder",
+    "birth_place": "Augsbourg"
+  },
+  {
+    "xml_id": "HansHolbeinDeJonge",
+    "birth_place": "Augsburg"
+  },
+  {
+    "xml_id": "GabrielHonnet",
+    "birth_place": "Paris"
+  },
+  {
+    "xml_id": "GerritVanHonthorst",
+    "birth_place": "Utrecht"
+  },
+  {
+    "xml_id": "InnocenzoFrancucci",
+    "birth_place": "Imola"
+  },
+  {
+    "xml_id": "AbrahamJanssens",
+    "birth_place": "Anvers"
+  },
+  {
+    "xml_id": "PieterDeJodeI",
+    "birth_place": "Antwerpen"
+  },
+  {
+    "xml_id": "JacobJordaens",
+    "birth_place": "Antwerpen"
+  },
+  {
+    "xml_id": "FranciscusJunius",
+    "birth_place": "Heidelberg"
+  },
+  {
+    "xml_id": "WillemKey",
+    "birth_place": "Breda"
+  },
+  {
+    "xml_id": "MelchiorIKusel",
+    "birth_place": "Augsbourg"
+  },
+  {
+    "xml_id": "PhilibertDelorme",
+    "birth_place": "Lyon"
+  },
+  {
+    "xml_id": "NicolasDeLaFleur",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "LaurentDeLaHyre",
+    "birth_place": "Paris"
+  },
+  {
+    "xml_id": "AntonioLabacco",
+    "birth_place": "Verceil"
+  },
+  {
+    "xml_id": "PieterVanLaer",
+    "birth_place": "Haarlem"
+  },
+  {
+    "xml_id": "RaymondLafage",
+    "birth_place": "Lisle-sur-Tarn"
+  },
+  {
+    "xml_id": "AntoineLafrery",
+    "birth_place": "Orgelet-le-Bourget"
+  },
+  {
+    "xml_id": "GeorgesLallemand",
+    "birth_place": "Nancy"
+  },
+  {
+    "xml_id": "DominiqueLampsonius",
+    "birth_place": "Bruges"
+  },
+  {
+    "xml_id": "PaoloCamilloLandriani",
+    "birth_place": "Ponte in Valtellina"
+  },
+  {
+    "xml_id": "GiovanniLanfranco",
+    "birth_place": "Parma"
+  },
+  {
+    "xml_id": "NicolasLanglois",
+    "birth_place": "Paris"
+  },
+  {
+    "xml_id": "BernardinoLanino",
+    "birth_place": "Vercelli"
+  },
+  {
+    "xml_id": "PieterLastman",
+    "birth_place": "Amsterdam"
+  },
+  {
+    "xml_id": "TommasoLaureti",
+    "birth_place": "Palermo"
+  },
+  {
+    "xml_id": "HansSebaldLautensack",
+    "birth_place": "Bamberg"
+  },
+  {
+    "xml_id": "HoraceLeBlanc",
+    "birth_place": "Lyon"
+  },
+  {
+    "xml_id": "CharlesLeBrun",
+    "birth_place": "Paris"
+  },
+  {
+    "xml_id": "PierreLeMuet",
+    "birth_place": "Dijon"
+  },
+  {
+    "xml_id": "AntoineLePautre",
+    "birth_place": "Paris"
+  },
+  {
+    "xml_id": "EustacheLeSueur",
+    "birth_place": "Paris"
+  },
+  {
+    "xml_id": "FrancoisLeVau",
+    "birth_place": "Paris"
+  },
+  {
+    "xml_id": "RemeeVanLeemput",
+    "birth_place": "Anvers"
+  },
+  {
+    "xml_id": "JeanLemaire",
+    "birth_place": "Dammartin-en-Goële"
+  },
+  {
+    "xml_id": "JacquesLemercier",
+    "birth_place": "Pontoise"
+  },
+  {
+    "xml_id": "LeoneLeoni",
+    "birth_place": "Menaggio"
+  },
+  {
+    "xml_id": "PompeoLeoni",
+    "birth_place": "Milan"
+  },
+  {
+    "xml_id": "HenriLerambert",
+    "birth_place": "Paris"
+  },
+  {
+    "xml_id": "PierreLescot",
+    "birth_place": "Paris"
+  },
+  {
+    "xml_id": "LucasVanLeyden",
+    "birth_place": "Leiden"
+  },
+  {
+    "xml_id": "BernardinoLicinio",
+    "birth_place": "1479"
+  },
+  {
+    "xml_id": "GiulioLicinio",
+    "birth_place": "1527"
+  },
+  {
+    "xml_id": "PirroLigorio",
+    "birth_place": "Napoli"
+  },
+  {
+    "xml_id": "JacopoLigozzi",
+    "birth_place": "Verona"
+  },
+  {
+    "xml_id": "FilippinoLippi",
+    "birth_place": "Prato"
+  },
+  {
+    "xml_id": "FraFilippoLippi",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "NicolasLoir",
+    "birth_place": "Paris"
+  },
+  {
+    "xml_id": "GiovanniPaoloLomazzo",
+    "birth_place": "Milan"
+  },
+  {
+    "xml_id": "LambertLombard",
+    "birth_place": "Liège"
+  },
+  {
+    "xml_id": "AlfonsoLombardi",
+    "birth_place": "Ferrara"
+  },
+  {
+    "xml_id": "CristoforoLombardo",
+    "birth_place": "Milano"
+  },
+  {
+    "xml_id": "GirolamoLombardo",
+    "birth_place": "Ferrara"
+  },
+  {
+    "xml_id": "TommasoLombardo",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "OnorioLonghi",
+    "birth_place": "Viggiu"
+  },
+  {
+    "xml_id": "AngeloDiLorentino",
+    "birth_place": "Arezzo"
+  },
+  {
+    "xml_id": "AmbrogioLorenzetti",
+    "birth_place": "Siena"
+  },
+  {
+    "xml_id": "PietroLorenzetti",
+    "birth_place": "Siena"
+  },
+  {
+    "xml_id": "BattistaLorenzi",
+    "birth_place": "Settignano"
+  },
+  {
+    "xml_id": "Lorenzetto",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "AurelioLuini",
+    "birth_place": "Luino"
+  },
+  {
+    "xml_id": "BernardinoLuini",
+    "birth_place": "Dumenza"
+  },
+  {
+    "xml_id": "LorenzoLuzzo",
+    "birth_place": "Feltre"
+  },
+  {
+    "xml_id": "AndreLebre",
+    "birth_place": "Toulouse"
+  },
+  {
+    "xml_id": "CarloMaderno",
+    "birth_place": "Capolago"
+  },
+  {
+    "xml_id": "AlessandroMaganza",
+    "birth_place": "Vicenza"
+  },
+  {
+    "xml_id": "GiovanniMaggi",
+    "birth_place": "Rome"
+  },
+  {
+    "xml_id": "Maggiore",
+    "birth_place": "Milan"
+  },
+  {
+    "xml_id": "BenedettoDaMaiano",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "BastianoMainardi",
+    "birth_place": "San Gimignano"
+  },
+  {
+    "xml_id": "IsaacMajor",
+    "birth_place": "Frankfurt am Main"
+  },
+  {
+    "xml_id": "ulan_500027513",
+    "birth_place": "Bologne"
+  },
+  {
+    "xml_id": "CarelVanMander",
+    "birth_place": "Meulebeke"
+  },
+  {
+    "xml_id": "BartolomeoManfredi",
+    "birth_place": "Ostiano"
+  },
+  {
+    "xml_id": "FrancoisMansart",
+    "birth_place": "Paris"
+  },
+  {
+    "xml_id": "GiovanniMansueti",
+    "birth_place": "Venise"
+  },
+  {
+    "xml_id": "AndreaMantegna",
+    "birth_place": "Padova"
+  },
+  {
+    "xml_id": "RinaldoMantovano",
+    "birth_place": "Mantoue"
+  },
+  {
+    "xml_id": "DianaScultoriGhisi",
+    "birth_place": "Mantova"
+  },
+  {
+    "xml_id": "GiovanniBattistaScultori",
+    "birth_place": "Mantoue"
+  },
+  {
+    "xml_id": "CarloMaratti",
+    "birth_place": "Camerano"
+  },
+  {
+    "xml_id": "GuillaumeMarcillat",
+    "birth_place": "Châtres"
+  },
+  {
+    "xml_id": "JeanMartin",
+    "birth_place": "Paris"
+  },
+  {
+    "xml_id": "Masaccio",
+    "birth_place": "Castel San Giovanni"
+  },
+  {
+    "xml_id": "MasolinoDaPanicale",
+    "birth_place": "Panicale"
+  },
+  {
+    "xml_id": "GirolamoMassei",
+    "birth_place": "Lucca"
+  },
+  {
+    "xml_id": "JacobMatham",
+    "birth_place": "Haarlem"
+  },
+  {
+    "xml_id": "MicheleDiMatteo",
+    "birth_place": "Bologne"
+  },
+  {
+    "xml_id": "MatthijsBril",
+    "birth_place": "Antwerpen"
+  },
+  {
+    "xml_id": "GiovanniAmbrogioMazenta",
+    "birth_place": "Milano"
+  },
+  {
+    "xml_id": "Parmigianino",
+    "birth_place": "Parma"
+  },
+  {
+    "xml_id": "GirolamoMazzolaBedoli",
+    "birth_place": "Viadana"
+  },
+  {
+    "xml_id": "LudovicoMazzolino",
+    "birth_place": "Ferrara"
+  },
+  {
+    "xml_id": "GiuseppeMeda",
+    "birth_place": "Milan"
+  },
+  {
+    "xml_id": "ClaudeMellan",
+    "birth_place": "Abbeville"
+  },
+  {
+    "xml_id": "FrancescoMelzi",
+    "birth_place": "Milano"
+  },
+  {
+    "xml_id": "LippoMemmi",
+    "birth_place": "Sienne"
+  },
+  {
+    "xml_id": "SimoneMemmi",
+    "birth_place": "Siena"
+  },
+  {
+    "xml_id": "FrancescoMerano",
+    "birth_place": "Gênes"
+  },
+  {
+    "xml_id": "AntonelloDeMessine",
+    "birth_place": "Messine"
+  },
+  {
+    "xml_id": "QuintenMetsys",
+    "birth_place": "Leuven"
+  },
+  {
+    "xml_id": "Michelozzo",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "MichielJanszVanMiereveld",
+    "birth_place": "Delft"
+  },
+  {
+    "xml_id": "FransVanMieris",
+    "birth_place": "Leiden"
+  },
+  {
+    "xml_id": "Mignard",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "NicholasMignard",
+    "birth_place": "Troyes"
+  },
+  {
+    "xml_id": "PierreMignard",
+    "birth_place": "Troyes"
+  },
+  {
+    "xml_id": "PierreIIMignard",
+    "birth_place": "Avignon"
+  },
+  {
+    "xml_id": "AntonioMini",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "FrancescoMochi",
+    "birth_place": "Montevarchi"
+  },
+  {
+    "xml_id": "GiovanniBattistaMola",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "PierFrancescoMola",
+    "birth_place": "Coldrerio"
+  },
+  {
+    "xml_id": "JoosIIDeMomper",
+    "birth_place": "Antwerpen"
+  },
+  {
+    "xml_id": "PierreMonier",
+    "birth_place": "Blois"
+  },
+  {
+    "xml_id": "JacopoDaMontagnana",
+    "birth_place": "montagnana"
+  },
+  {
+    "xml_id": "BaccioDaMontelupo",
+    "birth_place": "Montelupo Fiorentino"
+  },
+  {
+    "xml_id": "AnthonieVanMontfoortBlocklandt",
+    "birth_place": "Montfoort"
+  },
+  {
+    "xml_id": "AnthonisMorVanDashorst",
+    "birth_place": "Utrecht"
+  },
+  {
+    "xml_id": "PaoloMorando",
+    "birth_place": "Verona"
+  },
+  {
+    "xml_id": "GiovanniBattistaMoroni",
+    "birth_place": "Albino"
+  },
+  {
+    "xml_id": "JanHarmenszMuller",
+    "birth_place": "Amsterdam"
+  },
+  {
+    "xml_id": "AgostinoVeneziano",
+    "birth_place": "Venezia"
+  },
+  {
+    "xml_id": "GirolamoMuziano",
+    "birth_place": "Brescia"
+  },
+  {
+    "xml_id": "LorenzoNaldini",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "RobertNanteuil",
+    "birth_place": "Reims"
+  },
+  {
+    "xml_id": "MichelNatalis",
+    "birth_place": "Liège"
+  },
+  {
+    "xml_id": "CesareNebbia",
+    "birth_place": "Orvieto"
+  },
+  {
+    "xml_id": "CasparNetscher",
+    "birth_place": "Heidelberg"
+  },
+  {
+    "xml_id": "NiccoloDaBologna",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "GiacomoNizzola",
+    "birth_place": "Milano"
+  },
+  {
+    "xml_id": "JeanNocret",
+    "birth_place": "Nancy"
+  },
+  {
+    "xml_id": "AdamVanNoort",
+    "birth_place": "Antwerpen"
+  },
+  {
+    "xml_id": "LambertVanNoort",
+    "birth_place": "Amersfoort"
+  },
+  {
+    "xml_id": "PietroPaoloOlivieri",
+    "birth_place": "Roma"
+  },
+  {
+    "xml_id": "GerardVanOpstal",
+    "birth_place": "Bruxelles"
+  },
+  {
+    "xml_id": "OrazioDeFerrari",
+    "birth_place": "Voltri"
+  },
+  {
+    "xml_id": "FrancoisDOrbay",
+    "birth_place": "Paris"
+  },
+  {
+    "xml_id": "BernaertVanOrley",
+    "birth_place": "Bruxelles"
+  },
+  {
+    "xml_id": "OttavianoDaFaenza",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "HilairePader",
+    "birth_place": "Toulouse"
+  },
+  {
+    "xml_id": "BenedettoPagni",
+    "birth_place": "Pescia"
+  },
+  {
+    "xml_id": "AndreaPalladio",
+    "birth_place": "Padova"
+  },
+  {
+    "xml_id": "JacopoPalmaIlVecchio",
+    "birth_place": "Bergamo"
+  },
+  {
+    "xml_id": "JacopoPalmaIlGiovane",
+    "birth_place": "Venezia"
+  },
+  {
+    "xml_id": "AntonioMariaPanico",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "GiovanniAntonioParacca",
+    "birth_place": "Valsolda"
+  },
+  {
+    "xml_id": "IsabellaParasole",
+    "birth_place": "Roma"
+  },
+  {
+    "xml_id": "LeonardoParasole",
+    "birth_place": "Rome"
+  },
+  {
+    "xml_id": "BartolomeoPassarotti",
+    "birth_place": "Bologna"
+  },
+  {
+    "xml_id": "GiovanniFrancescoPenni",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "LucaPenni",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "ClaudePerrault",
+    "birth_place": "Paris"
+  },
+  {
+    "xml_id": "FrancoisPerrier",
+    "birth_place": "Pontarlier"
+  },
+  {
+    "xml_id": "BaldassarrePeruzzi",
+    "birth_place": "Siena"
+  },
+  {
+    "xml_id": "SimonePeterzano",
+    "birth_place": "Bergame"
+  },
+  {
+    "xml_id": "Petrarque",
+    "birth_place": "Arezzo"
+  },
+  {
+    "xml_id": "PetrusChristus",
+    "birth_place": "Baarle-Hertog"
+  },
+  {
+    "xml_id": "GiovanniDiPietro",
+    "birth_place": "Pérouse"
+  },
+  {
+    "xml_id": "RogerDePiles",
+    "birth_place": "Clamecy"
+  },
+  {
+    "xml_id": "GermainPilon",
+    "birth_place": "Paris"
+  },
+  {
+    "xml_id": "MarcoPino",
+    "birth_place": "Siena"
+  },
+  {
+    "xml_id": "PaoloPino",
+    "birth_place": "Venezia"
+  },
+  {
+    "xml_id": "Pinturicchio",
+    "birth_place": "Perugia"
+  },
+  {
+    "xml_id": "SebastianoDelPiombo",
+    "birth_place": "Venezia"
+  },
+  {
+    "xml_id": "Pisanello",
+    "birth_place": "Pisa"
+  },
+  {
+    "xml_id": "AndreaPisano",
+    "birth_place": "Pontedera"
+  },
+  {
+    "xml_id": "BonannoPisano",
+    "birth_place": "Pisa"
+  },
+  {
+    "xml_id": "GiovanniPisano",
+    "birth_place": "Pisa"
+  },
+  {
+    "xml_id": "NicolaPisano",
+    "birth_place": "Pouilles"
+  },
+  {
+    "xml_id": "FraPaolinoDaPistoia",
+    "birth_place": "Pistoia"
+  },
+  {
+    "xml_id": "BonifacioVeronese",
+    "birth_place": "1487"
+  },
+  {
+    "xml_id": "GiovanniBattistaPittoni",
+    "birth_place": "Vicence"
+  },
+  {
+    "xml_id": "CornelisVanPoelenburgh",
+    "birth_place": "Utrecht"
+  },
+  {
+    "xml_id": "FrancoisDePoilly",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "AntonioPollaiuolo",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "PieroPollaiuolo",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "AmalteoPomponio",
+    "birth_place": "1505"
+  },
+  {
+    "xml_id": "JacquiotPonce",
+    "birth_place": "Rethel"
+  },
+  {
+    "xml_id": "GiovanniDalPonte",
+    "birth_place": "Florence"
+  },
+  {
+    "xml_id": "PaulusPontius",
+    "birth_place": "Antwerpen"
+  },
+  {
+    "xml_id": "Pontormo",
+    "birth_place": "Pontorme"
+  },
+  {
+    "xml_id": "GiovanniGiacomoDellaPorta",
+    "birth_place": "Porlezza"
+  },
+  {
+    "xml_id": "GuglielmoDellaPorta",
+    "birth_place": "Porlezza"
+  },
+  {
+    "xml_id": "FransPourbusI",
+    "birth_place": "Brugge"
+  },
+  {
+    "xml_id": "PieterPourbus",
+    "birth_place": "Gouda"
+  },
+  {
+    "xml_id": "NicolasPoussin",
+    "birth_place": "Les Andelys"
+  },
+  {
+    "xml_id": "CharlesPoerson",
+    "birth_place": "Metz"
+  },
+  {
+    "xml_id": "AndreaPrevitali",
+    "birth_place": "Bergamo"
+  },
+  {
+    "xml_id": "FrancescoPrimaticcio",
+    "birth_place": "Bologna"
+  },
+  {
+    "xml_id": "CamilloProcaccini",
+    "birth_place": "Bologna"
+  },
+  {
+    "xml_id": "ErcoleProcacciniI",
+    "birth_place": "Bologna"
+  },
+  {
+    "xml_id": "GiulioCesareProcaccini",
+    "birth_place": "Bologna"
+  },
+  {
+    "xml_id": "PierrePuget",
+    "birth_place": "Marseille"
+  },
+  {
+    "xml_id": "Perugin",
+    "birth_place": "Città della Pieve"
+  },
+  {
+    "xml_id": "ErasmusIIQuellinus",
+    "birth_place": "Antwerpen"
+  },
+  {
+    "xml_id": "JacopoDellaQuercia",
+    "birth_place": "Quercegrossa"
+  },
+  {
+    "xml_id": "MarcantonioRaimondi",
+    "birth_place": "Molinella"
+  },
+  {
+    "xml_id": "AgostinoRamelli",
+    "birth_place": "Ponte Tresa"
+  },
+  {
+    "xml_id": "BartolommeoRamenghi",
+    "birth_place": "Bagnacavallo"
+  },
+  {
+    "xml_id": "GiovanniBattistaRamenghi",
+    "birth_place": "Bagnacavallo"
+  },
+  {
+    "xml_id": "Pordenone",
+    "birth_place": "Pordenone"
+  },
+  {
+    "xml_id": "EtienneRendu",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "JusepeDeRibera",
+    "birth_place": "Játiva"
+  },
+  {
+    "xml_id": "DanieleDaVolterra",
+    "birth_place": "Volterra"
+  },
+  {
+    "xml_id": "CarloRidolfi",
+    "birth_place": "Lonigo"
+  },
+  {
+    "xml_id": "Rembrandt",
+    "birth_place": "Leiden"
+  },
+  {
+    "xml_id": "CesareRipa",
+    "birth_place": "Pérouse"
+  },
+  {
+    "xml_id": "JacopoRipanda",
+    "birth_place": "Bologne"
+  },
+  {
+    "xml_id": "JeanPierreRivalz",
+    "birth_place": "Départemente de l'Aude"
+  },
+  {
+    "xml_id": "LucaDellaRobbia",
+    "birth_place": "Florence"
+  },
+  {
+    "xml_id": "ErcoleDeRoberti",
+    "birth_place": "Ferrara"
+  },
+  {
+    "xml_id": "GiovanniFrancescoRomanelli",
+    "birth_place": "Viterbe"
+  },
+  {
+    "xml_id": "PaoloRomano",
+    "birth_place": "Sezze"
+  },
+  {
+    "xml_id": "Romanino",
+    "birth_place": "Brescia"
+  },
+  {
+    "xml_id": "GiulioRomano",
+    "birth_place": "Roma"
+  },
+  {
+    "xml_id": "CristoforoRoncalli",
+    "birth_place": "Pomarancio"
+  },
+  {
+    "xml_id": "JeanBaptisteRondelet",
+    "birth_place": "Lyon"
+  },
+  {
+    "xml_id": "NicoloRondinelli",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "PierreDeRonsard",
+    "birth_place": "château de la Possonnière"
+  },
+  {
+    "xml_id": "SalvatorRosa",
+    "birth_place": "Napoli"
+  },
+  {
+    "xml_id": "CosimoRosselli",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "ProperziaDeRossi",
+    "birth_place": "Bologne"
+  },
+  {
+    "xml_id": "RossoFiorentino",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "JanRost",
+    "birth_place": "Bruxelles"
+  },
+  {
+    "xml_id": "MartinoRota",
+    "birth_place": "Šibenik"
+  },
+  {
+    "xml_id": "HansIRottenhammer",
+    "birth_place": "Munich"
+  },
+  {
+    "xml_id": "PeterPaulRubens",
+    "birth_place": "Siegen"
+  },
+  {
+    "xml_id": "GiovanniFrancescoRustici",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "LorenzoSabatini",
+    "birth_place": "Bologna"
+  },
+  {
+    "xml_id": "AndreaSacchi",
+    "birth_place": "Nettuno"
+  },
+  {
+    "xml_id": "AegidiusSadeler",
+    "birth_place": "Bruxelles"
+  },
+  {
+    "xml_id": "Sadeler",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "HansSadeler",
+    "birth_place": "Bruxelles"
+  },
+  {
+    "xml_id": "RaphaelSadeler",
+    "birth_place": "Antwerpen"
+  },
+  {
+    "xml_id": "PieterSaenredam",
+    "birth_place": "Assendelft"
+  },
+  {
+    "xml_id": "AndreaSalaino",
+    "birth_place": "Milano"
+  },
+  {
+    "xml_id": "FrancescoSalviati",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "OrazioSammacchini",
+    "birth_place": "Bologna"
+  },
+  {
+    "xml_id": "JoachimVonSandrart",
+    "birth_place": "Frankfurt am Main"
+  },
+  {
+    "xml_id": "AntonioDaSangalloIlVecchio",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "BastianoDaSangallo",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "FrancescoDaSangallo",
+    "birth_place": "Florence"
+  },
+  {
+    "xml_id": "GiulianoDaSangallo",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "MicheleSanmicheli",
+    "birth_place": "Verona"
+  },
+  {
+    "xml_id": "AndreaSansovino",
+    "birth_place": "Monte San Savino"
+  },
+  {
+    "xml_id": "GiovanniSanti",
+    "birth_place": "Colbordolo"
+  },
+  {
+    "xml_id": "Raphael",
+    "birth_place": "Urbino"
+  },
+  {
+    "xml_id": "JacquesSarazin",
+    "birth_place": "Noyon"
+  },
+  {
+    "xml_id": "AndreaDelSarto",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "JacobISavery",
+    "birth_place": "Kortrijk"
+  },
+  {
+    "xml_id": "RoelandtSavery",
+    "birth_place": "Kortrijk"
+  },
+  {
+    "xml_id": "VincenzoScamozzi",
+    "birth_place": "Venezia"
+  },
+  {
+    "xml_id": "CorneilleSchut",
+    "birth_place": "Antwerpen"
+  },
+  {
+    "xml_id": "ChristophSchwarz",
+    "birth_place": "München (Kreisfreie Stadt München)"
+  },
+  {
+    "xml_id": "JanVanScorel",
+    "birth_place": "Schoorl"
+  },
+  {
+    "xml_id": "DanielSeghers",
+    "birth_place": "Antwerpen"
+  },
+  {
+    "xml_id": "GerardSeghers",
+    "birth_place": "Antwerpen"
+  },
+  {
+    "xml_id": "GirolamoDaCarpi",
+    "birth_place": "Ferrara"
+  },
+  {
+    "xml_id": "OttavioSemino",
+    "birth_place": "Genova"
+  },
+  {
+    "xml_id": "VincenzoSeregni",
+    "birth_place": "Seregno (MI)"
+  },
+  {
+    "xml_id": "SebastianoSerlio",
+    "birth_place": "Bologna"
+  },
+  {
+    "xml_id": "CesareDaSesto",
+    "birth_place": "Sesto"
+  },
+  {
+    "xml_id": "AndreaSguazzella",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "GirolamoSiciolante",
+    "birth_place": "Sermoneta"
+  },
+  {
+    "xml_id": "BarnaDaSiena",
+    "birth_place": "Sienne"
+  },
+  {
+    "xml_id": "LucaSignorelli",
+    "birth_place": "Cortona"
+  },
+  {
+    "xml_id": "IsraelSilvestre",
+    "birth_place": "Nancy"
+  },
+  {
+    "xml_id": "FransSnyders",
+    "birth_place": "Antwerpen"
+  },
+  {
+    "xml_id": "JanSoens",
+    "birth_place": "s Hertogenbosch"
+  },
+  {
+    "xml_id": "CristoforoSolari",
+    "birth_place": "Milano"
+  },
+  {
+    "xml_id": "AndreaSolario",
+    "birth_place": "Milan"
+  },
+  {
+    "xml_id": "RaffaelleSoprani",
+    "birth_place": "Gênes"
+  },
+  {
+    "xml_id": "PieterClaeszSoutman",
+    "birth_place": "Haarlem"
+  },
+  {
+    "xml_id": "BartolomeoSpani",
+    "birth_place": "Reggio d'Émilie"
+  },
+  {
+    "xml_id": "BartholomaeusSpranger",
+    "birth_place": "Anvers"
+  },
+  {
+    "xml_id": "FrancescoSquarcione",
+    "birth_place": "Padova"
+  },
+  {
+    "xml_id": "MassimoStanzione",
+    "birth_place": "Frattamaggiore"
+  },
+  {
+    "xml_id": "GherardoStarnina",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "HendrickIVanSteenwijck",
+    "birth_place": "Steenwijk"
+  },
+  {
+    "xml_id": "FrancoisStella",
+    "birth_place": "Mechelen"
+  },
+  {
+    "xml_id": "JacquesStella",
+    "birth_place": "Lyon"
+  },
+  {
+    "xml_id": "SimonStevin",
+    "birth_place": "Bruges"
+  },
+  {
+    "xml_id": "TobiasStimmer",
+    "birth_place": "Schaffhausen"
+  },
+  {
+    "xml_id": "JanVanDerStraet",
+    "birth_place": "Bruges"
+  },
+  {
+    "xml_id": "Bramantino",
+    "birth_place": "Milano"
+  },
+  {
+    "xml_id": "LambertSustris",
+    "birth_place": "Amsterdam"
+  },
+  {
+    "xml_id": "IsaacClaeszSwanenburgh",
+    "birth_place": "Leiden"
+  },
+  {
+    "xml_id": "HermanVanSwanevelt",
+    "birth_place": "Woerden"
+  },
+  {
+    "xml_id": "InnocenzoTacconni",
+    "birth_place": "Bologne"
+  },
+  {
+    "xml_id": "AndreaTafiDiRico",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "Paciotto",
+    "birth_place": "Urbino"
+  },
+  {
+    "xml_id": "VincenzoTamagni",
+    "birth_place": "San Gimignano"
+  },
+  {
+    "xml_id": "JacopoSansovino",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "RichardTaurigny",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "AntonioTempesta",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "DavidTeniers",
+    "birth_place": "Antwerpen"
+  },
+  {
+    "xml_id": "DavidITeniers",
+    "birth_place": "Antwerpen"
+  },
+  {
+    "xml_id": "GerardTerborch",
+    "birth_place": "Zwolle"
+  },
+  {
+    "xml_id": "GiovanniCesareTesta",
+    "birth_place": "Roma"
+  },
+  {
+    "xml_id": "PietroTesta",
+    "birth_place": "Lucca"
+  },
+  {
+    "xml_id": "PhilippeThomassin",
+    "birth_place": "Troyes"
+  },
+  {
+    "xml_id": "TheodorVanThulden",
+    "birth_place": "s Hertogenbosch"
+  },
+  {
+    "xml_id": "DomenicoTibaldi",
+    "birth_place": "Bologna"
+  },
+  {
+    "xml_id": "PellegrinoTibaldi",
+    "birth_place": "Italia"
+  },
+  {
+    "xml_id": "JacopoTintoretto",
+    "birth_place": "Venezia"
+  },
+  {
+    "xml_id": "MariettaTintoretto",
+    "birth_place": "Venezia"
+  },
+  {
+    "xml_id": "Titien",
+    "birth_place": "Pieve di Cadore"
+  },
+  {
+    "xml_id": "FrancescoTorbido",
+    "birth_place": "Venezia"
+  },
+  {
+    "xml_id": "NiccoloTornioli",
+    "birth_place": "Siena"
+  },
+  {
+    "xml_id": "JohannesTorrentius",
+    "birth_place": "Amsterdam"
+  },
+  {
+    "xml_id": "PietroTorrigiano",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "FrancoisTortebat",
+    "birth_place": "Paris"
+  },
+  {
+    "xml_id": "NicolasTournier",
+    "birth_place": "Montbéliard"
+  },
+  {
+    "xml_id": "AntonioDaTrento",
+    "birth_place": "Trente"
+  },
+  {
+    "xml_id": "NiccoloTribolo",
+    "birth_place": "Florence"
+  },
+  {
+    "xml_id": "PaoloUccello",
+    "birth_place": "Pratovecchio"
+  },
+  {
+    "xml_id": "GiovanniDaUdine",
+    "birth_place": "Udine"
+  },
+  {
+    "xml_id": "PhilippUffenbach",
+    "birth_place": "Frankfurt am Main"
+  },
+  {
+    "xml_id": "CarloUrbino",
+    "birth_place": "Crema"
+  },
+  {
+    "xml_id": "Stradanus",
+    "birth_place": "Brugge"
+  },
+  {
+    "xml_id": "PrudentiaVanDiependale",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "ValeriusVanDiependale",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "PieterVanMol",
+    "birth_place": "Anvers"
+  },
+  {
+    "xml_id": "KarelVanManderII",
+    "birth_place": "Kortrijk"
+  },
+  {
+    "xml_id": "HubertVanEyck",
+    "birth_place": "Maaseik"
+  },
+  {
+    "xml_id": "MargaretheVanEyck",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "FrancescoVanni",
+    "birth_place": "Siena"
+  },
+  {
+    "xml_id": "GijsbertVanVeen",
+    "birth_place": "Leyde"
+  },
+  {
+    "xml_id": "PieterVanVeen",
+    "birth_place": "Leyde"
+  },
+  {
+    "xml_id": "BenedettoVarchi",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "JosephVarin",
+    "birth_place": "Châlons-sur-Champagne"
+  },
+  {
+    "xml_id": "GiorgioVasari",
+    "birth_place": "Arezzo"
+  },
+  {
+    "xml_id": "GiovanniDeVecchi",
+    "birth_place": "Sansepolcro"
+  },
+  {
+    "xml_id": "CesareVecellio",
+    "birth_place": "Pieve di Cadore"
+  },
+  {
+    "xml_id": "FrancescoVecellio",
+    "birth_place": "Pieve di Cadore"
+  },
+  {
+    "xml_id": "OrazioVecellio",
+    "birth_place": "Venise"
+  },
+  {
+    "xml_id": "PomponioVecellio",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "OttoVanVeen",
+    "birth_place": "Leyde"
+  },
+  {
+    "xml_id": "AntonioVeneziano",
+    "birth_place": "Venezia"
+  },
+  {
+    "xml_id": "AgnoloDiVentura",
+    "birth_place": "Sienne"
+  },
+  {
+    "xml_id": "MarcelloVenusti",
+    "birth_place": "Como"
+  },
+  {
+    "xml_id": "GiovanniMariaVerdizotti",
+    "birth_place": "Venezia"
+  },
+  {
+    "xml_id": "JanCorneliszVermeyen",
+    "birth_place": "Beverwijk"
+  },
+  {
+    "xml_id": "LiberaleDaVerona",
+    "birth_place": "Verona"
+  },
+  {
+    "xml_id": "StefanoDaVerona",
+    "birth_place": "Vérone"
+  },
+  {
+    "xml_id": "ZenoneVeronese",
+    "birth_place": "Vérone"
+  },
+  {
+    "xml_id": "PaoloVeronese",
+    "birth_place": "Verona"
+  },
+  {
+    "xml_id": "AntonioVerrio",
+    "birth_place": "Lecce"
+  },
+  {
+    "xml_id": "AndreaVerrocchio",
+    "birth_place": "Firenze"
+  },
+  {
+    "xml_id": "HendrickVerschuring",
+    "birth_place": "Gorinchem"
+  },
+  {
+    "xml_id": "PieroVettori",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "GiuseppeNiccoloVicentino",
+    "birth_place": "Vicenza"
+  },
+  {
+    "xml_id": "EneaVico",
+    "birth_place": "Parma"
+  },
+  {
+    "xml_id": "ClaudeVignon",
+    "birth_place": "Tours"
+  },
+  {
+    "xml_id": "FrancescoVillamena",
+    "birth_place": "Assisi"
+  },
+  {
+    "xml_id": "AntoineDeVille",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "LeonardoDaVinci",
+    "birth_place": "Vinci"
+  },
+  {
+    "xml_id": "PeterVischer",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "TimoteoViti",
+    "birth_place": "Urbino"
+  },
+  {
+    "xml_id": "AlessandroVittoria",
+    "birth_place": "Trento"
+  },
+  {
+    "xml_id": "AlviseVivarini",
+    "birth_place": "Venise"
+  },
+  {
+    "xml_id": "AntonioVivarini",
+    "birth_place": "Murano"
+  },
+  {
+    "xml_id": "BartolomeoVivarini",
+    "birth_place": "Venise"
+  },
+  {
+    "xml_id": "PieterVlerick",
+    "birth_place": "Courtrai"
+  },
+  {
+    "xml_id": "LucasVorsterman",
+    "birth_place": "Zaltbommel"
+  },
+  {
+    "xml_id": "MaertenDeVos",
+    "birth_place": "Antwerpen"
+  },
+  {
+    "xml_id": "SimonVouet",
+    "birth_place": "Paris"
+  },
+  {
+    "xml_id": "AubinVouet",
+    "birth_place": "Paris"
+  },
+  {
+    "xml_id": "HansVredemanDeVries",
+    "birth_place": "Leeuwarden"
+  },
+  {
+    "xml_id": "AdrienVries",
+    "birth_place": "s-Gravenhage"
+  },
+  {
+    "xml_id": "RemyVuibert",
+    "birth_place": "Rethel"
+  },
+  {
+    "xml_id": "JeanIIWaldor",
+    "birth_place": "Liège"
+  },
+  {
+    "xml_id": "JoosVanWassenhove",
+    "birth_place": "Gand"
+  },
+  {
+    "xml_id": "RogierVanDerWeyden",
+    "birth_place": "Tournai"
+  },
+  {
+    "xml_id": "MichaelWolgemut",
+    "birth_place": "Nürnberg"
+  },
+  {
+    "xml_id": "BernardoZenale",
+    "birth_place": "Treviglio"
+  },
+  {
+    "xml_id": "AltichieroDaZevio",
+    "birth_place": "Zevio"
+  },
+  {
+    "xml_id": "MarcoZoppo",
+    "birth_place": "Cento"
+  },
+  {
+    "xml_id": "Zuccaro",
+    "birth_place": "N/A"
+  },
+  {
+    "xml_id": "FedericoZuccaro",
+    "birth_place": "Sant'Angelo in Vado"
+  },
+  {
+    "xml_id": "TaddeoZuccaro",
+    "birth_place": "Vado Ligure"
+  },
+  {
+    "xml_id": "GaetanoZumbo",
+    "birth_place": "Syracuse"
+  },
+  {
+    "xml_id": "LambertZutman",
+    "birth_place": "Liège"
+  }
+]
