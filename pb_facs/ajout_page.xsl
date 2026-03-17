@@ -4,7 +4,7 @@
     <xsl:output method="xml" indent="yes" omit-xml-declaration="no"/>
 
     <!-- paramètre pour le point de départ -->
-    <xsl:param name="start" select="1"/>
+    <xsl:param name="start" select="19"/>
 
     <!-- Template identité par défaut -->
     <xsl:template match="@* | node()">
@@ -23,11 +23,10 @@
         </profileDesc>
     </xsl:template>
 
-    <!-- Template pour les pb
     <xsl:template match="tei:body//tei:pb">
         <xsl:copy>
             <xsl:variable name="LienGallica">
-                <xsl:text>http://gallica.bnf.fr/ark:/12148/bpt6k6568782t/</xsl:text>
+                <xsl:text>http://gallica.bnf.fr/ark:/12148/bpt6k8703191d/</xsl:text>
             </xsl:variable>
             <xsl:apply-templates select="@*"/>
             <xsl:variable name="num">
@@ -39,9 +38,9 @@
             <xsl:apply-templates select="node()"/>
         </xsl:copy>
     </xsl:template>
-    -->
-    <!--
-    Template pour les pb-->
+
+    <!--Template pour les pb-->
+    <!-- 
     <xsl:template match="tei:body//tei:pb">
         <xsl:copy>          
             <xsl:apply-templates select="@*"/>
@@ -53,7 +52,7 @@
             </xsl:attribute>
             <xsl:apply-templates select="node()"/>
         </xsl:copy>
-    </xsl:template>
+    </xsl:template>-->
     
     
     <!--<xsl:template match="tei:text//tei:pb">
