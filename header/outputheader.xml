@@ -184,7 +184,7 @@
       </projectDesc>
       <editorialDecl>
         <correction status="medium" method="silent">
-          <p>Niveau 0de l'échelle des transcription développée pour ArTerm</p>
+          <p>Niveau 0 de l'échelle des transcription développée pour ArTerm</p>
         </correction>
         <normalization method="silent">
           <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
