@@ -1,0 +1,1465 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../tei_arterm.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="ita"> Alberti_DellaPittura </title>
+      </titleStmt>
+      <publicationStmt>
+        <p> ARTERM </p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title xml:lang="ita"> Alberti_DellaPittura </title>
+          <idno type="Transkribus"> 13951484 </idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)"/>
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0006.jp2/full/max/0/default.jpg"/>
+      <titlePage>
+        <docTitle>
+          <titlePart>LA PITTURA</titlePart>
+        </docTitle>
+        <byline>DI <docAuthor>LEON BATTISTA ALBERTI</docAuthor> TRADOTTA PER <persName ref="#LodovicoDomenichi">M. LODOVICO DOMENICHI</persName></byline>
+        <figure type="ornement"/>
+        <imprimatur> Con Gratia et Privilegio. </imprimatur>
+        <figure type="ornement"/>
+        <docImprint>In <pubPlace ref="#Venise">Vinegia</pubPlace>, Appresso <publisher><persName ref="#GabrieleGiolitoDeFerrari">Gabriel Giolito de
+     Ferrari</persName></publisher></docImprint>
+        <docDate>
+          <date when="1547">M D X L V II.</date>
+        </docDate>
+      </titlePage>
+      <pb type="blankpage" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0006.jp2/full/max/0/default.jpg"/>
+      <div type="dedicace">
+        <pb n="2" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0006.jp2/full/max/0/default.jpg"/>
+        <head><persName ref="#LodovicoDomenichi">LODOVICO DOMENICHI</persName> A <persName ref="#FrancescoSalviati">FRANCESCO SALVIATI</persName> PITTORE ECCELLENTISSIMO. </head>
+        <figure type="ornement"/>
+        <figure type="ornement"/>
+        <p xml:id="ALB_DP_P1"> VOI DOVETE Sapere, Francesco amantissimo, come opinione di alcuni
+     Philosophi, che le anime nostre siano da principio tutte create nella mente di <persName ref="#Dieu">Dio</persName>, et quivi stiano, fin ch'a lui piace mandarle a peregrinare qua giù
+     ne'corpi nostri. La quale opinione se licito mi fosse per la fede nostra confessar per vera, io
+     non dubiterei di dire, che le anime di noi due si fossero conosciute fra loro nella habitation
+     superna, et conservata insieme lunga domestichezza, prima <pb n="2bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0007.jp2/full/max/0/default.jpg"/> ma ch'elle venissero
+     dalla patria del cielo allo esiglio del mondo. Perché non è maraviglia, che a voi paia l'avermi
+     et veduto et conosciuto altro venne perciò la credenza vostra punto v'inganna; se ben vi pare
+     che l'amicitia nostra habbia havuto principio in alcuna parte di questo mondo inferiore. Et io
+     tosto che vi rividi, cominciai strettissimamente ad amarvi, anzi per meglio dire, a continuare
+     l'antica benivolenza. Onde per segno di cio mi ho poi sempre ingegnato di mostrarmivi amico con
+     alcun dono, che vi facesse testimonio della simiglianza, ch'è fra gli animi nostri. Perché
+     ritornandomi in mano la traduttione ch'io feci già della Pittura di <persName ref="#LeonBattistaAlberti">Leon Battista Alberti</persName>, ho giudicato che ella meriti di
+     esservi intitolata. Non che a voi faccia mistiero nel nobilissimo <pb n="3" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0008.jp2/full/max/0/default.jpg"/> essercitio vostro
+     alcuno ammaestramento che in tale opra si trovi; perché i mirabili artifici delle vostre mani
+     ne tranno ogniun di dubbio; fra gli altri la sala di sua Illustrissima Eccellenza, dove tosto
+     si vedranno finiti i triomphi di Camillo, i quali testimonio faranno del valor vostro. Ma
+     perché non m'è paruto meglio convenirsi il trattato, il quale forma un perfetto pittore? Et
+     benché in quello non siate per trovare la perfettion sua, vi potrete però humilmente in voi
+     stesso allegrare, veggendovi compito in quello che l'auttore forse trovare non seppe. Et
+     parimente conoscerete quelle molte et rarissime doti a voi dalla natura concesse, et dalla arte
+     limate. Le quali sole non consistono intorno la pittura, ma vi fanno anco eloquente amabile et
+     discreto; et vi danno giù <pb n="3bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0009.jp2/full/max/0/default.jpg"/> dicio et cognitione più che mediocre delle buone
+     lettere. Onde col mezzo loro sete caro a i Principi et carisssimo a i privati; et tanto più non
+     si veggendo in voi quella affettata et maninconica bizzarria, la quale molti pari vostri tanto
+     fastidiosamente sogliono mendicare, per mostrarsi singolari; anzi in cambio di quella
+     trovandosi ogn'hora in voi gentilezza corte sia et nobilta d'animo, oltra quella che le virtù
+     vostre meritamente acquistato v'hanno. Ma ritornando al libro, accettatelo gratamente et
+     habbiatelo caro, così per pegno della nostra amicitia, come per testimonio del vostro valore.
+     State sano. Alli XX. di Febraro <date when="1547">MDXLVII</date>. Di <placeName ref="#Florence">Fiorenza</placeName>. </p>
+      </div>
+    </front>
+    <body>
+      <div type="livre" xml:id="L1" n="1">
+        <pb n="4" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0010.jp2/full/max/0/default.jpg"/>
+        <head> LIBRO PRIMO DE LA PITTURA DI <persName ref="#LeonBattistaAlberti">LEON BATTISTA
+      ALBERTI</persName>. </head>
+        <figure type="ornement"/>
+        <p xml:id="ALB_DP_L1_P1"><figure type="lettrine"/> HAVENDO io a scrivere de la Pittura in questi brevissimi comentari,
+     accioché il mio ragionamento sia più chiaro, prima torrò da i Mathematici quelle cose, che mi
+     parranno necessarie a la materia. Le quali poiché si saranno intese, inquanto l'ingegno mi
+     potrà servire, dichiarerò la pittura da i principi istessi de la natura. Ma in ogni mio
+     ragionamento voglio, che questo sopra tutto si consideri, che io non ragiono di queste tai cose
+     come Mathematico, ma come pittore. Percioché quegli con l'ingegno solo levata ogni materia,
+     misurano le specie, et le forme de le cose. Ma noi, perché vogliamo che la cosa sia posta
+     inanzi a gli occhi, useremo perciò scrivendo, come si suol dire, una più grassa <persName ref="#Minerve">Minerva</persName>. Et veramente che mi parrà d'aver fatto assai, se i pittori,
+     che leggeranno, m'intenderanno, scrivendo io il meglio, ch'io so, in questa materia certo
+     difficile, et de la quale, per quel, ch'io habbia veduto, non è mai più stato scritto cosa
+     alcuna. Voglio dunque, che le mie <pb n="4bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0011.jp2/full/max/0/default.jpg"/> cose siano interpretate non come scritte da
+     puro Mathematico, ma come da pittor solo. Bisogna dunque prima sapere, che punto è un segno,
+     per dir così, il quale non si può dividere in parti. In questo loco io chiamo segno tutto cio,
+     ch'è in superficie: che si può vedere con l'occhio: quelle, che veder non si possono, non è
+     alcuno, che creda, che elle s'appartengono al pittore. Percioché il pittore s'ingegna solamente
+     d'imitare le cose, che si veggono a la luce. I punti se continuamente saranno messi in ordine,
+     distenderanno una linea. Linea appresso di noi sarà un segno, la lunghezza del quale si può
+     dividere in parti: sarà però in larghezza sottilissima, di maniera, che non si possa per alcun
+     modo fendere. De le linee alcuna ve n'è diritta, alcuna torta. Linea diritta è un segno disteso
+     per diritto in lungo da punto a punto. Torta è quella, che scorre da un punto a l'altro non per
+     dritto passo, ma facendo un circuito. Molte linee, sì come fila in tela, se accostandosi
+     saranno messe insieme, faranno una superficie. Percioché superficie è l'ultima parte del corpo,
+     la quale vien conosciuta non per alcuna profondita, ma solo per larghezza, et per lunghezza,
+     che sono le qualità sue. De le qualità alcune sono talmente ne la superficie, che se ella non
+     viene alterata, elle non si possono movere, ne levare. Alcune altre qualità sono di tal sorte,
+     che durando il medesimo aspetto de la superficie, elle nondimeno si presentano a la vista, in
+     modo che la superficie a coloro, che la veggono, pare che sia mutata. Le qualità perpetue de le
+     superficie <pb n="5" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0012.jp2/full/max/0/default.jpg"/> sono due. Una è quella, che si può vedere per quello estremo circuito;
+     dal quale è serrata la prospettiva; il quale circuito è chiamato da alcuni Orizonte. Noi, se
+     pure è lecito, con vocabolo Latino per una certa similitudine lo chiameremo ora; o pure, quando
+     così ne piaccia, lembo. Et questo lembo istesso, anch'elli sarà o con una linea, o finito con
+     più linee. Con una sola come sarebbe una circolare; con più o con una torta, et un'altra
+     dritta; o pure che ancho sia circondata con più linee dritte, o torte. Linea circolare è quel
+     dintorno, ch'abbraccia, et contiene tutto il campo. Ma cerchio è la forma de la prospettiva, la
+     quale è circondata da una linea a modo di corona. Che se vi sarà un punto in mezzo, tutti i
+     raggi tirati per dritto da questo punto a la corona, sono tutti d'una lunghezza eguale. Questo
+     punto si chiama il centro del cerchio. La linea dritta, la quale havrà due volte tagliato la
+     corona del cerchio, è detta da i Mathematici diametro del cerchio. Noi la chiameremo centrica:
+     e in questo loco i Mathematici istessi voglio, che ne facciano credere, come essi dicono, che'l
+     lembo, il quale non è tagliato d'alcuna linea, segna due canti eguali da la corona del cerchio,
+     se non quella dritta, che tocca il centro proprio. Ma ritorniamo a le superficie. Perché da
+     quel, ch'io ho detto, facilmente si può intendere, come mutandosi il tratto del dintorno, la
+     superficie istessa perda l'aspetto, e'l nome di prima: et quella, che peraventura si diceva
+     triangolo, hora si chiamerà quadrato, o forse di più canti. Il dintorno s'intenderà <pb n="5bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0013.jp2/full/max/0/default.jpg"/> esser mutato, se sarà fatta breve la linea, o i canti non solo più, ma più
+     spuntati, più lunghi, più acuti, o più brevi, in qual modo si sia. Questo loco richiede, che
+     diciamo alcuna cosa de gli anguli. Perché angulo è il confine de la superficie fatto da due
+     linee, che si tagliano l'una l'altra. Tre sorti sono d'anguli; retto, ottuso, et acuto. Angulo
+     retto è uno de i quattro anguli, il quale è circondato in modo da due linee rette, che si
+     tagliano l'una l'altra, che viene a essere eguale a ciascuno de gli altri tre; di qui è, che si
+     dice, tutti gli anguli retti sono eguali fra loro. Angulo ottuso è quel, ch'è maggior del
+     retto. L'acuto è quel, ch'è minore del retto. Ritorniamo di nuovo a la superficie. Habbiamo
+     mostrato in che modo una qualità per dintorno sia ne la superficie. Resta hora, che si dica de
+     l'altra qualità de le superficie, la quale è per modo di parlare, come una certa pelle distesa
+     per tutto il dosso de la superficie. Questa si divide in tre. Percioché una ve n'è di una
+     forma, et piana; l'altra gonfiata et tonda; la terza profonda, et concava. Nel quarto loco a
+     queste sono da essere aggiunte le superficie, le quali sono composte de le predette. Di queste
+     si dirà poi, diciamo hora de le prime. Superficie piana è quella, la quale una linea retta
+     tirata di sopra egualmente tocca in ciascuna parte di lei; a questa è molto simile il piano
+     d'una purissima, et riposata acqua. La superficie spherica imita il dosso de la sphera. La
+     sphera si diffinisce un corpo rotondo, volubile in tutte le parti; nel mezzo de la quale è un
+      <pb n="6" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0014.jp2/full/max/0/default.jpg"/> punto, dal quale tutte le parti estreme di quel corpo sono egualmente lontane.
+     Concava superficie è quella, la quale sta sotto l'estremità di dentro, per dir così, sotto
+     l'ultima pelle de la sphera; sì come sono le superficie di dentro ne i gusci de l'uova.
+     Superficie composta è quella, la quale con una misura imita il piano, con l'altra o la concava,
+     o la tonda superficie; sì come sono le superficie di dentro de le canne, et quelle di fuora de
+     le colonne, o de le piramidi. A questo modo le qualità, che sono nel circuito, e nel dosso,
+     hanno posto, come habbiamo detto, i cognomi a le superficie. Ma quelle qualità, le quali senza
+     mutare superficie, non mostrano però sempre il medesimo aspetto di loro, anch'elle son due.
+     Percioché paiono a quei, che le guardano, variate o per loco, o per i lumi mutati. Prima diremo
+     del loco, et poi de i lumi. Perché s'ha da considerare, in che modo essendosi mutato loco, le
+     qualità proprie, che sono ne la superficie, paiano esser mutate. Certo queste cose appartengono
+     a la forza de gli occhi. Perché mutato la lontananza, o'l sito, è necessario anchora, che i
+     dintorno paiano o minori, o maggiori, o non in tutto di quel medesimo dintorno, che in fino a
+     qui sono state, o forse anchora accresciute, o sminuite di colore. Tutte le quali cose noi
+     misuriamo con la vista. Hora veggiamo in che modo questo si faccia. Et cominciamo da la
+     sentenza de i philosophi, i quali vogliono, che le superficie si misurino con certi raggi quasi
+     ministri de la vista: i quali chiamano per questo visivi, perché per essi i <pb n="6bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0015.jp2/full/max/0/default.jpg"/>
+     simulacri de le cose s'imprimono nel senso. Percioché i raggi istessi tra l'occhio, et la
+     superficie, veduta, intenti per propria natura, et per una certa mirabile sottigliezza,
+     benissimo convengono. Penetrando l'aere, et simili corpi rari, dove può giungere la luce, fin
+     che ritrovino alcuna cosa soda, et non in tutto ombrosa; nel qual loco ferendo di punta subito
+     si fermino. Però fu grandissima disputa appresso gli antichi, se i raggi istesssi escono da la
+     superficie, o pur da l'occhio. La quale disputa veramente difficile, et fuor di proposito
+     voglio, che noi la passiamo. A noi basti, che s'imaginiamo, che i raggi a modo d'alcune fila
+     sottilisime, siano drittissimamente legati con un capo quasi in un mazzo. Et che essi siano
+     recevuti insieme per l'occhio di dentro, là dove si ferma il sentimento de la vista; nel qual
+     loco si fermano non altramente, che il tronco de i raggi; da onde uscendo per lungo i raggi
+     stanchi, come per una drittissima verga, scorrono a la superficie, che gli è dirimpetto. Ma tra
+     questi raggi vi è alcuna differenza, la quale io giudico, che molto necessario sia sapere. Sono
+     differenti di forze, et d'ufficio. Percioché alcuni toccando i dintorni de le superficie
+     misurano tutte le quantità de la superficie. Questi gli chiameremo ultimi raggi, perché volano
+     misurando le ultime parti. Gli altri raggi, o ricevuti da ogni dosso de la superficie, o
+     scorrendo dentro di quella piramide, de la quale poco dapoi ragioneremo al suo loco; fanno
+     anch'esssi l'ufficio suo. Percioché si riempiono di quegli istessi colori, et lumi, de i quali
+     la superficie <pb n="7" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0016.jp2/full/max/0/default.jpg"/> risplende. Chiameremo dunque questi raggi mezzi. Vi sono anchora
+     alcuni raggi, i quali per havere una certa similitudine con la linea centrica, de la quale
+     habbiamo parlato, sono detti centrici, percioché stanno di modo fermi ne la superficie, che
+     d'ogni parte circa loro si fanno eguale a l'angulo. A questo modo ritrovato habbiamo tre sorti
+     di raggi, estremi, mezzi, et centrici. Veggiamo dunque quello, che ciascuno di questi raggi
+     conferisce a la vista: et prima si parlerà de gli estremi, poi de i mezzi, et finalmente del
+     centrico. Con i raggi estremi si misurano le quantità. La quantità è uno spatio tra duo punti
+     separati del dintorno, che passa per la superficie; il quale spatio misura l'occhio con questi
+     raggi estremi, quasi con un certo instromento di sesto. Et tante sono le quantità ne la
+     superficie, quanti sono i punti separati nel dintorno, i quali si guardano l'un l'altro.
+     Percioché solo con questi estremi raggi misuriamo la grandezza, ch'è tra'l supremo, et
+     l'infimo, la larghezza, ch'è tra il destro, e'l sinistro, la grossezza, ch'è tra il più vicino,
+     e'l più lontano, o vero tutte l'altre misure, le quali riconosciamo con la vista. La onde si
+     suol dire questo, che la vista si fa per triangulo; la base de la quale è la quantità veduta, e
+     i lati de la quale sono proprio quei raggi, i quali si estendono da i punti de la quantità a
+     l'occhio. Ma questo è ben certissimo, che nessuna quantità si può vedere se non per questo
+     medesimo triangulo visivo. I lati dunque del triangulo sono aperti. Gli anguli sono due in
+     questo medesimo triangulo, o l'uno, o l'altro <pb n="7bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0017.jp2/full/max/0/default.jpg"/> di quei capi de la quantità. Ma il
+     terzo, et principale angulo è quello, il quale opposto a la base, si ferma dentro l'occhio. Ne
+     s'ha da disputare in questo loco, s'egli si ferma proprio ne la giuntura del nervo di dentro de
+     la vista, come si dice; o se pure le imagini si figurano in quella superficie de l'occhio,
+     quasi come in specchio animato. Ma non vogliamo ancho raccontare in questo loco tutti gli
+     uffici de gli occhi a vedere; percioché basterà, che in questi comentari brevemente si mostrino
+     quelle cose, che son più necessarie al nostro proposito. Fermandosi dunque ne l'occhio il
+     principale angulo visivo, si è tratta questa regola; che quanto è più acuto l'angulo ne
+     l'occhio, che tanto appare la quantità più breve; la onde benissimo si comprende, onde viene,
+     che per molta lontananza la quantità pare che s'assottigli fino a un punto. Nondimeno benché
+     questo sia vero, aviene però in alcune superficie, che quanto gli è più appresso l'occhio di
+     chi guarda, tanto ne veggia minor parte; quanto più lontano, tanto maggior parte vegga di
+     quella superficie; la qual cosa si può vedere, che così è ne la superficie tonda. Le quantità
+     dunque per la lontananza alcuna volta paiono maggiori, et minori a quei, che le guardano. De la
+     qual cosa colui, che intenderà ben la ragione, non dubiterà punto, che i raggi di mezzo talhora
+     si fanno estremi; et che gli estremi cambiata la distanza anch'essi si fanno mezzi. Et per
+     questo conoscera, che tosto che i raggi di mezzo son fatti estremi, subito la quantità pare
+     minore. Et per il contrario <pb n="8" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0018.jp2/full/max/0/default.jpg"/> quando i raggi estremi son ricevuti dentro, quanto più
+     quegli son lontani dal dintorno, la quantità tanto pare maggiore. Qui dunque sono io usato di
+     dare una regola a i famigliari miei, quanto più raggi nel vedere sono occupati, che tanto più
+     la quantità guardata si giudica maggiore; quanto son meno i raggi, ella pare tanto minore. Ma
+     questi raggi estremi comprendendo a modo di denti tutto il dintorno de la superficie,
+     circondano tutta la superficie quasi d'una gabbia. Onde si dice poi questo, che la vista si fa
+     per una piramide di raggi. Diremo dunque perciò, che cosa sia piramide. Piramide è figura d'un
+     corpo lungo da la base de la quale tutte le linee rette tirate in su, confinano a una sola
+     punta. La base è la superficie de la piramide, che si vede. I lati de la piramide sono i raggi
+     visivi; i quali habbiamo detto, che si chiamano estremi. La punta de la piramide ivi si ferma
+     dentro l'occhio, dove gli anguli de le quantità s'uniscono insieme. Questo hasti haver detto de
+     i raggi de fuori, da i quali si fa la piramide; per la quale con ogni ragione si comprende, che
+     molto importa quali distanze siano poste in mezzo tra le superficie, et l'occhio. Seguita, che
+     si dica de i raggi di mezzo. I raggi di mezzo sono quella multitudine di raggi, la quale
+     circondata da i raggi estremi è contenuta dentro la piramide. Et però questi medesimi raggi
+     fanno quel, che si dice de l'animale Camaleonte, il quale spaventato suol prendere il colore de
+     le cose vicine; accioché facilmente non sia ritrovato da i cacciatori. <pb n="8bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0019.jp2/full/max/0/default.jpg"/> Questo
+     medesimo fanno i raggi di mezzo. Percioché dal piano de la superficie, fino a la punta de la
+     piramide, per tutto quel tratto si macchiano talmente da la varietà trovata de i colori, et de
+     i lumi, che in ogni loco, dove si rompono, in quel medesimo loco rappresentano quel proprio
+     lume intiero, et quello stesso colore. Et di questi raggi di mezzo prima per l'effetto istesso
+     s'è conosciuto, ch'essi per molta distanza mancano, et fanno la vista più debile; finalmente
+     s'è poi trovata la ragione, perché questo sia. Percioché sendo che questi, et tutti gli altri
+     raggi visivi ripieni di lumi, et di colori, et gravi assaliscono l'aere; et l'aere istesso
+     anch'elli è sparso d'alcuna grossezza, avvviene, che molta parte del carico, mentre che
+     scorrono l'aere, abbassi i raggi stanchi. Per questo ragionevolmente si dice, quanto la
+     distanza è maggiore, che tanto la superficie pare più oscura, et più fosca. Resta a dire del
+     raggio centrico. Raggio centrico chiamiamo quello, il qual solo ferisce la quantità di modo,
+     che gli anguli eguali d'ogni parte, rispondano a gli anguli, che si gli accostano. Et veramente
+     che in quanto spetta a questo raggio centrico, verissimo è, ch'egli è il molto più gagliardo,
+     et più vivo di gran lunga di tutti gli altri. Et non si può negare, che la quantità mai non
+     pare maggiore, se non quando il raggio centrico si ferma in essa. Più cose si potrebbono dire
+     de la forza, et de l'ufficio del raggio centrico. Questa sola non s'ha da lasciare per alcun
+     modo, che questo solo raggio, quasi con una certa congressione unita circondato da gli altri
+     raggi è riscaldato; di maniera, che meritamente <pb n="9" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0020.jp2/full/max/0/default.jpg"/> si può chiamare capitano, et
+     principe de i raggi. De l'altre cose non parleremo punto, le quali più tosto sarebbono
+     convenute a far prova d'ingegno, che a la materia, de la quale abbiamo proposto di trattare. Ma
+     in questo loco, quanto richiede la brevità de i comentari, basti haver raccontato quelle cose,
+     da le quali nessuno sia, che dubiti, che ciò non sia; il che credo, che sofficientemente si sia
+     mostrato; che mutata la distanza, e'l fondamento del raggio centrico, subito la superficie pare
+     alterata. Percioché ella parrà mutata come minore, o maggiore, o finalmente secondo l'ordine de
+     le linee, et de gli anguli tra loro. Il fondamento dunque, et la distanza del centrico giovano
+     molto a la certezza de la vista. Evvi anchora un certo terzo, dal quale le superficie si
+     presentano differenti, et varie a quei, che le guardano. Perché si può vedere ne la superficie
+     tonda, et concava, se vi è un lume solo, che la superficie da una parte è poco più oscura, da
+     l'altra più chiara; et durando quella medesima distanza, et quel primo fondamento centrico,
+     mentre che quella istessa superficie a uno altro lume differente dal primo, vedrai, che quelle
+     parti ivi sono oscure, le quali dianzi poste sotto diverso lume risplendevano; et quelle
+     medesime esser chiare, le quali prima erano adombrate. Ancho allhora se più lumi vi saranno,
+     secondo il numero, et le forze de i lumi, risplenderanno ne suoi luoghi di varia macchia, di
+     chiarezza, et d'oscurità. Questa cosa si può vedere con la prova. Ma questo loco ci avisa a
+     dovere dire alcuna cosa de i lumi, et de i colori. Chiaro è, <pb n="9bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0021.jp2/full/max/0/default.jpg"/> che i colori sono
+     variati da i lumi; percioché ogni colore non è il medesimo a vedre ne l'ombra, che quando è
+     posto sotto i raggi de i lumi. Perché l'ombra fa il color fosco, ma il lume chiaro, et aperto.
+     Dicono i philosophi, che cosa alcuna non si può vedere, la quale non sia vestita di lume, et di
+     colore; grandissimo parentado è dunque tra i lumi, e i colori a mandare la vista; la quale
+     quanta sia, di qui si può conoscere, che morendo il lume, i colori anch'essi oscurandosi pian
+     piano si muoiono. Et ritornando la luce, i colori anch'esi si rinovano a l'aspetto insieme con
+     le forze de i lumi. La qual cosa poi che così è, s'ha da vedere dunque prima de i colori, dapoi
+     investigaremo i colori, in che modo essi si variano sotto i lumi. Lasciamo stare quella disputa
+     de i philosophi, ne la quale si cercano i primi nascimenti de i colori. Percioché, che giova al
+     pittore il sapere, in che modo sia fatto il colore da i mescolamenti del raro, et del folto,
+     del caldo, et del secco, o del freddo, et de l'humido? Non però mi fo beffe di quei
+     philosophanti, i quali disputano in modo de i colori, che fanno le specie loro essere sette a
+     numero, et che'l bianco, e'l nero sono due estremi de i colori. Che uno è tra il mezzo, et che
+     due sono tra l'estremo, e'l mezzo istesso; che uno tenga più de l'estremo de l'altro gli
+     mettono quasi che stiano in dubbio del confine. A un pittore basta che sappia quali siano i
+     colori, et in che modo se n'ha da servire ne la pittura. Io non vorrei essere ripreso da i
+     dotti, i quali mentre che seguono i philosophi, vogliono, che vi siano solamente dui colori
+     intieri, bianco, <pb n="10" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0022.jp2/full/max/0/default.jpg"/> et nero, et che tutti gli altri nascano dal mescolamento di
+     questi due. Io veramente come pittore ho questa opinione de i colori, che col mescolamento
+     nascano altri quasi infiniti colori. Ma sono bene appresso i pittori quattro vere sorti di
+     colori secondo il numero de gli elementi, da i quali se ne tranno assaissime sorti. Perché vi è
+     il color di foco, per dir così, il quale si chiama rosso. V'è quello de l'aere, che si chiama
+     celeste, o vero azurro; il color de l'acqua verde. La terra ha il color de la cenere. Tutti gli
+     altri colori veggiamo, che si fanno dal mescolamento, sì come del diaspro, et de la pietra del
+     porfido. Quattro son dunque le sorti de i colori, de i quali secondo la mistura del bianco, et
+     del nero innumerabili quasi sono le sorti. Percioché veggiamo che le frondi, che verdeggiano,
+     abbandonano per gradi la verdura fin che ella imbianca. Il medesimo veggiamo ne l'aere, che le
+     più volte sparso d'un vapor, che biancheggia circa l'orizonte, pian piano ritorna al suo
+     proprio colore. Questo veggiamo anchora ne le rose, de le quali alcune somigliano una piena, et
+     infiammata porpora, alcune altre guancie di vergine, altre il candido avorio. Il colore de la
+     terra anch'egli con la mistura del bianco, et del nero ha le sue sorti. Dunque il mescolamento
+     del bianco non cambia il genere de i colori, ma crea le specie istesse; al quale molto simiglia
+     il color nero. Percioché col mescolamento del nero nascono molte sorti di colori; il che
+     benissimo si va mutando da l'ombra, onde il colore istesso era manifesto. Perché crescendo
+     l'ombra del colore, la chiarezza, et la <pb n="10bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0023.jp2/full/max/0/default.jpg"/> bianchezza viene a mancare. Ma quando
+     il lume cresce, si rischiara, et si fa più bianca. Si può dunque persuadere abastanza al
+     pittore, che'l bianco, e'l nero non siano veri colori, ma per dir così, mutatori di colori.
+     Percioché il pittore niente altro ritrova da potere rappresentare l'ultima candidezza del lume,
+     se non il bianco; et solo il nero per dimostrare l'ultime tenebre. Aggiungi a questo, che tu
+     non ritroverai in alcun loco il bianco, o'l nero, che non sia sotto alcuna sorte di colori.
+     Resta che parliamo della sorza de i lumi. I lumi alcuni sono de le stelle, come del Sole, et de
+     la Luna, et de la stella di <persName ref="#Venus">Venere</persName>; altri sono de le lampade,
+     et del foco. Ma tra questi vi è una gran differenza. Perché i lumi de le stelle rappresentano
+     ombre molto eguali a i corpi. Il foco le fa maggiori, che non sono i corpi. Alhora si fa
+     l'ombra, quando i raggi de i lumi sono occupati. I raggi occupati o si piegano altrove, o si
+     rivolgono in se stessi. Si piegano, come quando i raggi del Sole salgono da la superficie de
+     l'acqua nel palco: et ogni piegatura de i raggi, sì come provano i Mathematici, si fa con
+     anguli eguali tra loro. Ma queste cose spettano a un'altra parte de la pittura. I raggi torti
+     per alcuna parte si riempiono di quel colore, il quale ritrovano in quella superficie, da la
+     quale si piegano. Questo veggiamo fare in tal modo, quando i volti di coloro, che caminano per
+     gli prati, paiono verdeggiare. lo ho dunque detto de le superficie; ho parlato de' raggi; ho
+     mostrato in che modo guardando s'edifichi una piramde da i trianguli. Ho provato come
+     grandissimamente <pb n="11" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0024.jp2/full/max/0/default.jpg"/> importi, che la distanza, il fondamento del raggio centrico, e'l
+     ricetto de'lumi sia certo. Nondimeno con uno aspetto solo veggiamo non pure una, ma assaissime
+     superficie anchora. Poi che s'è ragionato ne ancho leggiermente di tutte le superficie d'una in
+     una, hora s'ha da investigare, in che modo le superficie congiunte insieme si rappresentano.
+     Ciascuna superficie, come s'è mostrato, ripiena ha la propria piramide, i suoi colori, e i suoi
+     lumi; percioché sendo coperti i corpi da le superficie, tutte le quantità de i corpi, che si
+     veggono, et le superficie rappresentano una sola piramide, piena di tante piramidi minute,
+     quante superficie si comprendono co i raggi in quella vista. Poi che queste cose così sono,
+     potrà nondimeno alcuno dire, che utilità è per dare tanta investigatione a un pittore a
+     dipingere? Questa veramente, cioé ch'egli si conosca per essere alhora uno artifice perfetto,
+     quando havrà considerato benissimo le differenze, et le proportioni de le superficie; il che
+     pochissimi sono quei, che lo sappiano. Percioché se saranno dimandati quel che si sforzano di
+     conseguire in quella superficie, che tingono, possono meglio d'ogni altra cosa rispondere, che
+     di quello, che si pensano Per la qual cosa io prego gli studiosi pittori, che mi vogliano
+     udire. Perché non fu mai vergogna imparare da quale si voglia mastro quelle cose che giovano a
+     sapere. Et voglio ch'imparino mentre circondano la superficie di linee, et mentre ch'empiono i
+     luoghi descritti di colori, che non è alcuna cosa, che più si cerchi, quanto che fare, che in
+     questa sola <pb n="11bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0025.jp2/full/max/0/default.jpg"/> superficie si rappresentino più forme di superficie. Non altramente
+     che se questa superficie, la quale cuoprono di colori, fusse a modo di vetro, et transparente
+     di sorte, che tutta la piramide visiva passasse per essa a vedere i corpi veri, avendo ordinato
+     da lungi ne l'aere a i suoi luoghi, certa distanza, et certo fondamento del raggio centrico, et
+     del lume; la qual cosa i pittori mostrano, che così è, quando si levano da quella cosa, che
+     dipingono, et si fermano più lontano, cercando con la guida de la natura la punta di questa tal
+     piramide. Onde conoscono, che ogni cosa meglio si comparte, et si misura. Ma quando questa è
+     una sola superficie d'una tavola, o d'un muro, ne la quale il pittore si sforza di dipingere
+     molte, et varie superficie, et piramidi comprese in una sola piramide, bisognerà, che in alcun
+     suo loco si tagli questa piramide visiva; accioché il pittore con le linee, et col dipingere
+     possa esprimere i dintorni, e i colori nel modo, che sono fatti dal taglio. Il che sendo così
+     guardando la superficie dipinta veggono un certo taglio de la piramide. La pittura sarà dunque
+     un taglio de la piramide visiva secondo la distanza data, rappresentata con arte con linee, et
+     colori, posto il centro, et ordinati i lumi ne la superficie fondata. Hora poi che habbiamo
+     detto, che la pittura e taglio de la piramide, per questo tutte le cose habbiamo da
+     considerare, per le quali tutte le parti del taglio diventino chiarissime. L'ultimo
+     ragionamento nostro sarà dunque de le superficie, da le quali s'è mostrato, che derivano le
+     piramidi, che si tagliano con la pittura. De le superficie alcune <pb n="12" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0026.jp2/full/max/0/default.jpg"/> sono, che
+     giacciono in piano, sì come sono gli spazzi de gli edifici, et certe superficie, che sono
+     egualmente lontane da lo spazzo. Altre sono piegate in fianco, sì come sono i muri, et l'altre
+     superficie tutte d'una linea co i muri. Le superficie s'intendono esser lontane egualmente fra
+     loro, quando la distanza posta in mezzo di quelle in ogni loco suo è la medesima. Le superficie
+     d'una istessa linea sono quelle, le quali egualmente son tocche in ogni sua parte da una linea
+     dritta continuata; sì come sono le superficie de le colonne quadrate, le quali per ordine
+     dritto stanno a una loggia. Queste cose s'hanno d'aggiungere a quelle, le quali di sopra
+     abbiamo detto de le superficie. Ma a quelle, c'habbiamo raccontato de i raggi così di fuora,
+     come di dentro, et del centrico, et de la piramide visiva anchora, vi s'ha d'aggiungere quella
+     sentenza de i Mathematici, per la quale questo si prova; che se una linea dritta taglia duo
+     lati d'alcun triangulo; et ella sia, che tagli, et ultimamente faccia il triangulo, la linea de
+     l'altra linea del primo triangulo egualmente lontana, certo alhora questo maggior triangulo co
+     i lati sarà proportionale al minore. Questo dicono i Mathematici. Ma noi, accioché il nostro
+     ragionamento sia più chiaro a i pittori, trattaremo più largamente di questa cosa. Prima
+     appresso di noi in questo loco s'ha da sapere, che cosa è proportionale. Noi chiamiamo
+     trianguli proportionali quegli, i lati, et gli anguli de i quali servano molto quella medesima
+     ragione; che se un lato del triangulo sarà in lunghezza due volte, et mezzo <pb n="12bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0027.jp2/full/max/0/default.jpg"/>
+     quanto la base, e uno altro tre, tutti questi tali trianguli overo che siano maggiori, o minori
+     di questo, pur c'habbiano per modo di ragionare, la medesima convenienza de i lati a la base,
+     saranno proportionali fra loro. Percioché quella ragione, ch'è d'una parte a l'altra nel
+     maggior triangulo, quella medesi ma sarà nel minore; tutti i trianguli dunque, i quali stanno
+     in questo modo, appresso di noi saranno chiamati proportionali fra loro; et accioché questo
+     anchora più chiaramente s'intenda, useremo una certa similitudine. Un'huom picciolo è
+     proportionale a uno huomo grandissimo al cubito, dove che sarà la medesima proportione del
+     palmo, et del piede a l'altre parti del suo corpo, in questo, come sarebbe <persName ref="#Evandre">Evandro</persName>, in quello come sarebbe <persName ref="#Hercule">Hercole</persName>, il quale <persName ref="#AuluGelle">Gellio</persName> fa congiettura, che
+     fosse grande, et sinisurato sopra gli al tri huomini. Ne vi fu anchora altra proportione ne le
+     membra d'<persName ref="#Hercule">Hercole</persName>, di quella, che fu nel corpo d'<persName ref="#Antee">Antheo</persName> gigante. Percioché sì come a l'uno, et l'altro la simmetria de
+     la mano al cubito, et del cubito al proprio capo, et de gli altri membri convenivano fra loro
+     con egual misura; così questo medesimo accaderà ne i nostri trianguli; accioché sia alcuna
+     misura fra i trianguli, per la quale il minore si confaccia col maggiore ne l'altre cose,
+     eccetto che ne la grandezza. Se queste cose sono a bastanza intese ordiniamo per sentenza de i
+     Mathematici, in quanto conferisce a la materia nostra; che ogni taglio d'alcun triangulo
+     egualmente lontano da la base, fa un triangulo: simile, come essi dicono, a quel suo maggior
+      <pb n="13" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0028.jp2/full/max/0/default.jpg"/> triangulo, ma secondo noi proportionale. Percioché in quegli, che sono
+     proportionali fra loro, tutte le parti si rispondono. Ma in quei, dove le parti sono diverse,
+     et non convenienti, queste non son punto proportionali. Le parti del triangulo visivo oltra le
+     linee, sono ancho i raggi istessi, i quali saranno eguali a i veri nelle quantità proportionali
+     de la pittura, che s'hanno da vedere a numero; ma non saranno pari in quelle, che non sono
+     proportionali. Percioché una di queste quantità non proportionali occuperà o più raggi, o meno.
+     Tu hai inteso dunque in che modo alcun minor triangulo si dica proportionale al maggiore. Et ti
+     dei ricordare come la piramide visiva si fa di trianguli. Traducasi dunque ogni nostro
+     ragionamento, che habbiam fatto de i trianguli a la piramide. Et diamosi a credere noi, che
+     nessuna quantità de la superficie vista, la quale egualmente sia lontana dal taglio, non faccia
+     alteratione alcuna ne la pittura. Percioché quelle quantità egualmente lontane, sono egualmente
+     in ogni taglio lontano proportionali alle sue corrispondenti: la qual cosa sendo così ne segue
+     questo, che senza alterare le quantità, de le quali si compie il campo, et con le quali si
+     misura il contorno, non succede alcuna alteratione del contorno ne la pittura; et questo
+     anchora è cosa chiara, che ogni taglio de la piramide visiva egualmente lontano da la
+     superficie veduta, è comproportionale a quella superficie considerata. Habbiamo detto de le
+     superficie proportionali al taglio, cioè egualmente lontane a la superficie dipinta. Ma quando
+     v'intravengono <pb n="13bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0029.jp2/full/max/0/default.jpg"/> molte superficie da dipingere non egualmente lontane, di queste
+     noi dobbiamo havere una diligente consideratione, accioché si dichiari tutta la ragione del
+     taglio. Perché lungo sarebbe, molto difficile, et oscurissimo anchora, in questi tagli de i
+     trianguli, et de la piramide proseguire ogni cosa secondo la regola de i Mathematici. Et però
+     secondo usanza nostra passeremo inanzi ragionando come pittore. Raccontiamo brevissimamente
+     alcuna cosa de le quantità, che non sono egualmente distanti; le quali quando s'havranno
+     intese, facile sarà ogni cognitione de la superficie non egualmente lontana. De le quantità
+     dunque, che non sono egualmente lontane, alcune sono in una medesima linea co i raggi visivi,
+     alcune altre egualmente lontane ad alcuni raggi visivi. Le quantità, che sono in una medesima
+     linea co i raggi, perch'elle non fanno triangulo, et non occupano numero di raggi, per questo
+     non acquistano loco alcuno col taglio. Ma ne le quantità lontane egualmente a i raggi visivi,
+     di quanto sara più spuntato quello angulo, ch'è maggiore alla base del triangulo, quella
+     quantità pigliera tanto meno raggi, et per ciò col taglio occuperà meno spatio. Habbiamo detto,
+     che la superficie si copre con le quantità; ma poi che ne le superficie spesse volte avviene,
+     che in essa vi e alcuna quantità egualmente lontana dal taglio; ma che l'altre quantità de la
+     madesima superficie non sono egualmente lontane, per questo avvien poi, che quelle quantità
+     egualmente lontane, le quali sono ne la superficie, queste sole non fanno alcuna alteration ne
+     la pittura. <pb n="14" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0030.jp2/full/max/0/default.jpg"/> Ma le quantità, che non sono egualmente lontane, queste quanto più
+     spuntato havranno l'angulo, il quale nel triangulo sia maggiore a la base, riceveranno tanto
+     più alteratione. Finalmente a tutte queste cose vi s'ha d'aggiungere quella opinione de
+     philosophi, ne la quale affermano, che se'l cielo, le stelle, i mari, i monti, et gli animali
+     istessi, et finalmente tutti i corpi, così volendo <persName ref="#Dieu">Iddio</persName>, si
+     facessero minori la metà di quel, che sono, che ancho a noi parrebbe, che non fossero sminuiti
+     in parte alcuna di quel, che sono hora. Percioché il grande, il piccolo, il lungo, il breve,
+     l'alto, il basso, lo stretto, il largo, l'oscuro, il tenebroso, et ciascuna altra cosa tale, le
+     quali perché possono essere et non essere ne le cose i philosophi hanno per questo chiamato
+     accidenti, sono di modo, che la cognition piena di quelle tutta si fa col paragone. <persName ref="#Virgile">Virgilio</persName> dice, ch'<persName ref="#Enee">Enea</persName> avanzava con
+     tutte le spalle sopra gli altri uomini. Et nondimeno se si farà paragon di lui a <persName ref="#Polypheme">Poliphemo</persName>, egli parrà un pigmeo. Dicono, ch'<persName ref="#Euryale">Eurialo</persName> fu bellissimo; et pure se lo paragoneremo a <persName ref="#Ganymede">Ganimede</persName> rapito da <persName ref="#Jupiter">Giove</persName>, forse
+     che parrà brutto. In <placeName ref="#Espagne">Hispagna</placeName> molte vergini sono stimate
+     bianche, le quali sarebbono credute in <placeName ref="#Allemagne">Alemagna</placeName> di
+     color fosco. L'avorio, et l'argento son bianchi di colore; i quali se si metteranno a paragone
+     del Cigno o de drappi simili a la neve, parranno smorti. Per questo rispetto ne la pittura le
+     superficie paiono forbitissime, et fuor di modo risplendenti; quando in quelle vi è quella
+     proportione del bianco al nero, la quale è ne le cose istesse del chiaro a l'ombroso. <pb n="14bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0031.jp2/full/max/0/default.jpg"/> Tutte queste cose dunque s'imparano con paragoni. Percioché vi è una forza in far
+     paragone de le cose, onde conoscemo poi quel ch'è più, et meno, et cio, che v'è di eguale. La
+     onde chiamiamo grande cio, ch'è maggiore di questa cosa picciola; grandissimo quel, ch'è
+     maggiore di questo grande, lucido quel, ch'è più chiaro de l'escuro, lucidissimo quel, ch'è più
+     lucido di questo chiaro. Il paragone si fa principalmente a le cose notissime. Ma essendo
+     l'uomo notissimo a l'huomo più che tutte l'altre cose, per aventura <persName ref="#Protagoras">Protagora</persName>, il quale diceva, che l'uomo e modo, et misura di tutte le cose, questo
+     medesimo voleva dire, che gli accidenti di tutte le cose drittamente si paragonano, et si
+     conoscono con gli accidenti de l'uomo. Queste cose risguardano a quel fine accio che
+     conosciamo, che quai corpi si vogliano, che tu dipingerai ne la pittura, che quegli paiono
+     grandi o piccioli secondo la misura de l'huomo, che vi è dipinto. Veramente a me pare, che
+      <persName ref="#Timanthe">Thimante</persName> fra tutti gli antichi considerasse la forza di
+     questo bellisimo paragone, il quale pittore, come si dice, dipingendo un Ciclope, che dormiva,
+     in un picciol quadro, vi fece appresso alcuni satiri, che abbraciavano il dito grosso di colui,
+     che dormiva; accioché con quella misura de i satiri colui, che dormiva, paresse di gran lunga
+     molto più grande. Hora fin qui noi habbiamo detto quasi tutte le cose, che appartengono a la
+     forza del vedere, et a conoscere il taglio. Ma perché è necessario a la materia sapere non pur
+     ciò ch'è, et di che si faccia il taglio, ma anchora in che modo egli si fa, s'ha da dire di <pb n="15" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0032.jp2/full/max/0/default.jpg"/> questo taglio, con quale arte dipingendo egli s'esprima. Di questo dunque lasciando
+     stare l'altre cose, dirò quel, ch'io medesimo soglio fare, quando io dipingo. In prima nel
+     dipingere la superficie faccio un quadrato grande, quanto mi piace d'anguli dritti; il quale mi
+     serve per una finestra aperta, onde si possa vedere l'historia; et quivi determino quanto io
+     voglio, che gli huomini sian grandi ne la pittura; dapoi parto la lunghezza di questo huomo in
+     quattro parti; le quali parti a me sono proportionali con quella misura, che'l vulgo chiama
+     braccio. Percioché quella lunghezza di tre braccia è molto comune del corpo humano, come si
+     vede chiaro da la simmetria de le me bra de l'huomo. Con questa misura dunque io parto la linea
+     bassa, che sta giacendo del quadrangulo dissegnato in quante parti ella può capire; et
+     veramente che a me questa linea del quadrangulo, che sta a giacere, è proportionale a la
+     quantità veduta più prossima per traverso, et egualmente lontana ne lo spazzo. Dopo questo
+     faccio un punto solo nel quadrangulo in loco, dove sia veduto; il quale punto m'occupi quel
+     loco istesso, al quale arriva il raggio centrico; et per questo lo chiamo punto centrico. Il
+     fondamento honesto di questo punto centrico e, che non sia più alto da la linea, che sta a
+     giacere, quanto è la lunghezza di quello uomo, che s'a a dipingere. Percioché a questo modo et
+     quei, che guardano, et le cose dipinte pare, che siano in un piano equale. Fatto il punto
+     centrico, tiro le linee dritte dal medesimo punto centrico a le divisioni d'una in una de la
+      <pb n="15bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0033.jp2/full/max/0/default.jpg"/> linea, che sta a giacere; le quali linee mi dimostrano, in che modo quasi ad
+     infinita lontananza le quantità di traverso per succedere a lo intervallo si ristringano sotto
+     la vista. Qui sarebbono alcuni, i quali tirarebbono una linea dentro dal quadrangulo egualmente
+     lontana da quella, ch'è partita, et partirebbono in tre parti lo spacio, il quale e tra queste,
+     et quelle linee. Dapoi aggiungerebbono a questa seconda linea egualmente lontana, una altra ne
+     più ne meno lontana, con questa conditione, che lo spacio, il quale è trala prima linea divisa,
+     et la seconda egualmente lontana, diviso in tre parti, con una parte di se avanzi quello
+     spacio, il quale è tra la seconda, et terza linea, et dapoi v'aggiungerebbono l'altre linee;
+     accioché sempre lo spacio seguente tra le linee fosse lo spacio, che va inanzi al
+     subsesquialtero, usando il vocabulo de i Mathematici. Così dunque farebbono essi, i quali
+     benché si tengano certi di seguire una certa ottima via di dipingere, io giudico però che siano
+     in grande errore; perché havendo essi posto a caso la prima linea egualmente lontana, benché
+     seguano appresso l'altre linee egualmente lontane con ragione, et modo, non però sanno, dove
+     sia il loco certo de la punta a vedere bene. Onde facilmente succedono poi di grandi errori ne
+     la pittura. Aggiungi a quel, che s'è detto, che la ragion di costoro è molto vitiosa, dove il
+     punto centrico fosse o di sopra o di sotto la lunghezza de l'huomo dipinto; conciosia che
+     nessuno huomo dotto negherà, che non si possano vedere cose alcune dipinte conformi a le vere,
+     s'elle non sono lontane per una <pb n="16" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0034.jp2/full/max/0/default.jpg"/> certa ragione. De la qual cosa diremo la ragione,
+     alhora che scriveremo di quelle demostrationi de la pittura, le quali fatte da noi mentre gli
+     amici le miravano, furono chiamati miracoli de la pittura. Percioché tutte queste cose, ch'io
+     ho detto, sopra modo appartengono a questa istessa parte; ritorniamo dunque al nostro
+     proposito. Essendo queste cose, come ho detto, io perciò ritrovai questo ottimo modo. In tutte
+     l'altre io seguo quella medesima divisione et del punto centrico, et de la linea, che sta a
+     giacere, e i tratti del punto de le linee a ciascuna divisione de la linea, che sta a giacere.
+     Ma ne le quantità transverse io servo questo modo. Io ho un picciolo campo, nel quale io
+     descrivo una linea dritta. Questa io la parto per quelle parti, ne le quali la linea del
+     quadrangulo, che sta a giacere, è divisa. Dapoi metto su da questa linea un punto solo tanto
+     alto, quanto è lontano il punto centrico nel quadrangulo da la linea divisa del quadrangulo,
+     che sta a giacere; et poi tiro le linee d'una in una da questo punto a ciascuna divisione di
+     questa medesima linea. Dapoi ordino quanta distanza voglio, che sia tra l'occhio di chi guarda,
+     et la pittura; et quivi ordinato il loco del taglio, con una linea perpendiculare, come dicono
+     i Mathematici, faccio il taglio di tutte le linee, ch'ella ha ritrovato. Linea perpendiculare è
+     quella, la quale partendo un'altra linea dritta, ha d'ogni parte intorno a se anguli dritti.
+     Questa linea perpendiculare dunque mi darà ne i tagli suoi termini d'ogni distantia, le quali
+     deono essere fra le linee traverse del pavimento egualmente lontane; nel qual modo io descritti
+     tutti i paralelli dello spazzo; i quali <pb n="16bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0035.jp2/full/max/0/default.jpg"/> si potrà far la prova, per vedere se
+     son ben descritti, guardando se una medesima linea dritta continuata è diametro ne lo spazzo
+     dipinto de i quadranguli congunti. Diametro appresso i Mathematici è una certa linea dritta del
+     quadrangulo, tirata da l'angulo a l'altro angulo, che l'è posto a l'incontro; la quale divide
+     il quadrangulo in due parti, di modo, che d'un quadrangulo fa due trianguli. Havendo io dunque
+     diligentemente fornite queste cose tiro di sopra un'altra linea traversa egualmente lontana da
+     l'altre più basse, la quale tagli duo lati, che stanno fermi del gran quadrato, et habbia a
+     passare per lo punto centrico. Questa linea m'è un termine, et confine, il quale nessuna
+     quantità non più alta, che l'occhio di chi guarda, possa passare. Et questa perché ella passa
+     per lo punto centrico, per ciò si chiama centrica. La onde avviene, che quegli huomini, i quali
+     saranno dipinti ne l'ultimo paralello, molto minori siano, che quegli, che sono in quello
+     dinanzi; ne però paiono esser minori de gli altri, ma più lontani; la qual cosa chiaro è, che
+     così si mostra essere da l'istessa natura. Percioché veggiamo ne le chiese le teste de gli
+     huomini, che spasseggiano, quasi eguali ondeggiare in alto; ma i piedi di quegli, che più
+     lontani sono, peraventura rispondere al ginocchio di quei dinanzi. Tutta questa ragione di
+     dividere lo spazzo appartiene molto a quella parte de la pittura, che noi chiameremo
+     compositione al suo loco. Et è di sorte, che io dubito non ella sia poco intesa da quei, che
+     leggono, per la novità de la materia, et per questa brevità di comentare. Perché sì come
+     facilmente intendiamo da l'opre antiche, <pb n="17" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0036.jp2/full/max/0/default.jpg"/> questa medesima peraventura stette ascosa
+     molto incognita appresso i nostri antichi per essere oscura, et difficile sopra modo. Percioché
+     apena che tu ritroverai alcuna historia de gli antichi composta bene, ne dipinta, ne finta, ne
+     scolpita. Perché da me si sono hora dette queste cose brevemente, et come io credo, non molto
+     oscure. Ma ben conosco di che maniera elle sono; che conciosia ch'io non possa acquistarmi in
+     esse alcuna lode d'eloquentia; perché chi a prima vista non le potrà intendere, a pena che per
+     alcuna, anchora che gran fatica, non è per intenderle giamai. <reg>Nondimeno</reg> queste cose
+     siano pur dette in qual modo si voglia, certo facilisime, et bellissime sono a gli ingegni
+     sottilisimi, et bene inclinati a la pittura: le quali son fuor di modo ingrate a i rozi, et
+     poco inclinati da natura a queste nobilissime arti, anchora che fossero dette da huomini
+     eloquentissimi. Ma forse queste cose, perché io brevissimamente, et senza alcuna eloquentia
+     l'ho recitate, si leggeranno senza fastidio. Ma ben vorrei, che mi fosse perdonato, se mentre
+     che sopra tutto ho voluto essere inteso, ho curato, che'l ragionamento mio sia chiaro, più
+     tosto che delicato et ornato. Nondimeno le cose, che seguiranno, come io spero, daranno manco
+     fastidio a i lettori. Habbiamo ragionato dunque de i trianguli de la piramide, del taglio,
+     quelle cose, che ne pareva, che si devessero dire; le quali cose io son però usato di mostrare
+     a gli amici, perché così siano più diffusamente con una certa ragion geometrica; il che per
+     conto di brevità ho giudicato, che fosse da <pb n="17bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0037.jp2/full/max/0/default.jpg"/> lasciare in questi comentari.
+     Percioché qui ho raccontato i soli primi principi de l'arte de la pittura. Et per questo gli ho
+     voluto chiamar rudimenti, perché danno i primi fondamenti de l'arte a i pittori non
+     essercitati. Ma essi son però di sorte, che chi gli havrà bene appresi, costui conoscerà, che
+     gli havranno giovato molto così a l'ingegno, come a conoscere la diffinitione de la pittura, et
+     a quelle cose anchora, de le quali siamo per parlare. Ne sia alcuno, che dubiti, che colui non
+     è per essere mai buon pittore, il quale minutamente non intenda le cose, ch'egli s'imagina di
+     dipingere. Percioché indarno si contende con l'arco, se prima tu non havrai deliberato dove
+     drizzare la saetta. Et però vorrei, ch'altri si persuadesse appresso noi, che quel solo è per
+     essere ottimo pittore, il quale havrà imparato a conoscere benissimo e le fimbrie, e tutte le
+     qualità de le superficie. Et per il contrario io affermo, che colui non sarà mai buon maestro,
+     il quale non havrà diligentissimamente apparato tutte le cose, c'ho detto. Et per ciò molto
+     necessarie ne sono state le cose, che si sono dette de le superficie, et del taglio. Resta
+     hora, che ammaestriamo il pittore, in che modo egli possa imitar con la mano cio, che s'havrà
+     imaginato ne la mente. </p>
+        <figure type="ornement"/>
+      </div>
+      <div n="2" xml:id="L2" type="livre">
+        <pb n="18" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0038.jp2/full/max/0/default.jpg"/>
+        <head> LIBRO SECONDO DE LA PITTURA DI <persName ref="#LeonBattistaAlberti">LEON BATTISTA
+      ALBERTI</persName>. </head>
+        <figure type="ornement"/>
+        <p xml:id="ALB_DP_L2_P1"><figure type="ornement"/> MA Perché forse questo studio d'imparare
+     potrebbe parere troppo faticoso a i giovani; però giudico, che in questo loco si debba
+     mostrare, quanto sia degna la pittura, ne la quale ogni opera, et studio consumiamo. Percioché
+     ella ha veramente in se una certa forza molto divina; non solo, perché come dicono de
+     l'amicitia, la pittura ci faccia esser presenti quei, che sono absenti, ma perché anchora
+     rappresenta a i vivi quei, che son morti dopo lunghi secoli; accioché siano conosciuti con gran
+     maraviglia de l'artifice, et piacere di quei, che veggono. <persName ref="#Plutarque">Plutarcho</persName> racconta, che <persName ref="#Cassandre">Cassandro</persName> uno de i
+     capitani d'<persName ref="#AlexandreLeGrand">Alessandro</persName>, nel vedere il ritratto
+      d'<persName ref="#AlexandreLeGrand">Alessandro</persName> già morto, et nel riconoscere la
+     maestà di tanto Rè, tremò in tutto il corpo; et che <persName ref="#Agesilaos">Agesilao
+      Lacedemone</persName>, perché si conosceva esser molto brutto, non volse, che l'effigie sua
+     passasse a cognitione de i posteri; et che per questo non volse essere ne ritratto, ne scolpito
+     d'alcuno. A questo modo i volti de i morti per mezzo de la pittura in un certo modo vivono <pb n="18bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0039.jp2/full/max/0/default.jpg"/> una vita molto lunga. Credo anchora, che gli huomini debbano riconoscere per un
+     grandissimo dono, che la pittura habbia dipinto gli Dei, i quali sono riveriti da le genti.
+     Percioché molto giovò la pittura a la pietà, con la quale sopra tutto siamo congiunti a gli
+     Dei, et a ritenere gli animi con una certa religione intiera. Dicesi, che <persName ref="#Phidias">Phidia</persName> fece un <persName ref="#Jupiter">Giove</persName> in
+      <placeName ref="#Elide">Elide</placeName>, la bellezza del quale accrebbe molto a la religion
+     ricevuta. Ma quanto la pittura giovi a gli honestissimi piaceri de l'animo, et a l'ornamento de
+     le cose, et d'altronde, et sopra tutto di qua si può vedere, che tu non potrai dare quasi cosa
+     nessuna tanto preciosa, che da la compagnia de la pittura non sia fatta et molto più cara, et
+     di gran lunga più grave. L'avorio, le gioie, et tutte queste cose care, si fanno più preciose
+     con la mano del pittore. Et l'oro istesso anchora lavorato con l'arte de la pittura si paga poi
+     con molto più oro. Ma che più, il piombo uilissimo de gli altri metalli, s'egli e ridotto in
+     alcuna statova per mano di <persName ref="#Phidias">Phidia</persName>, o di <persName ref="#Praxitele">Prassitele</persName>, peraventura sarà stimato, che sia più precioso de
+     l'argento rozo, et non lavorato. <persName ref="#Zeuxis">Zeusi</persName> pittore haveva
+     cominciato a donare le cose sue, perché, come egli diceva, elle non si potevano comprare con
+     prezzo alcuno. Percioché credeva, che non si ritrovasse prezzo veruno, che potesse sodisfar
+     colui, il quale in dipingere, o scolpire gli animali si mostrasse quasi un <persName ref="#Dieu">Dio</persName> fra gli huomini. La pittura ha dunque queste lode, che quegli, che
+     sono ammaestrati in essa, quando veggiono ammirare l'opre loro, alhora si conoscono <pb n="19" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0040.jp2/full/max/0/default.jpg"/> esser molto simili a <persName ref="#Dieu">Dio</persName>. Ma che più, non è ella la pittura
+     o maestra di tutte l'arti, o almeno principale ornamento? Percioché l'architetto, s'io non
+     m'inganno, ha tolto dal pittore gli epistili, i capitelli, le basi, le colonne, e i cornicioni,
+     et tutte l'altre così fatte lodi de gli edifici. Percioché il tagliapietra, lo scultore, et
+     tutte le opre de i fabri, insieme con tutte l'arti manovali sono indrizzate con la regola, et
+     con l'arte del pittore. Finalmente non si ritroverà quasi nessuna arte anchora che in tutto
+     vilissima, la quale non risguardi a la pittura; di maniera che io ardirei dire, che tutto
+     l'ornamento, che è ne le cose, sia stato tolto da la pittura. Ma principalmente di questo
+     honore è stata honorata la pittura appresso gli antichi, che chiamandosi quasi tutti gli altri
+     artefici fabri, il pittor solo non è stato havuto nel numero de i fabri. Il che sendo così, io
+     sono usato dire fra gli amici, che l'inventor de la pittura sia stato quel <persName ref="#Narcisse">Narcisso</persName>, il quale secondo l'opinion de i Poeti fu mutato in un
+     fiore. Percioché essendo la pittura fiore di tutte l'arti, tutta la favola di <persName ref="#Narcisse">Narcisso</persName> alhora si confarà molto a questa materia. Perché che altro
+     è dipingere, che abbracciare con arte quella superficie de la fonte? <persName ref="#Quintilien">Quintiliano</persName> era d'opinione, che gli antichi pittori fossero usati
+     a circonscrivere l'ombre al Sole; et che poi con augumenti l'arte si sia accresciuta. Vi sono
+     di quei, che dicono, che un certo <persName ref="#PhiloclesdEgypte">Philocle
+     Egittio</persName>, et non so chi <persName ref="#Cleanthe">Cleante</persName> fossero tra i
+     primi inventori di questa arte. Gli Egitti affermano, che la pittura s'usava apresso <pb n="19bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0041.jp2/full/max/0/default.jpg"/> di loro sei mila anni inanzi ch'ella fosse portata in <placeName ref="#Grece">Grecia</placeName>. I nostri dicono poi, che la pittura venne di Grecia in <placeName ref="#Italie">Italia</placeName> dopo le vittorie di <persName ref="#MarcusClaudiusMarcellus">Marcello di <placeName ref="#Sicile">Sicilia</placeName></persName>. Ma non importa molto
+     sapere o i primi pittori, o gli inventori de la pittura, perché ultimamente noi non raccontiamo
+     l'historia de la pittura, come <persName ref="#Pline">Plinio</persName>, ma l'arte. De la quale
+     al tempo nostro non si ritrova memoria alcuna de gli antichi scrittori, ch'io habbia visto.
+     Benché si dica, che <persName ref="#Euphranor">Eufranore Hischimio</persName> scrisse alcuna
+     cosa de la simmetria, et de i colori; et che <persName ref="#Antigonus">Antigono</persName>, et
+      <persName ref="#Xenocrate">Xenocrate</persName> scrissero non so che de la pittura, et che
+      <persName ref="#Apelle">Apelle</persName> fece un trattato de la pittura a <persName ref="#Persee">Perseo</persName>. Racconta <persName ref="#DiogeneLaerce">Diogene
+      Laertio</persName>, che <persName ref="#DemetriosAlopece">Demetrio</persName> Philosopho
+     anch'egli comentò la pittura. Ma anchora io son d'opinione, che essendo stato scritto da gli
+     antichi nostri di tutte l'altre buone arti, che la pittura anch'ella non sia stata sprezzata da
+     i nostri scrittori Italiani. Percioché furono in <placeName ref="#Italie">Italia</placeName>
+     gli antichissimi Toscani peritissimi ne l'arte del dipingere. Giudica <persName ref="#HermesTrismegiste">Trimegisto</persName> scrittor vecchissimo, che la scultura, et la
+     pittura nascessero insieme con la religione; perché egli ragiona di questo modo ad <persName ref="#Asclepios">Asclepio</persName>. L'humanità ricordevole de la natura, et de la origine
+     sua, figurò gli Dei da la sembianza del suo volto. Et chi vorra negare, che la pittura in tutte
+     le cose così publiche, come private, prophane, et religiose non habbia havuto loco
+     honorevolissimo? Di modo ch'artificio alcuno appresso gli uomini tanto sia stato stimato da
+     ogniuno. Si raccontano prezzi quasi incredibili <pb n="20" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0042.jp2/full/max/0/default.jpg"/> di tavole dipinte. <persName ref="#Aristide">Aristide Thebano</persName> vendè una pittura sola cento talenti. Dicesi
+     anchora, che il Rè <persName ref="#DemetriosAlopece">Demetrio</persName> non lasciò brusciar
+      <placeName ref="#Rhodes">Rhodo</placeName>, accio che non si perdesse una tavola di <persName ref="#Protogene">Prothogene</persName>. Possiamo dunque affermare, che <placeName ref="#Rhodes">Rhodo</placeName> fosse liberata da gli inimici per una sola pittura. Oltra di
+     questo molte altre simili cose sono state raccolte, per le quali chiaramente si può conoscere,
+     che i buoni pittori furono sempre lodati, et tenuti in grandissimo honore appresso ogniuno; di
+     modo che non pure nobilissimi, et prestantissimi cittadini, ma philosophi, et Re anchora, non
+     solo si dilettarono di cose dipinte, ma grandisimamente etiandio di dipingere. <persName>L.
+      Manilio</persName> cittadin Romano, et <persName ref="#GaiusFabiusPictor">Fabio</persName> huomo nobilissimo nella
+     città furono dipintori. <persName ref="#Turpilius">Turpilio cavalier Romano</persName> dipinse
+     a <placeName ref="#Verone">Verona</placeName>. <persName>Sibedio</persName>, ch'era stato
+     pretor et proconsule, guadagnò nome dipingendo. <persName ref="#Pacuvius">Pacuvio</persName>
+     poeta Tragico, nipote d'una figlia d'<persName ref="#QuintusEnnius">Ennio</persName> poeta,
+     dipinse uno Hercole in piazza. <persName ref="#Socrate">Socrate</persName>, <persName ref="#Platon">Platone</persName>, <persName ref="#Metrodore">Metrodoto</persName>, et <persName ref="#Pyrrhon">Pirrhone</persName> philosophi furono
+     eccellenti ne la pittura. <persName ref="#Neron">Nerone</persName>, <persName ref="#ValentinienI">Valentiniano</persName>, et <persName ref="#AlexandreSevere">Alessandro
+      Severo</persName> Imperatori furono studiosisimi de la pittura. Sarebbe lungo il raccontare
+     quanti principi, et quanti Re furono inclinati a questa nobilissimatarte. Ma non e honesto
+     anchora ch'io riferisca tutta la turba de i pittori antichi; la quale quanta ella fosse di qui
+     si può vedere, che 360 statue parte a cavallo, parte in carrette, et cocchi furono finite a
+      <persName ref="#DemetriosDePhalere">Demetrio Valerio</persName> figlivolo di <persName ref="#Phanostrate">Phanostrato</persName> quasi in termine di 400 dì. Et perché non dobbiamo
+      <pb n="20bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0043.jp2/full/max/0/default.jpg"/> credere, che in quella città, ne la quale fu tanto numero di scultori, si
+     ritrovassero anchora assaissimi pittori? Percioché la pittura, et la scultura sono arti,
+     c'hanno parentado insieme; et sono nodrite con un medesimo ingegno. Ma io metterò sempre inanzi
+     l'ingegno del pittore, perch'egli pratica in cosa molto più difficile. Ma ritorniamo a
+     proposito. Veramente in quei tempi grande fu la turba di pittori, et di scultori; poi che i
+     principi, e i plebei, i dotti, et gli ignoranti si dilettavano di pittura. Perché mettevano
+     anchora fuora ne i theatri i quadri, et le tavole tra li principali prede, c'avevano fatto
+     nelle provincie; et tanto avanti ando la cosa, che <persName ref="#PaulEmile">Paolo
+      Emilio</persName>, et molti altri cittadini Romani ammaestrarono i figlivoli ne la pittura tra
+     le buone arti a viver bene, et felicemente, la quale ottima usanza era grandissimamente
+     osservata anchora appresso i Greci; che i giovani liberi, et ben nati s'essercitavano ne l'arte
+     del dipingere insieme con le lettere, la Geometria, et la Musica. Ma che più? questa facultà di
+     dipingere su d'onore ancho a le femine. <persName ref="#Iaia">Martia</persName> figlivola di
+      <persName ref="#Varron">Varrone</persName> è celebrata da gli scrittori, perch'ella dipinse.
+     Fu la pittura ancho in tanta laude, et honore, che i Greci fecero uno editto, che i servi non
+     la potessero imparare; et questo a gran ragione. Percioché l'arte del dipingere e dignissima
+     veramente de gli animi liberali, et nobilisimi; et presso a me su sempre grandissimo argomento
+     d'ottimo, et singolare ingegno di colui, ch'io habbia veduto grandemente dilettarsi <pb n="21" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0044.jp2/full/max/0/default.jpg"/> de la pittura. Benché questa arte sola egualmente sia grata fuor di modo a i dotti, et a gli
+     ignoranti. La qual cosa non avviene quasi in nessuna altra arte; che quel, che diletta gli
+     uomini periti, piaccia ancho a gli imperiti. Ne facilmente ritroverai alcuno, il quale oltra
+     modo non desideri di fare granfrutto ne la pittura. Finalmente chiaro è, che la natura istessa
+     si diletta in dipingere. Percioché spesso veggiamo, come la natura figura ne i marmi de gli
+     Hippocentauri, et de le faccie barbate di Re. Dicesi anchora, che in una
+      gioia di <persName ref="#Pyrrhon">Pirrho</persName> vi fur dipinte da
+     la natura istessa le nove Muse distintamente con le loro insegne. Aggiungi a queste cose, che
+     non v'è quasi arte alcuna, ne la quale a impararla, et essercitarla ogni età d'i periti, et
+     d'imperiti con tanto piacere attenda. Et per parlare di me, s'alcuna volta per conto di piacere
+     io mi reco a dipingere, il che soglio fare molto spesso, quando m'avanza ocio da l'altre
+     facende, con tanto diletto sto saldo in compire l'opera, ch'a pena posso credere, che siano
+     passate le tre, et le quattro hore anchora. Questa arte dunque apporta diletto; a la quale
+     mentre che attenderai, lode, ricchezze, et perpetua fama riporterai facendola con studio, et
+     con diligenza. La qual cosa sendo come io dico, et sendo la pittura uno ottimo, et antichissimo
+     ornamento de le cose, degna de i libri, grata a i dotti, et a gli ignoranti, sopra modo
+     conforto i giovani studiosi, che fin che possano, attendano molto a la pittura. Appresso io
+     aviso coloro, che sono studiosissimi de <pb n="21bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0045.jp2/full/max/0/default.jpg"/> la pittura, che con ogni opera, et
+     diligenza perseverino in apprendere l'arte perfetta del dipingere. Habbiate sopra tutto voi,
+     che vi sforzate di venire eccellenti ne la pittura, cura del nome, et de la fama, la quale
+     vedete, che gli antichi s'hanno acquistato. Et certo, che vi gioverà molto il ricordarvi, che
+     l'avaritia fu empre contraria a la lode, et a la virtù. Perché l'animo intento al guadagno di
+     rado acquistera frutto di passare a i pesteri. Io n'ho veduto molti quasi nel fiore istesso
+     d'imparare, subito essersi dati al guadagno; et non haverne poi guadagnato ne robba, ne lode
+     alcuna; i quali s'avessero cresciuto l'ingegno con lo studio, facilmente sarebbono venuti in
+     lode; nel qual loco havrebbono poi havuto et robba, et piacere. Ma di questo basti haver detto
+     fin qui. Ritorniamo a proposito. Noi dividiamo la pittura in tre parti, la quale divisione
+     l'habbiamo chiara da la natura. Perché sforzandosi la pittura rappresentare le cose vedute,
+     consideriamo in che modo le cose istesse vengano a la vista. Prima quando guardiamo ascuna
+     cosa, ciò veggiamo essere cosa, che occupa loco. Il pittore circonscriverà lo spacio di questo
+     loco; et con vocabulo acconcio chiamerà quel modo di tirare il contorno circonscrittione;
+     guardando dappresso conosciamo sì come assai superficie del corpo veduto si confacciano tra
+     loro; onde l'artefice dissegnando queste congiuntioni di superficie ne luoghi suoi,
+     direttamente la chiamera compositione. Ultimamente guardando discerniamo più distintamente i
+     colori de le superficie; <pb n="22" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0046.jp2/full/max/0/default.jpg"/> la rappresentatione de la qual cosa ne la dipintura,
+     percioché ella riceve quasi tutte le differenze da i lumi, molto commodamente sarà detta da noi
+     ricetto di lumi. Tre cose dunque fanno perfetta la pittura circonscrittione, compositione, et
+     ricevere de i lumi. Di queste cose resta dunque, che brevissimamente parliamo, et prima de la
+     circonscrittione. La circonscrittione è quella, la quale ne la pittura circonscrive con linee
+     il circuito del contorno. Dicesi, che in questa fu molto eccellente <persName ref="#Parrhasios">Parrhasio</persName> pittore quello, col quale parla <persName ref="#Socrate">Socrate</persName> appresso <persName ref="#Xenophon">Xenophonte</persName>. Percioché
+     dicono, ch'egli essaminò diligentissimamente le linee. Hora in questa circonscrittione giudico
+     io, che questo sovra tutto si debba servare, ch'ella si faccia con linee sottilisime, et che
+     fuggano molte da essere vedute, del modo, che dicono, che <persName ref="#Apelle">Apelle</persName> era usato essercitarsi, et haver conteso con <persName ref="#Protogene">Prothogene</persName>. Percioché circonscrittione non è niente altro, che notatione di
+     contorni; la quale se sarà fatta con linea, che molto paia, non appariranno margini di
+     superficie ne la dipintura, ma alcune fessure picciole. Ma io vorrei, che niente altro si
+     proseguisse con la circonscrittione, se non il circuito de contorni. Ne la quale io stimo, che
+     vi si debba molto essercitare. Percioché se non vi si mette la circonscrittione non sarà lodata
+     compositione alcuna, ne ricevere di lumi. Ma le piu volte una sola circonscrittione è
+     gratissima. Diasi dunque opra a la circonscrittione, a la quale per volerla benissimo imparare
+     giudico, che non si possa trovare cosa alcuna <pb n="22bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0047.jp2/full/max/0/default.jpg"/> più accommodata, che quel velo,
+     il quale io sono usato fra gli amici miei chiamar taglio. L'uso del quale io sono stato il
+     primo, che l'ho ritrovato. Il quale è di questa sorte. Io ordino un velo di filo sottilissimo,
+     et tessuto raro, tinto di qual si voglia colore, distinto di fila più grosse in portioni
+     paralelle in quanti gradi mi piace, et disteso in su un telaro; il quale io metto, che s'habbia
+     a rappresentare tra il corpo, et l'occhio; accioché la piramide visiva passi per le rarità del
+     velo. Percioché ha veramente questo taglio del velo molte comodità in se; prima che rappresenta
+     sempre le medesime superficie ferme. Perché posti i termini subito ritroverai la primiera punta
+     de la piramide, la quale cosa senza taglio e veramente fuor di modo difficile. Et ben si sa
+     quanto imposibil sia, che alcuna cosa dipingendo drittamente si muti, la quale perpetuamente di
+     se non rappresenti la medesima apparenza a colui, che dipingi. Di qui è, che più facilmente
+     s'imitano le cose dipinte da gli altri, servando elle sempre la medesima faccia, che le
+     scolpite. Si vede anchora mutata la distanza, e'l fondamento del centrico, quanto la cosa
+     veduta paia, che si sia alterata. Il velo dunque ci darà questa non mezzana utilità, ch'io ho
+     detto, che la cosa stia sempre ferma da la vista. L'utilità, che gli viene appresso, e che'l
+     sito de i contorni, e i termini de le superficie, facilmente si potranno ordinare in luoghi
+     certissimi ne la tavola, che s'ha da dipingere. Percioché vedendo tu in questo paralello la
+     fronte, nel prossimo il naso, <pb n="23" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0048.jp2/full/max/0/default.jpg"/> ne l'altro le guancie, in quel più basso il mento,
+     et altre cose tali ordinate a i luoghi loro, tutte quelle medesime subito potrai tu collocare
+     ne la tavola, o nel muro divise ne suoi paralelli. Ultimamente questo medesimo velo da
+     grandisimo aiuto a fornire la pittura, percioché tu poi vedere la cosa istessa rilevata, et
+     gonfia conscritta, et dipinta in questa pianura del velo. Da le quali cose a bastanza, et con
+     giudicio, et con esperienza possiamo intendere quanta utilità ci dia il velo a facilmente, et
+     ben dipingere. Ne io darò orecchie a coloro, i quali dicono, che non è utile a un pittore
+     l'avezzarsi a queste cose, le quali benché diano grandissimo aiuto a dipingere, nondimeno sono
+     di maniera, che senza quelle a pena che l'artifice può fare cosa alcuna da se stesso.
+     Percioché, s'io non m'inganno, non si desidera da un pittore infinita fatica, ma aspettiamo
+     pittura, la quale paia molto rilevata, et molto simile a i corpi dati. La qual cosa certo io
+     non intendo troppo bene, come alcun possa giamai senza l'aiuto del velo, anchora mezzanamente
+     conseguire. Adoprino dunque questo taglio, cioè velo, come io ho detto coloro c'hanno desiderio
+     di farsi eccellenti ne la pittura. Che se pure si diletteranno provare l'ingegno senza velo,
+     acquistino con la vista questa medesima ragione de i paralelli; sì che sempre s'imaginino una
+     linea traversa di la perfetta da l'altra perpendicolare, dove dispongano il termine guardato ne
+     la pittura. Ma perché spesso i pittori poco pratichi sono dubi, et incerti de i contorni de le
+     superficie, <pb n="23bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0049.jp2/full/max/0/default.jpg"/> sì come è ne i volti, ne i quali non discernono in che loco
+     principalmente siano partite le tempie de la fronte, per questo se gli ha da insegnare, in che
+     modo possano acquistare la cognitione di questa cosa. Certo che la natura questo benissimo
+     dimostra. Percioché sì come veggiamo ne le superficie piane, a fare, ch'elle siano ornate de i
+     suoi propri lumi, et ombre, così ne le superficie rotonde, et concave, le veggiamo quadrate
+     quasi in più superficie medesime con diverse macchie d'ombre, et di lumi. Dunque tutte le parti
+     d'una in una differenti di chiarezza, et d'oscurità, sono da essere havute per ciascuna
+     superficie. Che se la superficie veduta continuerà da l'ombroso mancando a poco a poco al color
+     chiaro, alhora bisogna segnare con una linea lo spacio, ch'è in mezzo tra l'uno, et l'altro;
+     accioché tutta la regione de lo spacio, che s'ha da colorare, sia meno dubbia. Resta, che
+     diciamo anchora alcuna cosa de la circonscrittione, il che molto appartiene anchora a la
+     compositione; et però s'ha da saper quel, ch'è composisitione ne la pittura. Compositione è
+     quella ragione di dipingere, con la quale si compongono le parti ne l'opra de la pittura.
+     L'historia è opra grandissima del pittore; le parti de l'istoria sono i corpi, la parte del
+     corpo e il membro; la parte del membro è la superficie. Hora essendo circonscrittione quella
+     ragione del dipingere, per la quale i contorni de la superficie sono disegnati a ciascuno; et
+     de le superficie alcune siano picciole, come de gli animali; alcune grandissime, come de gli
+     edifici, et de i colossi, di <pb n="24" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0050.jp2/full/max/0/default.jpg"/> circonscrivere le superficie picciole, bastino quei
+     precetti, che fin qui si son detti. Percioché s'è mostrato, come quelle si misurano benissimo
+     col velo. A circonscrivere dunque le superficie maggiori, s'ha da ritrovare una nuova ragione.
+     La onde le cose, che di sopra habbiamo dichiarato ne i principi de le superficie, de i raggi,
+     de la piramide, et del taglio tutte s'hanno da ritornare a mente. Finalmente ti dei ricordare
+     quelle cose, ch'io ho detto de i paralelli del pavimento, del punto centrico, et de la linea.
+     Nel pavimento dunque dissegnato di paralelli s'hanno da edificare l'ale de i muri, et altre
+     cose tali, che noi habbiamo chiamato superficie, che stanno a giacere. Diro dunque brevemente
+     quel, ch'io medesimo faccio in questa edificatione. Prima piglio principio da i fondamenti
+     istessi; percioché io descrivo nel pavimento la larghezza, et la lunghezza de i muri. Ne la
+     qual descrittione questo ho considerato da natura, che non si possono vedere in una vista più
+     che due superficie giunte, che sono a giacere nel suolo, di nessun corpo quadrato d'anguli
+     dritti. In descrivere dunque i fondamenti de i muri osservo questo, ch'io circondo solo quei
+     lati, che sono esposti a la vista. Et prima sempre incomincio da le superficie più vicine;
+     specialmente da quelle, che sono egualmente lontane dal taglio. Queste dunque io dissegno
+     inanzi a l'altre; et ordino quanto io voglio, che sia la lunghezza, et la larghezza loro ne i
+     paralelli istessi disegnati sul pavimento. Perché quante braccia io voglio, che siano, tanti
+     paralelli io mi toglio. Tolgo <pb n="24bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0051.jp2/full/max/0/default.jpg"/> poi il mezzo de i paralelli dal taglio de l'uno,
+     et l'altro diametro. Con questa dunque misura di paralelli io dissegno benissimo la larghezza,
+     et la lunghezza di quelle, che si levano dal suolo di mezzo. Di qua poi anchora con poca
+     difficultà acquisto l'altezza de le superficie. Percioché quella misura, ch'è tra la linea
+     centrica, et quel loco del pavimento, onde si leva la quantità de l'edificio, tutta quella
+     quantità serverà quella medesima misura. Che se tu vorrai, che questa quantità sia dal suolo
+     fino a l'altezza quattro volte, quanto e la lunghezza de l'huomo dipinto; et sia posta una
+     linea centrica a l'altezza de l'huomo, a l'ora dal capo basso de la quantità fino a la linea
+     centrica vi saranno tre braccia. Ma tu, che vuoi, che questa quantità cresca fino a. xii.
+     braccia, tirerai fuora il capo de la quantità verso in su tre volte tanto, quanto è da la
+     centrica fino a quel da basso. Da queste ragioni dunque di dipingere, c'habbiamo raccontato,
+     possiamo benissimo circonscrivere tutte le superficie de gli anguli. Resta, che ragioniamo de
+     le superficie circolari da essere dissegnate ne' suoi contorni. Le circolari si traggono da
+     quelle de gli anguli. Io faccio in questo modo un campo picciolo con un quadrangulo c'ha i lati
+     eguali piegato de gli anguli dritti; poi parto i lati di questo quadrangulo in quelle parti, ne
+     le quali la linea da basso ne la pittura del quadrangulo è divisa. Et tirando le linee da i
+     punti d'uno in uno a i punti de le divisioni, che gli sono opposti empio il campo di
+     quadranguli piccioli; et quivi <pb n="25" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0052.jp2/full/max/0/default.jpg"/> scrivo di sopra un circolo grande, quanto mi pare;
+     accioché il cerchio, et le linee paralelle si taglino l'un l'altro. Noto poi tutti i punti de i
+     tagli in un loco; i quai luoghi consegno ne i suoi paralelli del pavimento descritto ne la
+     pittura. Ma perché sarebbe una estrema fatica tagliare tutto il cerchio di minuti, et quasi
+     infiniti paralelli in molti, et molti luoghi, finché il contorno del cerchio fosse continuato
+     da una numerosa consegnatione di punti; perciò io quando havrò notato otto tagli, o quanti mi
+     piace, alhora con l'ingegno tiro quel contorno del cerchio dipingendo a i termini segnati.
+     Forse che sarebbe più corta via disegnare questo contorno a l'ombra de la lampada; pur che il
+     corpo, il quale fa ombra, con certa ragione ricevesse il lume; et s'interponesse al suo loco.
+     Habbiamo detto dunque, come le superficie maggiori, angulari, et circulari si dissegnino con
+     gli aiuti de i paralelli. Però havendo finita tutta la circonscrittione, resta, che si dica de
+     la compositione. Per la qual cosa si replicherà cio, ch'è compositione. Compositione è quella
+     ragione di dipingere, con la quale le parti si compongono ne l'opra de la pittura. La maggiore
+     opra del pittore non è il colosso, ma l'historia. Percioché maggiore lode d'ingegno è ne
+     l'historia, che nel colosso. Le parti de l'istoria sono i corpi; la parte del corpo è il
+     membro; la parte del membro e la superficie. Le prime parti de l'opra sono dunque le
+     superficie, perché di queste si fanno le membra, da le membra i corpi, da questi l'historia,
+      <pb n="25bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0053.jp2/full/max/0/default.jpg"/> da la quale si fornisce quella ultima, et perfetta opra del pittore. Da la
+     compositione de le superficie ne viene quella elegante leggiadria, et gratia ne i corpi, che si
+     chiama bellezza. Percioché quel volto, il quale avrà alcune superficie grandi, alcune molto
+     picciole, qui spinte in fuori, et la troppo ascose, et mandate in dentro, sì come veggiamo ne i
+     volti de le vecchie, questo veramente sarà brutto da vedere. Ma in quella faccia, dove le
+     superficie saranno talmente aggiunte insieme che i lumi dolci scorrano in ombre soavi; et non
+     vi sia asprezza alcuna d'anguli, questa meritamente chiameremo bella, et leggiadra faccia. In
+     questa compositione di superficie dunque, s'ha da cercare sovra tutto gratia, et bellezza. Ma
+     in che modo ciò possiamo conseguire, io non ho potuto anchora vedere strada più certa, se non
+     che guardiamo la natura istessa et lungo tempo, et diligentissimamente consideriamo in che modo
+     la natura maravigliosa artefice de le cose habbia composto le superficie ne le bellisime
+     membra. Ne la quale per volerla imitare bisogna essercitarsi con ogni pensiero, et cura, et
+     come habbiamo detto, grandemente dilettarsi del velo. Et quando siamo per ritrarre in opra le
+     superficie avanzate da i bellissimi corpi, sempre prima ordiniamo i termini, dove in certo loco
+     drizziamo le linee. Fin qui s'è detto de la compositione de le superficie. Resta che diciamo de
+     la compositione de le membra. Principalmente ne la compositione de le membra s'ha d'haver cura
+     che ciascun membro si confaccia insieme. I quali <pb n="26" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0054.jp2/full/max/0/default.jpg"/> alhora si dicono confare bene
+     insieme, quando corrispondono di grandezza d'ufficio, di specie, di colori, et d'altre cose,
+     s'alcune ve ne sono di questa sorte, a la vaghezza, et a la bellezza. Che se in alcuna imagine
+     vi sarà una grandissima testa, un petto picciolo, una mano molto larga, un piè rilevato, e un
+     corpo gonfio, veramente questa compositione sarà brutta a vedere. S'ha dunque da tenere una
+     certa ragione circa la grandezza. Ne la quale misura giova molto a dipingere gli animali
+     imaginarsi prima l'ossa ne l'ingegno. Percioché queste perché non si piegano mai, occupano
+     sempre alcuna certa sede. Bisogna poi, che i nervi, e i musculi s'accostino a i suoi luoghi. A
+     l'ultimo finalmente rendere l'ossa, e i musculi vestiti di carne, et di pelle. Ma in questo
+     loco peraventura saranno alcuni rimproverandomi, ch'io habbia detto di sopra, che nessuna di
+     quelle cose che non si veggono, non appartiene al pittore. Certo ch'essi dicono bene; ma sì
+     come in vestire bisogna prima sotto segnare il nudo, il quale poi revolgiamo circondandolo ne
+     le vesti; così in dipingere un nudo prima sono da essere disposti l'ossa, e i musculi, i quali
+     tu ricoprirai talmente con carni, et pelle moderata, che con poca fatica si possa conoscere
+     dove siano i musculi. Et però poi che la natura istessa ci mette inanzi tutte queste misure
+     esplicate, il pittore studioso ritroverà anchora non poca utilità in riconoscere quelle
+     medesime con la propria fatica de la natura istessa. Gli studiosi dunque ricevano questa
+     fatica, accioché quanto studio, <pb n="26bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0055.jp2/full/max/0/default.jpg"/> et opra porranno in riconoscere la simmetria de
+     le membra, tanto conoscano, che gli abbia giovato a fermarsi ne la memoria quelle cose,
+     c'havranno imparate. D'una cosa però gli aviso, che in misurare l'animale pigliamo alcun membro
+     di quello istesso animale, col quale misuriamo l'altre. <persName ref="#Vitruve">Vitruvio</persName> Architetto numera la lunghezza de l'huomo co' piedi. Ma io stimo cosa più
+     degna, se l'altre si riferiscono a la quantità del campo. Ben che io ho considerato questo
+     esser quasi comune ne gli huomini, che quella medesima misura vi è del piede, ch'è de la testa
+     dal mento a la collottona. Tolto dunque un membro l'altre sono d'acommodare a questo. Di modo
+     che non v'è membro alcuno in tutto l'animale, che di lunghezza, o di larghezza non corrisponda
+     a l'altre. Alhora s'ha da provedere, che tutte le membra esseguiscano l'ufficio suo a quel, di
+     che si tratta. Sta bene a un, che corre, menare le mani non meno, che i piedi. Ma un
+     philosopho, che ora, voglio che in ogni suo membro mostri più tosto modestia che essercitio.
+      <persName ref="#Damon">Demone</persName> pittore espresse Hoplicite
+     in un combattimento, di modo, che tu havresti detto ch'egli sudava; et che l'altro deponeva
+     l'armi, di maniera che pareva che ansasse. Vi fu ancho chi dipinse <persName ref="#Ulysse">Ulisse</persName> che tu havresti conosciuto in lui non una vera, ma finta, et simulata
+     pazzia. E lodata una historia appresso <reg>Romani</reg>, ne la quale è portato <persName ref="#Meleagre">Meleagro</persName> morto; et quei che vi sono sotto, s'affannano; et pare che
+     s'affaticano con tutte le membra. In quel, ch'è morto, non vi è membro alcuno che non paia
+     morto, <pb n="27" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0056.jp2/full/max/0/default.jpg"/> cioè tutti pendono, la mano, le dita, il collo, et tutti languidi cascano.
+     Finalmente tutti convengono a esprimere la morte del corpo; la qual cosa è molto più difficile
+     di tutte l'altre. Percioché il fingere le membra ociose in un corpo in tutte le sue parti, è
+     così officio de grande artefice, quanto farle tutte vive, et che facciano qualche cosa. Questo
+     medesimo dunque è da essere servato in ogni pittura, che tutte le membra facciano l'ufficio suo
+     a quel, di che si tratta che non pure un minimo per cosa sia vacante del suo ufficio, talmente
+     che le mebra de i morti paiano morte fino a una onghia; et tutte quelle de i vivi vive. Il
+     corpo si chiama vivere alhora, quando egli è mosso con un certo moto da se stesso. Dicesi ancho
+     che la morte è quando le membra non possono più portare gli uffici de la vita, cioé il moto,
+     e'l sentimento. Quelle imagini de i corpi dunque che'l pittore vorrà che paiano vive, in quelle
+     farà che tutte le membra pongano in essecutione i suoi moti. Ma in ogni moto s'ha da seguire la
+     vaghezza, et la gratia. Et sovra tutti quei moti de le membra sono vivaci, et gratissimi, i
+     quali tolgono l'aere in alto. Habbiamo detto anchora che la specie è da essere considerata in
+     componere le membra. Perché sarebbe molto goffo vedere le mani d'<persName ref="#Helene">Helena</persName>, o d'<persName ref="#Iphigenie">Iphigenia</persName> vecchie, et da
+     villano. O vero se dessimo a <persName ref="#Nestor">Nestore</persName> il petto tenero, e'l
+     collo delicato; o a <persName ref="#Ganymede">Ganimede</persName> la fronte piena di crespe, le
+     gambe da lottatore; o a <persName ref="#MilonDeCrotone">Milone</persName> huomo robustissimo i
+     fianchi debili, et sottili. Ma anchora in quella imagine, ne la quale sia volto <pb n="27bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0057.jp2/full/max/0/default.jpg"/>
+     sodo, et pieno di succo, come si dice, sarebbe un vituperio mettervi le braccia, et le mani
+     consumate da la magrezza. Et per il contrario chi di pingesse <persName ref="#Achemenide">Achemenide</persName> ritrovato da <persName ref="#Enee">Enea</persName> ne l'isola col volto
+     che <persName ref="#Virgile">Virgilio</persName> dice ch'egli haveva, et non vi seguissero
+     l'altre cose convenienti a la faccia, certo costui sarebbe un pittore molto ridicolo, et goffo.
+     Bisogna dunque che ogni cosa si confaccia in specie. Vorrei anchora che corrispondessero
+     insieme di colore. Percioché a coloro c'hanno i volti vermigli, vaghi, et bianchi, non si gli
+     convengono il petto, et l'altre membra foschi, et feroci. Habbiamo dunque detto a bastanza di
+     quelle cose che ne la composition de le membra s'hanno da osservare circa la grandezza
+     l'ufficio, la specie, e i colori. Perché bisogna che ogni cosa segua appresso secondo la
+     dignità de la materia. Non si conviene vestire <persName ref="#Venus">Venere</persName>, o
+      <persName ref="#Minerve">Minerva</persName> d'un saio; et fuor di proposito vestiresti
+      <persName ref="#Jupiter">Giove</persName>, o <persName ref="#Mars">Marte</persName> d'una
+     veste da donna. I pittori antichi dipingendo <persName ref="#Castor">Castore</persName> et
+      <persName ref="#Pollux">Polluce</persName>, curavano di fare che ben che paressero gemelli,
+     nondimeno si conoscesse in l'uno una natura di combattere, ne l'altro l'agevolezza. Volevano
+     anchora che <persName ref="#Vulcain">Vulcano</persName> sotto le vesti paresse zoppo. Tanta
+     diligenza vi mettevano essi in esprimere quel che bisognava secondo l'ufficio, la specie, et la
+     dignità. Segue la compositione de i corpi, ne la quale si comprende tutto l'ingegno, et la lode
+     del pittore. A la quale compositione appartengono alcune cose che si sono dette ne la
+     compositione de le membra. Percioché ne l'historia bisogna che tutti i <pb n="28" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0058.jp2/full/max/0/default.jpg"/> corpi si
+     confacciano d'ufficio, et di grandezza. Perché se tu havrai dipinto i Centauri, che facciano
+     tumulto a tavola, sarebbe goffo vedere alcuno addormentato per il vino in così spietato rumore.
+     Sarebbe vitio anchora, se gli uomini fossero ne la pittura in egual distanza, alcuni molto
+     maggiori de gli altri; sì come se i cani fossero eguali a i cavalli. Et è molto da vituperare
+     anchora ch'io veggo spesse volte huomini dipinti in uno edificio, quasi serrati in uno scrigno;
+     nel quale a pena vi starebbono a sedere, et stretti in cerchio. I corpi tutti dunque si debbono
+     confare a quella cosa che si tratta et di grandezza, et d'ufficio. Ma l'historia, la quale
+     meritamente tu possa et lodare, et ammirare, sarà di questa sorte, la quale con certe vaghezze
+     si mostri così dilettevole, et ornata, che lungo tempo tragga a se gli occhi del dotto, et de
+     l'ignorante con un certo placere, et moto d'animo. Perché la prima cosa che ne l'historia da
+     piacere, e la copia istessa, et la varietà de le cose. Percioché sì come ne i cibi, et ne la
+     Musica sempre le cose nuove, et abbondanti, così forse per altre cagioni, ma molto più per
+     questa dilettano, perché elle sono differenti da le vecchie, et usate; così in ogni varietà di
+     cose l'animo si diletta molto de l'abbondanza. Et per questo ne la pittura la varietà de i
+     corpi, et de i colori è dilettevole. Quella dirò io che sia una historia copiosissima; ne la
+     quale vi saranno a i suoi luoghi mescolati huomini, giovani, garzoni, fanciulli, matrene,
+     vergini, bambini, animali domestici, cagnuoli, uccelletti, cavalli, bestie, ed fici, et <pb n="28bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0059.jp2/full/max/0/default.jpg"/> paesi; et loderò ogni abbondanza, pur ch'ella convegna a quella cosa, de la quale
+     ivi si tratta. Percioché avviene che mentre i risguardanti dimorano a guardare le cose,
+     ch'alhora l'abbondanza del pittore acquista la gratia. Ma io vorrei che questa copia fosse
+     ornata con una certa varietà, grave, et temprata con dignità, et vergogna. Et certo io biasimo
+     quei pittori, i quali per volere parere copiosi; et perché non vogliono che vi rimanga alcuna
+     cosa <reg>vuota</reg>, per questo non seguono compositione alcuna; ma seminano ogni cosa
+     confusamente, et dissolutamente; la onde l'historia non pare che tratti una cosa, ma che faccia
+     tumulto; et peraventura colui che principalmente desidererà dignità ne l'istoria, dee molto
+     imparare la solitudine. Percioché sì come le poche parole apportano maiestà in un principe,
+     pure che i sensi, e i comandamenti s'intendano; così ne l'istoria il numero sofficiente de i
+     corpi aggiunge dignità, et la varietà apporta gratia. Io ho in odio la solitudine ne
+     l'historia; nondimeno io non lodo punto la copia, la quale sia lontana da la dignità. Et certo
+     che ne l'istoria molto mi piace quello che io veggio osservato da i poeti Tragici, et Comici,
+     che rappresentano la favola con quante poche persone possono. A mio giudicio veramente non sarà
+     historia alcuna ripiena di tanta varietà di cose, la quale nove, o dieci huomini non possano
+     sofficientemente rappresentare: di modo ch'io giudico che quella opinione di <persName ref="#Varron">Varrone</persName> si confaccia a questo, il quale fuggendo il tumulto nel
+     convivio, non vi admetteva più che nove convitati. Ma <pb n="29" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0060.jp2/full/max/0/default.jpg"/> benché la varietà sia
+     dilettevole in ogni historia, nondimeno quella pittura sopra tutte l'altre è grata, ne la quale
+     lo stato, e'l moto de i corpi sono fra se molto dissimili. Stiano dunque alcun rilevati con
+     tutto il volto, con le mani alzate, et con le dita risplendenti, appogiati su l'uno de'piedi;
+     alcuni altri habbiano la faccia rivolta, le braccia che pendano, e i piedi giunti; et ciascuno
+     habbia le sue pieghe, e i suoi atti; alcuni stiano fermi, o si dimorino sul ginocchio piegato;
+     o si giacciano appresso; alcuni, se così conviene, stiano nudi; altri vi si veggano, mescolata
+     l'arte de l'uno, et l'altro, parte coperti, et parte nudi. Ma però sempre habbiamo rispetto a
+     l'onesta, et a la vergogna. Percioché le parti vergognose del corpo, et tutte quelle, c'hanno
+     poca gratia, stanno ben coperte di panno, di frondi, o con mano. <persName ref="#Apelle">Apelle</persName> dipingeva l'imagine d'<persName ref="#Antigonus">Antigono</persName> da
+     quella parte sola del volto, ne la quale non era il difetto de l'occhio. Et <persName ref="#Homere">Homero</persName>, quando egli fa, ch'<persName ref="#Ulysse">Ulisse</persName>
+     naufrago svegliato dal sonno esce fuora nudo de la selva a la voce de le femine, leggesi, che
+     gli diede un ramo di foglie d'albero per coprire quelle parti del corpo che non si possono
+     nominare senza vergogna. Dicesi che <persName ref="#Pericles">Pericle</persName> hebbe il capo
+     lungo, et brutto; et perciò i pittori, et gli scultori erano usati ritrarlo, non come gli altri
+     con la testa scoperta, ma vestita de l'elmo. Racconta Plutarcho anch'egli che i pittori antichi
+     erano usati dipingendo i Re, s'alcun difetto era in loro, non volere mostra re di lasciarlo; ma
+     quanto più si poteva servata la <pb n="29bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0061.jp2/full/max/0/default.jpg"/> sembianza l'emendavano. Io desidero dunque che
+     si servi questa modestia, et vergogna in tutta l'historia, che le cose brutte si lascino, o
+     s'emendino. Finalmente, come io ho detto, giudico che si debba ben considerare che quasi in
+     alcuno non si veggia il medesimo stato, o gesto. Moverà anchora l'historia gli animi di coloro
+     che guardano, quando quegli huomini che vi sono queti, mostreranno sopra tutto il suo moto de
+     l'animo. Percioché si fa la natura, de la quale niente si ritrova, che più rapace sia de le
+     cose che la simigliano, che piangiamo con quei che piangono; ridiamo con quei che ridono; et si
+     dogliamo con quei che si dolgono. Ma questi moti de l'animo si conoscono da i moti del corpo.
+     Percioché veggiamo che i mesti per essere astretti da gli affanni, et da la passione, stanno
+     pigri in tutti i sensi, et le forze; et lenti si ritengono fra le membra pallide, et fuor di
+     modo languide. Perché quei che stanno di mala voglia, hanno la fronte depressa, il collo
+     languido; et tutte le membra finalmente come stanche, et sprezzate, si lasciano andare. A quei
+     che sono corrocciati, per havere gli animi infiammati da l'ira, e'l volto, et gli occhi si gli
+     gonfiano, et gli divengono rossi; e i moti di tutte le membra per il furor de la colera sono in
+     loro gagliardisimi, et molto risentiti. Ma quando siamo allegri, et giocondi, alhora habbiamo i
+     moti sciolti, et grati con certe piegature. E lodato <persName ref="#Euphranor">Euphranore</persName>, perché egli fece in <persName ref="#AlexandreLeGrand">Alessandro</persName> il volto di <persName ref="#ParisMythologie">Pari</persName>, et la
+     faccia; ne la quale tu lo puoi conoscere in un tempo giudice de le Dee, <pb n="30" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0062.jp2/full/max/0/default.jpg"/> amator
+      d'<persName ref="#Helene">Helena</persName>, et micidial d'<persName ref="#Achille">Achille</persName>. <persName ref="#Damon">Demone</persName> pittore anch'egli fu
+     mirabilmente lodato, perché ne le sue tavole vi si vede in un tempo il corrocciato, l'ingiusto,
+     l'incostante, et insieme l'inesorabile, il clemente, il misericordioso, il glorioso, l'umile,
+     e'l feroce. Ma fra gli altri dicono ch'<persName ref="#Aristide">Aristide Thebano</persName>
+     quasi eguale ad <persName ref="#Apelle">Apelle</persName> espresse questi moti de l'animo; la
+     qual cosa e certo; et noi anchora questo acquistiamo, quando in ciò mettiamo studio, et
+     diligentia quanto si conviene. Bisogna dunque che'l pittore sappia benissimo i moti del corpo,
+     i quali giudico io che con molta sollecitudine si debbano imparare da la natura. Percioché e
+     cosa quasi fuor di modo difficile variare i moti del corpo con infiniti moti de l'animo. Ma chi
+     sarà colui che creda questo, se non sarà huomo pratico che ciò sia tanto difficile, fingere
+     quando tu vuoi, i volti che ridano, che si possa schifar che non più tosto paiano stare
+     piangendo che allegri? Ma chi potrà anchora senza grandissimo studio, et diligenza esprimere i
+     volti, ne i quali et la bocca, e'l mento, et gli occhi, et le guancie, et la fronte, et le
+     ciglia si confacciano insieme al pianto, o a la allegrezza? Per questo diligentissimamente
+     s'hanno da considerare tutte queste cose da la natura istessa; et sempre le più pronte s'hanno
+     da imitare. Et quelle specialmente sono da essere dipinte, le quali lasciano più ne gli animi
+     da pensare che quelle che si veggono con gli occhi. Ma raccontiamo noi alcune cose de i moti,
+     le quali parte habbiamo fabricato col nostro ingegno, parte imparato <pb n="30bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0063.jp2/full/max/0/default.jpg"/> da la
+     natura. Prima credo che sia necessario che tutti i corpi fra loro si muovano con una certa
+     vaghezza, a quella cosa, de la quale si tratta. Piacemi anchora che ne la historia vi sia
+     alcuno, il quale avisi gli spettatori di quelle cose che si fanno; o con mano gli chiami a
+     vedere; o come s'egli volesse che quella cosa fosse secreta, stia minaccioso con volto crudele,
+     et occhi bieci, che tu non vi vada; o vi dimostri pericolo, o alcuna altra cosa maravigliosa; o
+     con i suoi gesti t'inviti a ridere seco, o piangere insieme; et finalmente è necessario che
+     tutte quelle cose, le quali essi con quei che guardano, o i dipinti tra loro fanno, si
+     confacciano a fare, et rappresentar l'historia. Lodasi <persName ref="#Timanthe">Thimante
+      Cipriano</persName> in quella tavola, ne la quale egli vinse Collotrico; c'avendo fatto nel
+     <objectName ref="#TimantheSacrificeIphigenie">sacrificio d'Iphigenia</objectName>
+     <persName ref="#Calchas">Calcante</persName> mesto, <persName ref="#Ulysse">Ulisse</persName>
+     molto più, et consumato tutta l'arte, et l'ingegno in <persName ref="#Menelas">Menelao</persName> abbattuto dal dolore; spesi tutti gli affetti, non ritrovando in che modo
+     degnamente potesse rappresentare il volto del padre mestisimo, gli coperse la faccia co'panni;
+     sì come a cui lasciava più da pensare ne l'animo circa il dolor suo, che non si sarebbe potuto
+     esprimere con la vista. In <placeName ref="#Rome">Roma</placeName> anchora è molto lodata
+     quella nave, ne la quale un nostro Toscano pittore <persName ref="#Giotto">Giotto</persName>
+     espresse undici combattuti da la paura, et da la maraviglia per il compagno, il quale vedevano
+     caminare sopra l'acque; di modo che ciascuno mostra per se il suo inditio de l'animo turbato
+     nel volto, e in tutto il corpo che in un per uno si veggono i propri moti de l'affettione. <pb n="31" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0064.jp2/full/max/0/default.jpg"/> Ma egli è honesto, che brevissimamente si tratti tutto questo loco de i moti. Perché
+     vi sono alcuni moti de gli animi, i quali gli huomini dotti chiamano affettioni, come ira,
+     dolore, allegrezza, paura, desiderio, et altri simili; altri vi sono de i corpi. Percioché i
+     corpi sono detti moversi in più modi, sì come quando crescono, et scemano; et quando sani
+     cadono in infirmità; et quando da la malattia ritornano a la sanità; et quando mutano loco; et
+     per simili cagioni sono detti i corpi moversi. Ma noi pittori, i quali vogliamo esprimere ne i
+     moti de le membra gli animi turbati, lasciate l'altre dispute, ragioneremo di quel moto solo,
+     il quale dicesi che si fa alhora, quando si muta loco. Ogni cosa che si muove di loco, ha sette
+     vie di moversi. Perché o verso in su, o in giù, o in destra, o in sinistra, o per di la andando
+     lungi, o ritornando verso noi. Il settimo modo di moversi è, quando si volge girando in
+     circuito. Desidero io dunque che tutti questi moti siano ne la pittura. Alcuni corpi vi siano,
+     che si drizzino a noi; alcuni altri vadano verso qua, a man destra, et sinistra. De i medesimi
+     corpi anchora alcune parti si mostrino verso gli spettatori; altre guardino indietro; altre
+     s'inalzino su; altre vadano in giù. Ma per che in dipingere questi moti le più volte si passa
+     il modo, et la ragione, piacemi di raccontare in questo loco alcune cose de lo stato, et de i
+     moti de le membra, le quali io ho raccolte da la natura istessa; accioché chiaramente si
+     conosca con quanta destrezza si debbe servire di questi moti. Certo io ho considerato <pb n="31bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0065.jp2/full/max/0/default.jpg"/> ne l'uomo, quanto egli in ogni suo stato sottoponga tutto il corpo a la testa più
+     grave membro di tutte l'altre. Et anchora s'egli si fermerà con tutto il corpo in su un piede,
+     sempre quel piede, come base de la colonna, è sottoposto perpendicolarmente al capo. Et quasi
+     sempre il volto di colui che sta fermo, è rivolto la dove è drizzato il piede. Io ho
+     considerato anchora che i moti del capo, a fatica giamai sono tali in alcuna parte che non
+     sempre habbia alcune parti de l'avanzo del corpo poste sotto di se, da le quali sia sostenuto
+     così gran peso; o veramente che non porga da l'altra parte opposta, come una bilancia, alcun
+     membro che risponda al peso. Percio che il medesimo veggiamo, quando alcuno distesa la mano
+     sostiene alcun peso che fermato l'altro piede, come fondamento de la bilancia, tutta l'altra
+     parte del corpo si contrapone ad aguagliare il peso. Ho veduto anchora che la testa di chi sta
+     in piede, non si volta più in su, se non quanto gli occhi guardino mezzo il cielo; ne più si
+     voltano ne l'altro lato, se non quanto il mento tocca la spalla. Ma in quella parte del corpo,
+     dove si cingiamo, a pena mai tanto si torciamo che fermiamo la spalla sopra l'ombilico a linea
+     dritta. I moti de le gambe, et de le braccia sono più liberi, pur che non impediscano l'altre
+     parti honeste del corpo. Ma in questi sempre ho considerato questo da natura; che le mani quasi
+     mai non s'inalzano sopra il capo, ne il gombito sopra le spalle. Ne il piede si leva in alto
+     sopra il ginocchio, ne'l piede essere più lontano da l'altro, di quanto sia lo <pb n="32" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0066.jp2/full/max/0/default.jpg"/>
+     spacio d'un piede. Ho veduto anchora, se alziamo in alto alcuna mano che tutte l'altre parti di
+     quel lato infino al piede seguono quel moto; di maniera che il calcagno anchora di quel piede
+     si leva da lo spazzo per lo moto del medesimo braccio. Ve ne sono assaissimi molto simili a
+     questo, i quali un diligente artefice potrà considerare; et forse che io fino hora gli ho
+     raccontati; et son talmente in pronto, che potrebbono parer soverchi. Ma non gli habbiamo
+     sprezzato per questo, perché sappiamo che infiniti hanno in ciò grandemente errato. Percioché
+     rappresentano moti troppo gagliardi; et fanno che in una medesima imagine si veggono il petto,
+     et le natiche sotto una vista sola; il che sendo impossibile a farsi, e anchora cosa
+     bruttissima a vedere. Ma costoro, perché odono dire, che quelle imagini paiono molto vive, le
+     quali maneggiano forte le membra, per questo imitano i movimenti de gli histrioni, sprezzata
+     ogni dignità de la pittura. La onde l'opre loro non pure son nude di gratia, et di vaghezza, ma
+     esprimono anchora l'ingegno troppo ardente de l'artefice. Percioché la pittura dee havere i
+     moti soavi, et grati, et accommodati a la cosa, di che si tratta. Sia ne le vergini un moto et
+     uno habito leggiadro, ornato, et dilettevole per una semplice età, il quale tenga più tosto
+     d'una fermezza, et d'un dolce riposo che de l'essercitio; benché ad <persName ref="#Homere">Homero</persName>, il quale <persName ref="#Zeuxis">Zeusi</persName> seguitò, piacesse ne le
+     donne anchora una bellezza molto gagliarda. Siano in uno garzone moti più leggieri, et
+     giocondi, con una certa dimostratione d'animo valente, <pb n="32bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0067.jp2/full/max/0/default.jpg"/> et di forze. Siano in
+     uno huomo moti più fermi, et stati ornati molto a una veloce lotta. Habbiano i vecchi tutti i
+     loro moti tardi. Et siano gli stati loro stanchi, di maniera che non pure sostengano il corpo
+     con ambidue i piedi, ma in alcun modo s'appoggino anchora con le mani; et finalmente secondo la
+     dignità di ciascuno, i moti del suo corpo si riferiscano a quei de l'animo che tu vorrai
+     rappresentare. Appresso questo è necessario anchora che ne le membra siano grandisimi segni de
+     i grandisimi affetti de l'animo. Et certo, che questa ragione de i moti e molto comune in ogni
+     animale. Percioché non sta bene a un bue, che ari, l'usare quei moti, che farebbe Bucephalo
+     generoso cavallo d'<persName ref="#AlexandreLeGrand">Alessandro</persName>. Et forse che molto
+     propriamente dipingeremo quella famosa figlivola d'<persName ref="#Inachos">Inacho</persName>,
+     la quale fu mutata in una vacca, che corresse con la testa elevata, co i piedi alti, et con la
+     coda intorta. Basteranno queste cose, le quali brevemente habbiamo discorso del moto de gli
+     animali. Ma hora, perché io giudico, che ne la pittura siano necessari tutti quei moti, ch'io
+     ho detto de le cose inanimate, parmi che sia bene dire in che modo elle si movano. Et certo che
+     i moti de i capegli, de le come, de i rami, de le frondi, et de le vesti, espressi ne la
+     pittura dilettano molto. Et certo ch'io desidero che i capegli facciano tutti quei sette moti,
+     ch'io ho detto. Perché s'hanno da volgere intorno facendo un nodo, et ondeggiare per l'aere,
+     imitando le fiamme; et hora si volgano sotto gli altri crini; hora s'inalzino in questa, in
+     quella parte; siano anchora le pieghe de i <pb n="33" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0068.jp2/full/max/0/default.jpg"/> rami parte inarcate in cima, parte
+     entrino dentro, parte si torcano come una fune. Questo medesimo anchora si dee osservare ne le
+     pieghe de i panni, cioè ch'essi scorrano in tutte le parti, sì come rami dal tronco de
+     l'albero, così una piega nasca da l'altra, come ne' suoi rami; e in queste anchora tutti quei
+     medesimi moti s'adempiano, sì che non vi sia distensione alcuna del pano, ne la quale non si
+     ritrovino quasi tutti i medesimi moti. Ma siano tutti i moti, il che spesso soglio avertire,
+     moderati et facili, et mostrino più tosto gratia che maraviglia di fatica. Hora poi che
+     vogliamo che i panni siano accommodati a i moti; et poi che secondo la natura loro, i panni
+     gravi che spesso cadono in terra, fuggono molto tutte le pieghe, per ciò si metterà benissimo
+     ne la pittura la faccia di <persName ref="#Zephyr">Zephiro</persName>, o d'<persName ref="#Astreos">Austro</persName>, che soffia tra i nuvoli, in un cantone de l'historia, la
+     dove tutti i panni rivolti si disacciano. Onde vi si vedrà quella gratia che i lati del corpo
+     che sono feriti dal vento, percioché i panni sono dal vento rassettati al corpo, quei parranno
+     quasi ignudi sotto la coperta del panno. Ma da gli altri lati i panni mossi dal vento benissimo
+     ondeggieranno per l'aere. Ma in questa impulsione del vento guardisi bene, non alcuni moti de i
+     panni si levino contra il vento; et che non siano troppo rotti, o troppo sporti inanzi. Queste
+     cose dunque che si sono dette de i moti de gli animali, et de le cose inanimate, sono da essere
+     osservate grandemente dal pittore; et tutte quelle anchora sono da essere diligentemente
+     esseguite, le quali habbiamo raccontato de la compositione de <pb n="33bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0069.jp2/full/max/0/default.jpg"/> le superficie, de
+     le membra, et de i corpi. Habbiamo dunque fornito due parti de la pittura, la circonscrittione,
+     et la compositione. Resta che si dica del ricevere de i lumi. Ne i principi habbiamo a bastanza
+     mostrato, qual forza habbiano i lumi a variare i colori. Percioché stando ferme le sorti de i
+     colori, habbiamo mostrato che i colori si fanno hora più aperti, hora più ristretti, secondo la
+     forza de i lumi, et de l'ombre; et che'l bianco, e'l nero sono i colori, coi quali esprimiamo i
+     lumi, et l'ombre ne la pittura; et che gli altri colori sono considerati come materia, co i
+     quali vi si diano le alterationi del lume, et de l'ombra. Lasciate dunque l'altre cose, s'ha da
+     dichiarare hora; in che modo il pittore ha d'adoprare il bianco, e'l nero. I pittori antichi si
+     maravigliano che <persName ref="#Polygnote">Polignoto</persName>, et <persName ref="#Timanthe">Thimante</persName> usassero solo quattro colori; et che <persName ref="#Aglaophon">Aglaophone</persName> si dilettasse d'un solo; come se in tanto numero, quanto pensavano che
+     vi fosse di colori, sia poco, se quegli eccellentissimi pittori se ne servissero di così pochi;
+     et pensano che sia cosa di copioso artefice mettere insieme ne l'opra tutta la moltitudine de i
+     colori. Veramente io affermo che l'abbondanza, et la varietà de i colori possa molto a dar
+     gratia, et vaghezza a la dipintura; ma così vorrei, che i pittori pratichi si pensassero che
+     tutta la industria, et l'arte consista solamente in disporre il bianco, e'l nero; et che in
+     mettere bene questi due vi si debba consumare tutto l'ingegno, et la diligeza. Percioché sì
+     come il caso de i lumi, et de l'ombra faquesto, che si vede, in che loco la supficie ha
+     rilievo, <pb n="34" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0070.jp2/full/max/0/default.jpg"/> dove ella entri dentro, et dove ella sia incavata, et qual parte declini,
+     et quale pieghi. Così la vaghezza del bianco, et del nero fa quello, onde veniva lodato
+      <persName ref="#Nicias">Nitia</persName> pittore Atheniese, et quello, che sopra tutto dee
+     desiderare il pittore, cioé che le sue cose dipinte paiano havere molto rilievo. Dicono che
+      <persName ref="#Zeuxis">Zeusi</persName> nobilissimo, et antichissimo pittore, sì come il
+     primo, hebbe questa ragion medesima de i lumi, et de l'ombre. Ma a gli altri non su data questa
+     lode. Ma io non vederò mai alcun pittore anchora che mediocre, colui che non conosca benissimo
+     che forza habbia ogni ombra, e i lumi in tutte le superficie. Io loderò, consentendovi i dotti,
+     et gli ignoranti, quei volti, i quali come se fossero scolpiti, paiono rilevati da le tavole;
+     et per il contrario biasmerò quegli, ne i quali non riluce arte alcuna, se non forse ne i
+     lineamenti. Io vorrei vedere che la compositione fosse ben dissegnata, et benissimo colorata.
+     Accio dunque che manchino di vituperio, et meritino lode, sopra tutto sono da essere
+     diligentissimamente notati i lumi, et l'ombre. Et è da essere considerato quanto il colore
+     istesso sia fatto più bello, et più illustre in quella superficie, ne la quale feriscono i
+     raggi de i lumi. Et poi anchora come mancando a poco a poco la forza de i lumi il medesimo
+     colore si faccia oscuro. Finalmente sempre si dee considerare, in che modo l'ombre rispondano a
+     l'incontro de i lumi; sì che la superficie in nessun corpo non è illustrata dal lume, che in
+     quel medesimo tu non vi ritrovi anchora le contrarie superficie coperte di ombre. Ma in quanto
+     appartiene a imitare i lumi <pb n="34bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0071.jp2/full/max/0/default.jpg"/> col bianco, et l'ombre col nero, io t'aviso che tu
+     metta il principale studio a conoscere quelle superficie, le quali son toccate dal lume, o da
+     l'ombra. Questo benissimo imparerai tu da la natura, et da le cose istesse. Poi quando tu
+     l'avrai bene imparate, tu altererai con un bianco leggierissimo quanto potrai al suo il colore
+     tra i contorni; et parimente al suo contrario subito vi aggiungerai il nero. Percioché con
+     questo compartimento, per dir così, di bianco, et di nero, il rilievo che s'alza, si fa più
+     chiaro. Dapoi con simile parsimonia continua con gli accrescimenti, fin che tu ti conosca haver
+     guadagnato tanto che basti. Et certo a conoscere questa cosa ottimo giudice sarà lo specchio.
+     Et non so in che modo le cose depinte habbiano gratia ne lo specchio, se sono senza diffetto.
+     Perché maraviglia è anchora, quanto ogni menda de la pittura appaia più brutta ne lo specchio.
+     Le cose dunque tolte da la natura si debbono emendare col giudicio de lo specchio. Ma vogliamo
+     riferire qui alcune cose c'habbiamo imparato da la natura. Io ho considerato, come le
+     superficie piane servino un colore uniforme in ogni suo loco; le rotonde, et incavate variano i
+     colori. Percioché qui più chiaro, et la più scuro; in altro loco la qualità si mantiene di
+     mezzo colore. Però questa alteratione di colore ne le superficie che non sono piane, fa
+     difficultà a i pittori goffi; ma se, nel modo, c'habbiamo insegnato, il pittore havrà disegnato
+     bene i contorni de le superficie, et havrà fatto differenti le sedi de i lumi, certo che alhora
+     sarà facile il modo di colorare. Percioché egli alterarà <pb n="35" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0072.jp2/full/max/0/default.jpg"/> quasi con una
+     sottilissima rugiada prima fino a quella linea de la differenza con bianco, o nero quella
+     superficie, quanto sara bisogno. Dapoi sovragiungendo una altra, per dir così, rugiadetta, di
+     qua da la linea, dopo questa una altra di qua da questa, et di qua da quella una altra,
+     acquisterà, che sendo il loco più chiaro tinto d'un colore più aperto, che quel medesimo colore
+     poi a modo di fumo si spargerà ne le parti vicine. Ma bisogna ricordare che nessuna superficie
+     s'ha da imbiancare talmente che tu non la possa fare molto, et molto più bianca. Rappresentando
+     anchora le proprie vesti di neve, s'è da fermar molto di qua da l'ultima bianchezza. Percioché
+     il pittore altro non ha che'l color bianco, col quale possa imitar gli ultimi splendori de le
+     più forbite superficie; et ha ritrovato solo il nero, col quale rappresenti l'ultime tenebre de
+     la notte. Però in dipingere le vesti bianche bisogna torre uno de le quattro sorti de i colori,
+     il quale sia aperto et chiaro; et quel medesimo per il contrario in dipingere una veste nera,
+     torremo uno altro estremo, il quale non sia molto differente da l'ombra, come sarebbe un colore
+     del mare profondo; che pende al nero. Finalmente questa compositione di bianco, et di nero ha
+     tanta forza, che fatta con arte, et con modo, dimostra ne la pittura le superficie
+     splendidisime d'oro, d'argento, et di vetro. Sono dunque grandemente da essere vituperati i
+     pittori, i quali fuor di modo, et con poca diligenza adoprano il bianco, e'l nero. Et però
+     vorrei io, che'l color bianco fosse comprato da i pittori <pb n="35bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0073.jp2/full/max/0/default.jpg"/> molto più caro che le
+     preciosissime gioie. Certo sarebbe utile che il bianco, e'l nero si facesse di quelle perle di
+      <persName ref="#Cleopatre">Cleopatra</persName>, le quali ella dileguava ne l'aceto; accioché
+     essi ne fossero fuor di modo avari. Percioché l'opere sarebbono più vaghe, et più prossime a la
+     verità; ne facilmente si può dire, quanta parsimonia, et modo bisognerebbe che s'usasse a
+     distribuire il bianco ne la pittura. Di qui soleva <persName ref="#Zeuxis">Zeusi</persName>
+     riprendere i pittori, i quali non sanno quel che sia soverchio. Che se pur si dee perdonare al
+     vitio, son meno da riprendere quei che senza modo si servono del nero che coloro che poco
+     temperatamente usano il bianco. Percioché da la natura istessa ogni giorno impariamo con l'uso
+     del dipingere ad avere in odio l'opra scura, et horrida. Et continuamente quanto più
+     intendiamo, tanto più rendiamo la mano inclinata a la gratia, et vaghezza. Così da natura tutti
+     amiamo le cose apte, et chiare. In quella parte dunque, dove si vede più facile la via al
+     peccato, ivi ella più s'ha da serrare. Queste cose fin qui siano dette de l'uso del bianco, et
+     nero. Ma de le sorti de i colori vi s'ha da <reg>usare</reg> una ragione anchora. Resta dunque,
+     che diciamo de le sorti de i colori alcune cose, non già nel modo che dice <persName ref="#Vitruve">Vitruvio</persName> architetto, in che loco si trovino cinabri ottimi, et
+     colori eccellentissimi. Ma in qual modo i colori scelti, et molto macinati siano da essere
+     composti ne la pittura. Dicono ch'<persName ref="#Euphranor">Euphranore</persName> pittore
+     antico scrisse alcuna cosa de i colori; quegli scritti non vi sono al tempo nostro. Ma io che
+     ho ritornato in luce questa arte de la pittura, o che ella <pb n="36" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0074.jp2/full/max/0/default.jpg"/> già sia stata scritta
+     da altri; o non mai più descritta da alcuno l'ho messa al mondo, col mio ingegno, sì come io ho
+     fatto fin qui, proseguirò questa materia. Vorrei che le sorti, et le qualità de i colori, in
+     quanto si potesse fare, tutte si vedessero con una certa gratia, et vaghezza ne la pittura.
+     Veramente alhora vi sarà la gratia, quando i colori s'accostaranno a i colori con una certa
+     diligentia perfetta; come se tu dipingessi <persName ref="#Diane">Diana</persName> che menasse
+     una danza, a questa nimpha bisogna dare i vestimenti bianchi, a quella che vi è appresso verdi,
+     a l'altra, che vi è vicina rosi, a un'altra gialli. Et finalmente saranno vestite di si fatta
+     diversità di colori, che sempre i colori chiari siano congiunti con alcuni colori oscuri di
+     diversa sorte. Percioché quella congiuntione di colori da la varietà rappresenta vaghezza, et
+     dal paragone bellezza più notabile. Et certo, ch'alcuna amicitia è tra i colori, che l'uno
+     giunto a l'altro aggiunge gratia, et vaghezza. Il color rosso, se sara posto in mezzo tra
+     l'azuro, e'l verde, suscita un certo honor cambievole a questo, et a quello. Il color bianco,
+     non solo posto tra il beretino, e'l giallo, ma quasi a tutti i colori da vaghezza. Mai colori
+     oscuri trai chiari stanno con una certa notabile dignità. Et nel medesimo modo i chiari sono
+     posti benissimo tra gli oscuri. Il pittor dunque disporrà ne la historia quella varietà di
+     colori ch'io ho detto. Vi sono di quei ch'adoprano di molto oro, per che si credono, che l'oro
+     dia una certa maiestà a l'istoria; costoro io non gli lodo in tutto; anzi s'io volessi
+     dipingere quella <persName ref="#Didon">Didone</persName> di <persName ref="#Virgile">Virgilio</persName>, la quale haveva <pb n="36bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0075.jp2/full/max/0/default.jpg"/> il turcasso d'oro, e i capegli legati in
+     oro; che s'allacciava la veste con una fibbia d'oro, et aveva il freno d'oro, e'n somma ogni
+     cosa le resplendeva d'oro; io nondimeno mi sforzarei d'imitar più tosto con colori, che con oro
+     quella abbondanza di raggi d'oro; la quale d'ogni parte empisse gli occhi de i risguardanti.
+     Percioché essendo maggiore ne i colori la maraviglia, et la lode de l'artefice, si può vedere
+     anchora, posto l'oro in una tavola piana, come parecchie superficie, le quali bisognava
+     rappresentare chiare, et lucide, paiano oscure a chi le guarda. Alcune altre, le quali
+     peraventura devevano essere più ombrose, si mostrino più ripiene di lumi. Ma gli altri
+     ornamenti de fabri, i quali s'aggiungono a la pittura, cioè come le colonne scolpite, le basi,
+     e i capitelli, certo io non son per biasmargli, se saranno d'argento proprio, o d'oro masiccio,
+     o almeno bene schietto. Percioché anchora una historia perfetta, et absoluta con ornamenti di
+     gioie e dignissima. Fin qui habbiamo trattato brevissimamente di tre parti de la pittura.
+     Habbiamo parlato de la circonscrittione de le superficie minori, et maggiori. Habbiamo
+     ragionato de la compositione de le membra, et de i corpi. Habbiamo scritto de i colori, quanto
+     pensavamo, che bastasse al bisogno del pittore. Tutta dunque la pittura è stata dichiarata da
+     noi, la quale habbiamo già detto, che consiste in queste tre cose, circonscrittione,
+     compositione, et ricevimento di lumi. </p>
+      </div>
+      <div type="livre" xml:id="L3" n="3">
+        <pb n="37" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0076.jp2/full/max/0/default.jpg"/>
+        <head> LIBRO TERZO DE LA PITTURA DI <persName ref="#LeonBattistaAlberti">LEON BATTISTA
+      ALBERTI</persName>. </head>
+        <figure type="ornement"/>
+        <p xml:id="ALB_DP_L3_P1"><figure type="lettrine"/> HORA perché alcune cose ci restano ancho a fare un perfetto pittore,
+     accioché egli sia degno di tutte le lodi, c'habbiamo raccontato; le quali cose io non ho voluto
+     tacere in questi comentari, io le dirò quanto più brevemente sarà possibile. Ufficio del
+     pittore è dissegnare, et dipingere tutti i corpi che gli sono dati, ne la superficie, ne le
+     linee, et ne i colori che posta una certa lontananza, e un certo fondamento del raggio
+     centrico, quelle cose medesime che tu vedi dipinte, paiano e rilevate, et molto simili a i
+     corpi dati. Il fine del pittore è guadagnare da l'opra lode, gratia, et benivolenza, più che
+     ricchezze. Certo questo acquisterà egli, quando la sua pittura tirerà, et moverà gli occhi, et
+     gli animi di quei che le guardano. Le quali cose habbiamo detto in che modo si possano fare,
+     quando di sopra habbiamo disputato de la compositione, et del ricevere de i lumi. Ma io
+     desidero che'l pittore, accioché egli possa bene imparare queste cose, sopra tutto sia et huomo
+     buono, <pb n="37bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0077.jp2/full/max/0/default.jpg"/> et dotto ne le buone arti. Percioché ogniun sa quanto possa la bontà
+     molto più anchora ch'ogni industria, e maraviglia de l'arte ad acquistare la benivolenza de
+     cittadini. Et non è alcuno, che dubiti, che la benivolenza di molti giova assaissimo a
+     l'artefice a guadagnarsi lode, et ricchezze. Perché da quella avviene che alcuna volta i ricchi
+     sono mossi più da la benivolenza, che da la scientia de l'arte, et perciò danno guadagno a
+     questo huomo modestissimo, et da bene, sprezzando uno altro certo più eccellente, ma forse men
+     buono. Il che sendo così, deve l'artefice attendere a la creanza, et sopra tutto a l'umanità,
+     et affabilità, per acquistarsi la benivolenza ferma difesa contra la povertà, et guadagno,
+     ottimo aiuto a far perfetta l'arte. Ma ben vorrei che'l pittore fosse dotto, quanto possibil
+     fosse, in tutte l'arti liberali; ma sopra tutto gli desidero che sia perito ne la Geometria. Et
+     certo in questo io son de la opinione di <persName ref="#Pamphile">Pamphilo</persName>
+     antichissimo, et nobilissimo pittore, dal quale i giovani nobili impararono prima la pittura.
+     Perché il parer suo era che nessuno sarebbe stato buon pittore, il quale non sapesse Geometria.
+     I nostri principi, da i quali si cava tutta l'arte de la pittura perfetta, et intiera,
+     facilmente sono intesi da un Geometra. Ma io giudico poi che quei che non sanno questa arte,
+     non possano ancho a bastanza sapere ne i principi, ne alcune ragioni de la pittura. Io affermo
+     dunque che i pittori non hanno punto da sprezzare la Geometria. Appresso non sara fuor di
+     proposito, se si diletteranno de'poeti, et de gli <pb n="38" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0078.jp2/full/max/0/default.jpg"/> oratori. Percioché costoro hanno
+     molti ornamenti comuni col pittore. Et molto anchora gli gioveranno quei letterati copiosi con
+     la cognitione di molte cose a ordinar bene la compositione de l'historia; tutta la quale lode
+     specialmente sta ne l'inventione. Et veramente ch'ella ha questa forza che l'invention sola
+     diletta anchora senza la pittura. E lodata mentre si legge quella descrittion de la
+     <objectName ref="#ApelleCalomnie">Calonnia</objectName>. La quale <persName ref="#LucienSamosate">Luciano</persName>
+     dice, che fu dipinta <persName ref="#Apelle">d'Apelle</persName>. Ne io credo che sia fuor di
+     proposito il raccontarla; accioché i pittori siano avisati che bisogna vegghiare in fabricare
+     sì fatte inventioni. Era uno huomo, c'haveva l'orecchie grandi; intorno al quale stavano due
+     donne, l'ignoranza, et la Sospitione; d'altra parte se ne veniva la Calonnia, la quale era una
+     bellissima donna; ma ella pareva in volto accorta sopra modo; ne la sinistra mano havea una
+     face accesa; da l'altra mano strassinava un giovane per gli capegli, il quale alzava le mani al
+     cielo. La guida di costei è un certo huomo pallido, brutto, di crudele aspetto, il quale
+     meritamente si potrebbe paragonare che lunga fatica ha macerato in battaglia; costui dicono
+     ch'è il Livore, o l'Invidia. Vi sono anchora due altre donne compagne de la Calonnia, le quali
+     accommodano gli ornamenti a la padrona; queste sono l'Insidia, et la Fraude. Dopo queste vi è
+     la Penitentia coperta di veste oscura, et sordidissima; la quale tutta si straccia. Appresso la
+     quale segue la Verità pudica, et vergognosa. La quale historia s'anchora mentre ch'ella si
+     recita tira a se gli animi, <pb n="38bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0079.jp2/full/max/0/default.jpg"/> quanta gratia et vaghezza si dee credere ch'ella
+     havesse da la pittura di così eccellente pittore. Che diremo di quelle tre giovanette, a le
+     quali <persName ref="#Hesiode">Hesiodo</persName> mise nome <persName ref="#Charites">Aglaia,
+      Euphrosina, et Thalia</persName>; le quali dipinsero ridendo con le mani intricate fra loro,
+     ornate d'una veste sciolta, et molto risplendente? Per le quali volsero rappresentare la
+     Liberalità; ch'una de le sorelle da l'altra riceve, la terza rende il beneficio. I quali gradi
+     deono essere in ogni liberalità compita. Non veditu bene, come simili inventioni acquistano
+     gran lode a l'artefice. Et perciò do questo consiglio, che un pittore studioso si faccia
+     familiare, et amico a i poeti, a gli oratori, et a gli altri dotti, et letterati. Percioché da
+     simili begli ingegni ne riceverà ornamenti ottimi; et sarà anchora aiutato in queste
+     inventioni, le quali si vendicheranno ne la pittura la prima lode. <persName ref="#Phidias">Phidia</persName> pittore eccellente confessava d'avere imparato da <persName ref="#Homere">Homero</persName>, in che maestà egli deveva dipingere <persName ref="#Jupiter">Giove</persName>. Così giudico anchora che noi si faremo più copiosi, et più emendati
+     leggendo i nostri poeti; pur che siamo più studiosi d'imparare che del guadagno. Ma le più
+     volte i non meno studiosi che desiderosi si rompono, perché non sanno la via d'imparare la
+     scientia che per fatica d'imparare. Et però incominciamo a dire, in che modo bisogna farsi
+     ammaestrati in quest'arte. Il principio sia; che tutti i gradi de l'imparare sono da esser
+     tolti da la natura istessa. Ma il modo di ridurre l'arte a perfettione s'ha da guadagnare con
+     diligenza, con studio, et con assiduità. Vorrei bene <pb n="39" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0080.jp2/full/max/0/default.jpg"/> che quegli ch'entrano a
+     l'arte del dipingere, facessero quel ch'io veggio osservarsi da i maestri di scrivere.
+     Percioché essi prima separatamente insegnano tutti i caratteri de le lettere. Dapoi gli
+     ammaestrano a mettere insieme le sillabe, et appresso le parole. Seguano dunque i nostri
+     anch'essi questa via nel dipingere. Imparino prima il contorno de le superficie, come elementi
+     de la pittura, et ancho le connessioni de le superficie. Dapoi distintamente apprendano le
+     forme de tutte le membra, et mettansi a memoria tutte le differenze, che possono essere ne le
+     membra. Perché elle sono et molte, et molto notabili. Vi saranno di quei c'haveranno il naso
+     gonfio. Saranno di quegli c'hanno il naso schiacciato, piegato, aperto: altri porgono inanzi la
+     bocca spalancata; alcuni altri sono ornati da la delicateza de le labra; et finalmente tutte le
+     membra hanno non so che di particolare; il quale quando vi è o più, meno, alhora varia molto
+     tutto il membro. Ma più anchora veggiamo che sendo noi fanciulli habbiamo le membra rotonde, et
+     per dir così, fatte a tornio, et polite, le quali crescendo poi in età si fanno più aspre, et
+     molto angulate. Lo studioso di pittura dunque torrà tutte queste cose da la natura; et egli
+     seco stesso continuamente starà pensando, in che modo elle stanno; et quasi sempre con gli
+     occhi, e con la mente starà fermo in quella consideratione. Percioché starà a guardare il
+     grembo, et le gambe di chi e a sedere, sì come dolcemente stanno a giacere. Considerarà tutta
+     la faccia, et l'habitudine di <pb n="39bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0081.jp2/full/max/0/default.jpg"/> chi sta in piede. Finalmente non vi sarà parte
+     alcuna, l'ufficio de la quale, et la simmetria, come dicono i Greci, egli non sappia. Et di
+     tutte le parti voglio ch'egli ami non pure la simiglianza de le cose, ma sopra tutto anchora la
+     bellezza istessa. Percioché la bellezza ne la pittura è cosa non meno grata che desiderata. A
+     quel <persName ref="#DemetriosAlopece">Demetrio</persName> pittore antico vi manco al colmo de
+     le sue lode, che fu più curioso di rappresentare la sembianza che la bellezza. Da tutti i corpi
+     più belli dunque sono da essere elette tutte le parti lodate. Et perciò non s'ha da mettere ne
+     l'ultime cose il contendere con lo studio, et l'industria ad haver la bellezza, conoscerla, et
+     rappresentarla. La qual cosa benché di gran lunga sia la più difficile di tutte, percioché
+     tutte le lode de la bellezza non si ritrovano in un loco, ma elle sono rare, et disperse, si
+     dee però mettere ogni fatica in cercarla, et apprenderla. Perché colui, c'havrà imparato a
+     conoscere, et maneggiare le cose più difficili, esso facilmente potrà fare le minori secondo il
+     desiderio suo. Ne vi è alcuna così difficil cosa, che tu non possa ridurre a perfettione con
+     studio et assiduità. Ma accioché lo studio non sia vano, et speso in darno, si dee fuggire
+     quella usanza di molti, i quali con l'ingegno di loro medesimi contendono ad acquistare lode ne
+     la pittura, senza mettersi inanzi con gli occhi, et con la faccia alcuna naturale di quella
+     cosa. Percioché costoro non imparino a dipinger bene, ma s'avezzano ne gli errori. Perché non
+     sanno ritrovare gli ignoranti quella idea de la bellezza ch'a pena gli eccellentissimi <pb n="40" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0082.jp2/full/max/0/default.jpg"/> ingegni possono discernere. <persName ref="#Zeuxis">Zeusi</persName> prestantissimo,
+     eccellentissimo et dottissimo pittore sopra tutti gli altri, essendo per fare una tavola, la
+     quale publicamente voleva dedicare nel <placeName>tempio di Lucina appresso i
+      Crothoniati</placeName>, non confidandosi temerariamente nel suo proprio ingegno, sì come
+     sogliono quasi tutti i pittori de l'età nostra, si mise a dipingere; ma perché egli si pensava
+     che tutte le parti, le quali egli cercava de la bellezza, di non poterle no pure haverle col
+     proprio ingegno, ma ne anco ricercatole da la natura potersi ritrovare tutte in un corpo.
+     Perciò di tutta la gioventù di quella città, scelse cinque le più belle vergini, per
+     rappresentare ne la pittura quel che in ciascuna era eccellentissimo di donnesca bellezza.
+     Veramente egli fece da savio; percioché facilmente avviene a i pittori, quando non è loro posto
+     inanzi alcuno essempio da imitare, quando con l'ingegno solo si sforzano di ritrovare le lodi
+     de la bellezza, che con quella fatica guadagnano non la bellezza che devrebbono, o che cercano,
+     ma ch'essi cadono in cattive usanze di dipingere; le quali anchora volendo a pena che possono
+     lasciare. Ma colui che si sarà avezzato a torre tutte le cose da la natura, si farà la mano
+     tanto essercitata, che sempre ogni cosa ch'egli tenterà, somiglierà a la natura istessa. La
+     qual cosa veggiamo quanto desiderare si debba ne le pitture. Percioché se ne l'historia vi sarà
+     il volto d'alcuno huomo conosciuto, benché vi si ne veggano de l'altre di più eccellente
+     artificio, nondimeno la faccia conosciuta tira a se gli occhi di tutti <pb n="40bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0083.jp2/full/max/0/default.jpg"/> i
+     risguardanti. Cotanta forza et gratia ha ella in se, per esser tolta dal naturale. Sempre le
+     cose dunque che siamo per dipingere, togliamole da la natura; et di quelle sempre eleggiamo le
+     più belle, et le più degne. Ma si dee avertire che quello ch'assaissimi fanno, non le
+     dipingiamo in tavolette picciole. Percioché io vorrei, che tu ti avezzassi a le imagini grandi,
+     le quali di grandezza vadano molto appresso a quel, che tu vuoi fare. Perché ne le imagini
+     picciole vi stanno ascosi i defetti grandissimi. In una effigie grande si veggono anchora i
+     minimi errori. <persName ref="#Galien">Galieno</persName> scrisse d'haver veduto scolpito in uno
+      anello
+     <persName ref="#Phaeton">Phetonte</persName> portato da quattro cavalli, de i quali
+     distintamente si vedevano tutti i freni, i piedi, e i petti. Concedano i pittori questa lode a
+     gli intagliatori de le pietre; ma essi manegginsi in campi maggiori di lode. Percioché colui
+     che saprà fingere o dipingere le figure grandi, costui facilmente et benissimo con un tratto
+     solo potrà fare ancho le minute. Ma quello, c'havrà avezzato la mano, et l'ingegno a questi
+     piccioli lavori, facilmente fallerà ne i maggiori. Vi sono di quegli ch'imitano l'opre de gli
+     altri pittori, e in questa cosa cercano d'acquistar lode; la qual cosa dicono che
+      <persName ref="#Calamis">Camalidè</persName> scultore fece; il quale scolpi due
+      tazze, ne le quali talmente imitò <persName ref="#Zenodore">Zenodoro</persName>,
+     che non si conosceva differenza alcuna ne l'opre. Ma i pittori sono in grandissimo errore, se
+     non conoscono, che quei che dipingono, si sono sforzati rappresentare tale imagine, sì come noi
+     veggiamo nel velo dipinta da la natura istessa. Ma se pur ti diletta <pb n="41" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0084.jp2/full/max/0/default.jpg"/> imitare
+     l'opre de gli altri, perché elle danno più ferma patientia a dimostrarsi che le vive, voglio
+     più tosto che tu ti metta inanzi a imitare più tosto una cosa mezzanamente scolpita che una
+     eccellentemente dipinta. Percioché da le cose dipinte avezziamo le mani solo a rappresentare
+     alcuna simiglianza. Ma da le scolpite impariamo a tirare la simiglianza, e i lumi veri. A
+     volere raccogliere questi lumi giova molto ristringere la punta de la vista co i peli de le
+     palpebre; accioché ivi paiano i lumi quasi oscuri, et quasi dipinti con un taglio. Et
+     peraventura gioverà più essercitarsi fingendo, che col pennello. Percioché più facile, et più
+     certa è la scultura che la pittura. Ne vi sarà mai alcuno, il quale possa ben dipingere cosa,
+     de la quale non conosca tutti i rilevi. Ma più facilmente si ritrovano i rilievi ne la
+     scultura, che ne la pittura. Et questo voglio che sia argomento non mezzano al proposito
+     nostro, che quasi in ogni età tu ritroverai che ci sono stati alcuni scultori mediocri; ma tu
+     non vi ritroverai pittor nessuno se non da farsene beffe, et del tutto ignorante. Finalmente o
+     che tu voglia studiare pittura, o scultura, sempre tu hai da metterti inanzi alcuno essempio
+     elegante, et singolare, perché tu lo vegga, et imiti; et nel l'imitarlo giudico che vi si debba
+     mettere diligenza congiunta a prestezza, di maniera che'l pittore non accosti mai pennello o
+     stilo a lavoro che non habbia prima benissimo ordinato ne la mente quel ch'egli e per fare, et
+     in che modo l'ha da fornire. Percioché più securo è levare gli errori de la mente, che
+     scancellarli <pb n="41bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0085.jp2/full/max/0/default.jpg"/> de l'opera. Et perché anchora mentre che s'avezzaremo tutte le
+     cose a far pensatamente, avvie ne che diventiamo più pronti artefici d'<persName ref="#Asclepiodore">Asclepiodoro</persName>; il quale dicono che fu velocissimo sopra ogniuno
+     in dipingere. Percioché quello ingegno che maneggiato ne l'essercitio si riscalda, diventa
+     pronto, presto, et spedito. Et quella mano velocissima segue, la quale è guidata da certa
+     ragione d'ingegno. Ma se vi sono alcuni artefici pigri, questi veramente sono tali, per che
+     lentamente, et con tardita tentano quella cosa, che prima con lo studio non hanno fatto chiara
+     a la mente sua. Et mentre che stanno intricati in quelle tenebre d'errore, paurosi, et quasi
+     accecati tentano, et ricercano col pennello le vie, e i fini non conosciuti, sì come il cieco
+     col bastone. Non appressi mai dunque la mano al lavoro, senon con la scorta de l'ingegno, et
+     quello bene ammaestrato. Ma sendo l'historia opera grande del pittore, ne la quale debbe essere
+     ogni abbondanza, et elegaza di cose, si dee mettere, che impariamo a dipingere bene, in quanto
+     si può fare con l'ingegno, non pure l'huomo, ma il cavallo, il cane, et gli altri animali, et
+     tutte le cose dignissime da vedere; accioché la varietà, et l'abbondanza de le cose, senza le
+     quali istoria alcuna non è lodata, non si desideri punto ne le cose nostre. Certo questa è cosa
+     grande, ne a pena concessa ad alcuno de gli antichi che fosse eccellente non dico in ogni cosa,
+     ma che fosse pure mezzanamente dotto; nondimeno io giudico che si debba mettere ogni studio che
+     per negligenza nostra non ci manchino quelle cose, le <pb n="42" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0086.jp2/full/max/0/default.jpg"/> quali, se s'acquistano,
+     danno gran lode; et vituperio, se non se ne tien conto. <persName ref="#Nicias">Nicia</persName> pittore Atheniese diligentissimamente dipinse le donne. Ma dicono che
+      <persName ref="#Zeuxis">Zeusi</persName> fu molto più eccellente de gli altri in dipingere un
+     corpo di donna. <persName ref="#HeraclitedeMacedonie">Eraclide</persName> fu singolare in
+     dipingere navi. <persName ref="#Serapion">Serapione</persName> non poteva dipingere uno huomo,
+     tutte l'altre cose bellissimamente dipingeva. <persName>Dionisio</persName> non poteva fare
+     cosa alcuna se non l'huomo. <persName>Alessandro</persName>, quel, che dipinse <objectName ref="#PortiquePompee">la
+      loggia di <persName ref="#Pompee">Pompeo</persName></objectName>, faceva per eccellenza tutti
+     gli animali da quattro piedi, et specialmente i cani. <persName>Aurelio</persName>,
+     percioch'egli era sempre innamorato, si delettava solo di rappresentare le Dee, et ne le
+     imagini di quelle i volti, che egli amava. <persName ref="#Phidias">Phidia</persName>
+     s'affaticava più in mostrare la maestà de gli Dei, che la bellezza de gli huomini. <persName ref="#Euphranor">Euphranore</persName> studiava molto in simulare la dignità de gli Heroi; et
+     in questa cosa avanzò tutti gli altri. A questo modo ogniuno hebbe diversa virtù. Percioché la
+     natura ha donato le proprie doti a ciascuno ingegno; de le quali non debbiamo però restare
+     talmente con tenti, che non cerchiamo di tentare, se forse alcuna cosa possiamo fare più oltra;
+     ma le doti de la natura sono da essere essercitate, et accresciute con industria, con studio,
+     et con essercitio. Oltra di questo non dee parere che per negligenza habbiamo lasciato punto di
+     quello ch'appartiene a la lode. Ma quando siamo per dipingere una historia, prima per lungo
+     spatio si penseremo con che ordini, et con quali modi sia bellissimo a comporla. Et ritirando i
+     modelli ne le carte hora tutta l'historia, hora comentaremo <pb n="42bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0087.jp2/full/max/0/default.jpg"/> le parti d'una in
+     una de l'historia; e in questa cosa domandaremo consiglio a tutti gli amici. Finalmente si
+     sforzeremo d'havere talmente pensato tutte le cose, accioché niente habbia da essere ne l'opera
+     che non sappiamo benissimo in qual parte s'habbia da mettere. Et accioché lo sappiamo più
+     certo, ci gioverà partire i modelli in paralelli, a fine che ne l'opra publica tutte le cose
+     quasi tolte da i comentari privati, si ripongano a i luoghi suoi. Hora in fornire l'opra vi
+     metteremo quella diligenza, la quale sia congiunta a la prestezza del fare, la quale il
+     fastidio non spaventi da proseguirla, nel desiderio di fornire la precipiti. Alcuna volta si
+     dee tralasciare la fatica del negotio, et ricreare l'animo; et non fare quel che molti fanno,
+     che togliono opere assai, quella incominciano, questa gettano da parte cominciata, et
+     imperfetta. Ma l'opre che tu comincierai, sono da essere compite in ogni parte. <persName ref="#Apelle">Apelle</persName> rispose a un certo, che mostrandogli una imagine gli disse, io
+     l'ho dipinta hor hora; certo, che ciò si vede ben chiaro, anchora che tu tacessi; anzi io mi
+     maraviglio che tu non ne habbia dipinto di molte altre così fatte. Ho veduto io alcuni et
+     pittori, et scultori, et de gli oratori, et de i poeti anchora; se pure alcuni meritano a l'età
+     nostra d'esser chiamati oratori, et poeti; incominciare alcuna opra con ardente studio; i quali
+     poi che quello ardore d'ingegno s'è intiepidito, abbandonano l'opra incominciata, et abbozzata;
+     et con nuovo desiderio di farne un'altra vanno sempre a l'ultime; i quali huomini veramente
+     ch'io <pb n="43" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0088.jp2/full/max/0/default.jpg"/> biasmo molto. Percioché tutti quei, che desiderano che l'opre loro siano
+     grate, et accette a i posteri, bisogna che molto prima pensino l'opra, che poi con molta
+     diligenza faccian perfetta. Percioché in molte cose non è meno grata la diligenza che ogni
+     ingegno. Ma si dee ben schifare quella soverchia, per dir così, superstitione di coloro, i
+     quali mentre che vogliono le cose loro mancare in tutto d'ogni difetto, et essere troppo
+     polite, fanno che l'opra è frusta da la vecchiezza prima ch'ella sia fornita. I pittori antichi
+     erano usati di biasmare <persName ref="#Protogene">Prothogene</persName>, perché non sapeva
+     levare la mano da la tavola. Et ciò meritamente facevano; percioché veramente bisogna
+     sforzarsi, secondo le forze de l'ingegno mettere diligenza a le cose, quanto basti. Ma egli è
+     cosa d'ingegno ostinato, et non di diligente, in ogni cosa voler fare più di quel che tu poi, o
+     che si conviene. S'ha dunque da mettere una diligenza temperata a le cose; et si dee domandare
+     consiglio a gli amici; anzi mentre che si fa il lavoro s'ha da lasciare entrare et udire tutti
+     quei che vogliono vedere. Perché in questo modo l'opera del pittore sarà grata a la
+     moltitudine. Non rifiuti dunque la censura, e'l giudicio de la moltitudine, mentre ch'egli
+     anchora può sodisfare a le opinioni. Dicono, ch'<persName ref="#Apelle">Apelle</persName> era
+     usato di stare ascoso dietro a una tavola, accioché quei che vedevano, più liberamente
+     potessero dire, et egli più honestamente ascoltare i difetti de l'opera sua. Voglio dunque che
+     i nostri pittori odano spesso, et domandino in palese a ogniuno quel che loro ne pare;
+     percioché <pb n="43bis" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0089.jp2/full/max/0/default.jpg"/> questo giova a certe cose, et a guadagnare anchora la gratia al
+     pittore. Perché non è alcuno che non si creda che gli stia bene dire il parer suo ne le fatiche
+     altrui. Et alhora non s'ha d'haver paura che il giudicio de i biasmatori, et de gli invidiosi
+     possa alcuna cosa levare a le lode del pittore. Percioché chiara, et celeberrima è la lode del
+     pittore; et l'opra istessa ben dipinta ha testimonio seco che ragiona. Ascolti dunque ogniuno;
+     et fra se medesimo consideri egli prima, et emendi la cosa. Finalmente quando havrà ascoltato
+     ogniuno ubbidisca a quei che più sanno. Queste le cose sono ch'io ho havuto da raccontare in
+     questi comentari. S'elle saranno di sorte, che diano comodo, et utilità alcuna a i pittori,
+     questo e il premio che sopra tutto io aspetto de le mie fatiche; che dipingano il volto mio ne
+     l'historie loro, accioché essi si vantino appresso quei che verranno d'essere grati, et
+     ricordevoli del beneficio, et me per studioso de l'arte. Ma s'io non ho sodisfatto punto a
+     l'aspettation loro, non però mi vogliano biasmare, perch'io habbia havuto ardire di tentare
+     cosa sì grande. Percioché se l'ingegno mio non ha potuto fornire quel, ch'è lode tentare,
+     ricordinsi però, che ne le cose grandissime è usato di essere lode, il volere quello ch'è fuor
+     di modo difficile. Vi saranno peraventura di quei ch'emenderanno i nostri difetti, et che in
+     questa eccellentissima, et dignissima cosa molto più che noi, potranno giovare a i pittori; i
+     quali se ve ne saranno alcuni, io prego, et riprego che questa impresa tolgano con animo
+     pronto, et allegro; <pb n="44" facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0090.jp2/full/max/0/default.jpg"/> ne la quale anch'esi essercitino l'ingegno loro, et
+     limatissima facciano questa nobilissima arte. Io però ne piglio piacere d'avere preoccupato
+     questa palma, per esser stato il primo che s'habbia ingegnato scrivere di questa sottilissima
+     arte. La quale veramente molto difficile impresa se io non ho potuto fernire secondo
+     l'aspettation de i lettori, in questo è da essere incolpata più la natura ch'io non sono; la
+     quale pare, c'abbia messo questa legge a le cose, ch'arte alcuna non è, la quale non habbia
+     havuto cominciamento da principi molto mendosi. Percioché dicono, che cosa alcuna non è nata in
+     un tempo, et perfetta. Ma quei che verranno dopo me, se ve ne saranno alcuni di più eccellente
+     ingegno, et studio, ch'io non sono, questi peraventura l'arte de la pittura faranno, et
+     perfetta, et compita. </p>
+        <p xml:id="ALB_DP_L3_P2"> IL FINE. </p>
+        <p xml:id="ALB_DP_L3_P3"> REGISTRO. </p>
+        <p xml:id="ALB_DP_L3_P4"> ABCDEF. Tutti sono Quaterni, eccetto F che è Duerno. </p>
+        <p xml:id="ALB_DP_L3_P5"> In <placeName ref="#Venise">Venegia</placeName> appresso <persName ref="#GabrieleGiolitoDeFerrari">GABRIEL GIOLITO</persName>, de <placeName ref="#Ferrare">Ferrari</placeName>. <date when="1547">MDXLVII</date>. </p>
+        <pb facs="https://iiif.archive.org/image/iiif/3/gri_pitturexxxxx00albe%2Fgri_pitturexxxxx00albe_jp2.zip%2Fgri_pitturexxxxx00albe_jp2%2Fgri_pitturexxxxx00albe_0091.jp2/full/max/0/default.jpg"/>
+        <figure type="ornement"/>
+      </div>
+    </body>
+  </text>
+</TEI>
