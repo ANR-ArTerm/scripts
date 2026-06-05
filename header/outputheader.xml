@@ -8,6 +8,10 @@
           <name>Emma Bondoerffer</name>
           <resp>Transcription, Balisage, Indexation</resp>
         </respStmt>
+        <respStmt>
+          <name>Carla Tricon</name>
+          <resp>Identification des œuvres</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
@@ -46,7 +50,7 @@
       </projectDesc>
       <editorialDecl>
         <correction status="medium" method="silent">
-          <p>Niveau 0de l'échelle des transcription développée pour ArTerm</p>
+          <p>édition complète</p>
         </correction>
         <normalization method="silent">
           <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
@@ -76,6 +80,10 @@
         <respStmt>
           <name>Emma Bondoerffer</name>
           <resp>Transcription, Balisage, Indexation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Carla Tricon</name>
+          <resp>Identification des œuvres</resp>
         </respStmt>
       </titleStmt>
       <editionStmt>
@@ -115,7 +123,7 @@
       </projectDesc>
       <editorialDecl>
         <correction status="medium" method="silent">
-          <p>Niveau 0de l'échelle des transcription développée pour ArTerm</p>
+          <p>édition complète</p>
         </correction>
         <normalization method="silent">
           <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
@@ -184,7 +192,7 @@
       </projectDesc>
       <editorialDecl>
         <correction status="medium" method="silent">
-          <p>Niveau 0 de l'échelle des transcription développée pour ArTerm</p>
+          <p>édition complète</p>
         </correction>
         <normalization method="silent">
           <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
@@ -211,6 +219,10 @@
     <fileDesc>
       <titleStmt>
         <title xml:lang="fra">Lettera a Leone X, Mantova, Archivio Privato Castiglioni, documenti Sciolti, a), n. 12, [1519], dans Opere volgari, e latine del conte Baldessar Castiglione. Novellamente raccolte, ordinate, ricorrette, ed illustrate, come nella seguente lettera può vedersi, da Gio. Antonio, e Gaetano Volpi, p. 429-436</title>
+        <respStmt>
+          <name>Nicolò Zanolli</name>
+          <resp>Identification des œuvres</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
@@ -249,7 +261,7 @@
       </projectDesc>
       <editorialDecl>
         <correction status="medium" method="silent">
-          <p>Niveau 0de l'échelle des transcription développée pour ArTerm</p>
+          <p>édition complète</p>
         </correction>
         <normalization method="silent">
           <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
@@ -292,6 +304,10 @@
           <name>Julia Castiglione</name>
           <resp>Transcription</resp>
         </respStmt>
+        <respStmt>
+          <name>Carla Tricon</name>
+          <resp>Indexation</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
@@ -330,7 +346,7 @@
       </projectDesc>
       <editorialDecl>
         <correction status="medium" method="silent">
-          <p>Niveau 1de l'échelle des transcription développée pour ArTerm</p>
+          <p>édition complète</p>
         </correction>
         <normalization method="silent">
           <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
@@ -364,6 +380,10 @@
         <respStmt>
           <name>Octave Philibert</name>
           <resp>Correction, Balisage, Indexation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Carla Tricon</name>
+          <resp>Identification des œuvres, Indexation</resp>
         </respStmt>
       </titleStmt>
       <editionStmt>
@@ -403,7 +423,7 @@
       </projectDesc>
       <editorialDecl>
         <correction status="medium" method="silent">
-          <p>Niveau 2de l'échelle des transcription développée pour ArTerm</p>
+          <p>édition complète</p>
         </correction>
         <normalization method="silent">
           <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
@@ -480,7 +500,7 @@
       </projectDesc>
       <editorialDecl>
         <correction status="medium" method="silent">
-          <p>Niveau 2de l'échelle des transcription développée pour ArTerm</p>
+          <p>édition complète</p>
         </correction>
         <normalization method="silent">
           <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
@@ -527,6 +547,10 @@
           <name>Anna Sconza</name>
           <resp>Correction</resp>
         </respStmt>
+        <respStmt>
+          <name>Carla Tricon</name>
+          <resp>Identification des œuvres</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
@@ -566,7 +590,7 @@
       </projectDesc>
       <editorialDecl>
         <correction status="medium" method="silent">
-          <p>Niveau 2de l'échelle des transcription développée pour ArTerm</p>
+          <p>édition complète</p>
         </correction>
         <normalization method="silent">
           <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
@@ -600,6 +624,10 @@
         <respStmt>
           <name>Julia Castiglione</name>
           <resp>Transcription</resp>
+        </respStmt>
+        <respStmt>
+          <name>Carla Tricon</name>
+          <resp>Indexation</resp>
         </respStmt>
       </titleStmt>
       <editionStmt>
@@ -639,7 +667,7 @@
       </projectDesc>
       <editorialDecl>
         <correction status="medium" method="silent">
-          <p>Niveau 2de l'échelle des transcription développée pour ArTerm</p>
+          <p>édition complète</p>
         </correction>
         <normalization method="silent">
           <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
@@ -708,7 +736,7 @@
       </projectDesc>
       <editorialDecl>
         <correction status="medium" method="silent">
-          <p>Niveau 2de l'échelle des transcription développée pour ArTerm</p>
+          <p>édition complète</p>
         </correction>
         <normalization method="silent">
           <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
@@ -781,7 +809,7 @@
       </projectDesc>
       <editorialDecl>
         <correction status="medium" method="silent">
-          <p>Niveau 2de l'échelle des transcription développée pour ArTerm</p>
+          <p>édition complète</p>
         </correction>
         <normalization method="silent">
           <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
@@ -854,7 +882,7 @@
       </projectDesc>
       <editorialDecl>
         <correction status="medium" method="silent">
-          <p>Niveau 2de l'échelle des transcription développée pour ArTerm</p>
+          <p>édition complète</p>
         </correction>
         <normalization method="silent">
           <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
@@ -927,7 +955,7 @@
       </projectDesc>
       <editorialDecl>
         <correction status="medium" method="silent">
-          <p>Niveau 2de l'échelle des transcription développée pour ArTerm</p>
+          <p>édition complète</p>
         </correction>
         <normalization method="silent">
           <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
@@ -996,7 +1024,7 @@
       </projectDesc>
       <editorialDecl>
         <correction status="medium" method="silent">
-          <p>Niveau 2de l'échelle des transcription développée pour ArTerm</p>
+          <p>édition complète</p>
         </correction>
         <normalization method="silent">
           <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
@@ -1034,6 +1062,10 @@
         <respStmt>
           <name>Youssouf Diawara</name>
           <resp>Transcription, Correction</resp>
+        </respStmt>
+        <respStmt>
+          <name>Carla Tricon</name>
+          <resp>Indexation</resp>
         </respStmt>
       </titleStmt>
       <editionStmt>
@@ -1073,7 +1105,7 @@
       </projectDesc>
       <editorialDecl>
         <correction status="medium" method="silent">
-          <p>Niveau 3de l'échelle des transcription développée pour ArTerm</p>
+          <p>édition complète</p>
         </correction>
         <normalization method="silent">
           <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
@@ -1107,6 +1139,14 @@
         <respStmt>
           <name>Teklia</name>
           <resp>Transcription, Structuration</resp>
+        </respStmt>
+        <respStmt>
+          <name>Pierre Husson</name>
+          <resp>Identification des œuvres</resp>
+        </respStmt>
+        <respStmt>
+          <name>Carla Tricon</name>
+          <resp>Identification des œuvres, Indexation</resp>
         </respStmt>
       </titleStmt>
       <editionStmt>
@@ -1146,7 +1186,7 @@
       </projectDesc>
       <editorialDecl>
         <correction status="medium" method="silent">
-          <p>Niveau 3de l'échelle des transcription développée pour ArTerm</p>
+          <p>édition complète</p>
         </correction>
         <normalization method="silent">
           <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
@@ -1184,6 +1224,14 @@
         <respStmt>
           <name>Hippolyte Faré</name>
           <resp>Correction</resp>
+        </respStmt>
+        <respStmt>
+          <name>Pierre Husson</name>
+          <resp>Correction, Identification des œuvres</resp>
+        </respStmt>
+        <respStmt>
+          <name>Carla Tricon</name>
+          <resp>Identification des œuvres, Indexation</resp>
         </respStmt>
       </titleStmt>
       <editionStmt>
@@ -1223,7 +1271,7 @@
       </projectDesc>
       <editorialDecl>
         <correction status="medium" method="silent">
-          <p>Niveau 3de l'échelle des transcription développée pour ArTerm</p>
+          <p>édition complète</p>
         </correction>
         <normalization method="silent">
           <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
@@ -1296,7 +1344,7 @@
       </projectDesc>
       <editorialDecl>
         <correction status="medium" method="silent">
-          <p>Niveau 3de l'échelle des transcription développée pour ArTerm</p>
+          <p>édition complète</p>
         </correction>
         <normalization method="silent">
           <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
@@ -1365,7 +1413,7 @@
       </projectDesc>
       <editorialDecl>
         <correction status="medium" method="silent">
-          <p>Niveau 3de l'échelle des transcription développée pour ArTerm</p>
+          <p>édition complète</p>
         </correction>
         <normalization method="silent">
           <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
@@ -1395,6 +1443,10 @@
         <respStmt>
           <name>Emma Bondoerffer</name>
           <resp>Transcription, Correction, Structuration, Balisage, Indexation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Pierre Husson</name>
+          <resp>Correction, Identification des œuvres</resp>
         </respStmt>
       </titleStmt>
       <editionStmt>
@@ -1434,7 +1486,7 @@
       </projectDesc>
       <editorialDecl>
         <correction status="medium" method="silent">
-          <p>Niveau 3de l'échelle des transcription développée pour ArTerm</p>
+          <p>édition complète</p>
         </correction>
         <normalization method="silent">
           <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
@@ -1507,7 +1559,7 @@
       </projectDesc>
       <editorialDecl>
         <correction status="medium" method="silent">
-          <p>Niveau 3de l'échelle des transcription développée pour ArTerm</p>
+          <p>édition complète</p>
         </correction>
         <normalization method="silent">
           <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
@@ -1541,6 +1593,10 @@
         <respStmt>
           <name>Teklia</name>
           <resp>Transcription, Structuration</resp>
+        </respStmt>
+        <respStmt>
+          <name>Carla Tricon</name>
+          <resp>Identification des œuvres</resp>
         </respStmt>
       </titleStmt>
       <editionStmt>
@@ -1580,7 +1636,7 @@
       </projectDesc>
       <editorialDecl>
         <correction status="medium" method="silent">
-          <p>Niveau 3de l'échelle des transcription développée pour ArTerm</p>
+          <p>édition complète</p>
         </correction>
         <normalization method="silent">
           <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
@@ -1653,7 +1709,7 @@
       </projectDesc>
       <editorialDecl>
         <correction status="medium" method="silent">
-          <p>Niveau 3de l'échelle des transcription développée pour ArTerm</p>
+          <p>édition complète</p>
         </correction>
         <normalization method="silent">
           <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
@@ -1696,6 +1752,10 @@
           <name>Irene Calcagno</name>
           <resp>Correction, Structuration, Balisage, Indexation</resp>
         </respStmt>
+        <respStmt>
+          <name>Pierre Husson</name>
+          <resp>Correction, Identification des œuvres</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
@@ -1734,7 +1794,7 @@
       </projectDesc>
       <editorialDecl>
         <correction status="medium" method="silent">
-          <p>Niveau 3de l'échelle des transcription développée pour ArTerm</p>
+          <p>édition complète</p>
         </correction>
         <normalization method="silent">
           <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
@@ -1760,13 +1820,13 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="fra">Traitté de la peinture de Léonard de Vinci donné au public et traduit d'Italien en françois par R.F. S. D.C.</title>
+        <title xml:lang="fra">https://data.bnf.fr/fr/ark:/12148/cb11912491s</title>
         <respStmt>
-          <name>Youssouf Diawara</name>
+          <name>Julia Castiglione</name>
           <resp>Transcription, Structuration [Flora Belin, Maxine Schoehuys-Kreiss]</resp>
         </respStmt>
         <respStmt>
-          <name>Anna Sconza</name>
+          <name>Irene Calcagno</name>
           <resp>Correction</resp>
         </respStmt>
       </titleStmt>
@@ -1782,20 +1842,20 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Gallica, Bibliothèque nationale de France<author ref="https://data.bnf.fr/fr/ark:/12148/cb11912491s">De Vinci<idno type="ISNI">https://isni.oclc.org/cbs/DB=1.2/SET=12/TTL=1/SHW?FRST=3</idno>
+        <bibl>https://gallica.bnf.fr/ark:/12148/btv1b86207616.r=Traitt%C3%A9%20de%20la%20peinture%20de%20L%C3%A9onard%20de%20Vinci%20donn%C3%A9%20au%20public%20et%20traduit%20d%27Italien%20en%20fran%C3%A7ois%20par%20R.F.%20S.%20D.C.?rk=21459;2<author ref="https://isni.oclc.org/cbs/DB=1.2/SET=12/TTL=1/SHW?FRST=3">10/0302024<idno type="ISNI">Léonard</idno>
           </author>
-          <title xml:lang="fra">Traitté de la peinture de Léonard de Vinci donné au public et traduit d'Italien en françois par R.F. S. D.C.</title>
-          <publisher>Jacques Langlois</publisher>
-          <pubPlace>Paris</pubPlace>
-          <date when="1651">1651</date>
+          <title xml:lang="fra">https://data.bnf.fr/fr/ark:/12148/cb11912491s</title>
+          <publisher>Paris</publisher>
+          <pubPlace>Traitté de la peinture de Léonard de Vinci donné au public et traduit d'Italien en françois par R.F. S. D.C.</pubPlace>
+          <date when="Jacques Langlois">Jacques Langlois</date>
         </bibl>
         <msDesc>
           <msIdentifier>
-            <country>France</country>
-            <settlement ref="#Paris">Paris</settlement>
-            <institution>Bibliothèque nationale de France</institution>
+            <country>Bibliothèque nationale de France</country>
+            <settlement ref="#France">France</settlement>
+            <institution>https://catalogue.bnf.fr/ark:/12148/cb31588107n</institution>
             <repository />
-            <idno type="USTC">https://catalogue.bnf.fr/ark:/12148/cb31588107n</idno>
+            <idno type="USTC">1651</idno>
           </msIdentifier>
         </msDesc>
         <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
@@ -1807,7 +1867,7 @@
       </projectDesc>
       <editorialDecl>
         <correction status="medium" method="silent">
-          <p>Niveau 3de l'échelle des transcription développée pour ArTerm</p>
+          <p>édition complète</p>
         </correction>
         <normalization method="silent">
           <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
@@ -1816,7 +1876,7 @@
           <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
         </punctuation>
         <segmentation>
-          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : front (titlePage + lettre) + body (365 chapitres)</p>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : </p>
         </segmentation>
         <hyphenation eol="none" />
         <stdVals>
@@ -1837,6 +1897,10 @@
         <respStmt>
           <name>Irene Calcagno</name>
           <resp>Transcription, Correction, Structuration, Balisage, Indexation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Nicolò Zanolli</name>
+          <resp>Correction, Balisage, Indexation, Identification des œuvres</resp>
         </respStmt>
       </titleStmt>
       <editionStmt>
@@ -1876,7 +1940,7 @@
       </projectDesc>
       <editorialDecl>
         <correction status="medium" method="silent">
-          <p>Niveau 3de l'échelle des transcription développée pour ArTerm</p>
+          <p>édition complète</p>
         </correction>
         <normalization method="silent">
           <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
@@ -1914,6 +1978,10 @@
         <respStmt>
           <name>Octave Philibert</name>
           <resp>Indexation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Pierre Husson</name>
+          <resp>Correction, Identification des œuvres</resp>
         </respStmt>
       </titleStmt>
       <editionStmt>
@@ -1953,7 +2021,7 @@
       </projectDesc>
       <editorialDecl>
         <correction status="medium" method="silent">
-          <p>Niveau 3de l'échelle des transcription développée pour ArTerm</p>
+          <p>édition complète</p>
         </correction>
         <normalization method="silent">
           <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
@@ -1991,6 +2059,10 @@
         <respStmt>
           <name>Hippolyte Faré</name>
           <resp>Correction, Balisage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Pierre Husson</name>
+          <resp>Correction, Identification des œuvres</resp>
         </respStmt>
       </titleStmt>
       <editionStmt>
@@ -2030,7 +2102,7 @@
       </projectDesc>
       <editorialDecl>
         <correction status="medium" method="silent">
-          <p>NIveau 3de l'échelle des transcription développée pour ArTerm</p>
+          <p>édition complète</p>
         </correction>
         <normalization method="silent">
           <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
@@ -2040,6 +2112,1624 @@
         </punctuation>
         <segmentation>
           <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : front (titlePage + preface + lexique + avis +poeme + lettre + privilege + eloge) + body (L1 + lettre)</p>
+        </segmentation>
+        <hyphenation eol="none" />
+        <stdVals>
+          <p>Norme ISO-8601 pour les dates</p>
+        </stdVals>
+      </editorialDecl>
+      <p />
+    </encodingDesc>
+    <profileDesc>
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
+    </profileDesc>
+  </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="fra">Le vite de' pittori, scultori et architetti moderni</title>
+        <respStmt>
+          <name>Emma Bondoerffer</name>
+          <resp>Structuration</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anaïs Mazoué</name>
+          <resp>Balisage, Indexation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>ArTerm</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date when="2028">2028</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>ATIR<author ref="http://ark.bnf.fr/ark:/12148/cb121957985">Bellori<idno type="ISNI">http://isni.org/isni/0000000114785193</idno>
+          </author>
+          <title xml:lang="fra">Le vite de' pittori, scultori et architetti moderni</title>
+          <publisher>al Mascardi</publisher>
+          <pubPlace>Rome</pubPlace>
+          <date when="1672">1672</date>
+        </bibl>
+        <msDesc>
+          <msIdentifier>
+            <country>France</country>
+            <settlement ref="#Paris">Paris</settlement>
+            <institution>Bibliothèque nationale de France</institution>
+            <repository />
+            <idno type="USTC">https://catalogue.bnf.fr/ark:/12148/cb169752880</idno>
+          </msIdentifier>
+        </msDesc>
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+      </projectDesc>
+      <editorialDecl>
+        <correction status="medium" method="silent">
+          <p>édition complète</p>
+        </correction>
+        <normalization method="silent">
+          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+        </normalization>
+        <punctuation marks="some">
+          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
+        </punctuation>
+        <segmentation>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : front (titlePage + dedicace + lettre + eloge + table des matieres) + body (13 chapitres)</p>
+        </segmentation>
+        <hyphenation eol="none" />
+        <stdVals>
+          <p>Norme ISO-8601 pour les dates</p>
+        </stdVals>
+      </editorialDecl>
+      <p />
+    </encodingDesc>
+    <profileDesc>
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
+    </profileDesc>
+  </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="fra">La Pittura di Leon Battista Alberti, tradotta per M. Lodovico Domenichi</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>ArTerm</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date when="2028">2028</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author ref="">Alberti<idno type="ISNI">http://isni.org/isni/0000000120958329</idno>
+          </author>
+          <title xml:lang="fra">La Pittura di Leon Battista Alberti, tradotta per M. Lodovico Domenichi</title>
+          <publisher>G. Giolito de Ferrari</publisher>
+          <pubPlace>Venise</pubPlace>
+          <date when="1547">1547</date>
+        </bibl>
+        <msDesc>
+          <msIdentifier>
+            <country />
+            <settlement ref="#" />
+            <institution>Getty Institute</institution>
+            <repository />
+            <idno type="USTC">https://www.ustc.ac.uk/editions/808304</idno>
+          </msIdentifier>
+        </msDesc>
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+      </projectDesc>
+      <editorialDecl>
+        <correction status="medium" method="silent">
+          <p>édition complète</p>
+        </correction>
+        <normalization method="silent">
+          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+        </normalization>
+        <punctuation marks="some">
+          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
+        </punctuation>
+        <segmentation>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : </p>
+        </segmentation>
+        <hyphenation eol="none" />
+        <stdVals>
+          <p>Norme ISO-8601 pour les dates</p>
+        </stdVals>
+      </editorialDecl>
+      <p />
+    </encodingDesc>
+    <profileDesc>
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
+    </profileDesc>
+  </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="fra">De' veri precetti della pittura</title>
+        <respStmt>
+          <name>Anaïs Mazoué</name>
+          <resp>Transcription</resp>
+        </respStmt>
+        <respStmt>
+          <name>Memofonte</name>
+          <resp>Transcription</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>ArTerm</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date when="2028">2028</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author ref="ark:/12148/cb105426120">Armenini<idno type="ISNI" />
+          </author>
+          <title xml:lang="fra">De' veri precetti della pittura</title>
+          <publisher>F. Tebaldini</publisher>
+          <pubPlace>Ravenne</pubPlace>
+          <date when="1587">1587</date>
+        </bibl>
+        <msDesc>
+          <msIdentifier>
+            <country />
+            <settlement ref="#" />
+            <institution>Getty Institute</institution>
+            <repository />
+            <idno type="USTC">https://www.ustc.ac.uk/editions/811064</idno>
+          </msIdentifier>
+        </msDesc>
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+      </projectDesc>
+      <editorialDecl>
+        <correction status="medium" method="silent">
+          <p>édition complète</p>
+        </correction>
+        <normalization method="silent">
+          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+        </normalization>
+        <punctuation marks="some">
+          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
+        </punctuation>
+        <segmentation>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : </p>
+        </segmentation>
+        <hyphenation eol="none" />
+        <stdVals>
+          <p>Norme ISO-8601 pour les dates</p>
+        </stdVals>
+      </editorialDecl>
+      <p />
+    </encodingDesc>
+    <profileDesc>
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
+    </profileDesc>
+  </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="fra">Ragionamenti accademici</title>
+        <respStmt>
+          <name>Julia Castiglione</name>
+          <resp>Correction, Structuration, Balisage, Indexation</resp>
+        </respStmt>
+        <respStmt>
+          <name>ATIR</name>
+          <resp>Transcription</resp>
+        </respStmt>
+        <respStmt>
+          <name>Carla Tricon</name>
+          <resp>Identification des œuvres</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>ArTerm</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date when="2028">2028</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author ref="">Bartoli<idno type="ISNI">https://isni.org/isni/0000000122811371</idno>
+          </author>
+          <title xml:lang="fra">Ragionamenti accademici</title>
+          <publisher>Francesco de' Franceschi</publisher>
+          <pubPlace>Venise</pubPlace>
+          <date when="1567">1567</date>
+        </bibl>
+        <msDesc>
+          <msIdentifier>
+            <country>Canada</country>
+            <settlement ref="#Toronto">Toronto</settlement>
+            <institution>University of Toronto</institution>
+            <repository />
+            <idno type="USTC">https://www.ustc.ac.uk/editions/812412</idno>
+          </msIdentifier>
+        </msDesc>
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+      </projectDesc>
+      <editorialDecl>
+        <correction status="medium" method="silent">
+          <p>édition complète</p>
+        </correction>
+        <normalization method="silent">
+          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+        </normalization>
+        <punctuation marks="some">
+          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
+        </punctuation>
+        <segmentation>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : front (titlePage + dedicace + gap) + body (5 div1)</p>
+        </segmentation>
+        <hyphenation eol="none" />
+        <stdVals>
+          <p>Norme ISO-8601 pour les dates</p>
+        </stdVals>
+      </editorialDecl>
+      <p />
+    </encodingDesc>
+    <profileDesc>
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
+    </profileDesc>
+  </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="fra">Traicté de perspective, faict par un peintre de l'Academie royale. Dedié a Monsieur Lebrun, premier peintre du Roy.</title>
+        <respStmt>
+          <name>Emma Bondoerffer</name>
+          <resp>Transcription, Balisage, Indexation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Octave Philibert</name>
+          <resp>Correction, Structuration, Balisage, Indexation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>ArTerm</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date when="2028">2028</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Source gallica.bnf.fr / Bibliothèque nationale de France<author ref="https://catalogue.bnf.fr/ark:/12148/cb33628973v.public">Le Bicheur<idno type="ISNI" />
+          </author>
+          <title xml:lang="fra">Traicté de perspective, faict par un peintre de l'Academie royale. Dedié a Monsieur Lebrun, premier peintre du Roy.</title>
+          <publisher>Gérard Jollain</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date when="1660">1660</date>
+        </bibl>
+        <msDesc>
+          <msIdentifier>
+            <country>France</country>
+            <settlement ref="#Paris">Paris</settlement>
+            <institution>Bibliothèque nationale de France</institution>
+            <repository />
+            <idno type="USTC">https://www.ustc.ac.uk/editions/6164232</idno>
+          </msIdentifier>
+        </msDesc>
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+      </projectDesc>
+      <editorialDecl>
+        <correction status="medium" method="silent">
+          <p>édition complète</p>
+        </correction>
+        <normalization method="silent">
+          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+        </normalization>
+        <punctuation marks="some">
+          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
+        </punctuation>
+        <segmentation>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : front (TitlePage + dedicate + 4 notes) + body (div1 11 div2 + div1 10 div2) + back (privilege)</p>
+        </segmentation>
+        <hyphenation eol="none" />
+        <stdVals>
+          <p>Norme ISO-8601 pour les dates</p>
+        </stdVals>
+      </editorialDecl>
+      <p />
+    </encodingDesc>
+    <profileDesc>
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
+    </profileDesc>
+  </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="fra">Exemple de l'une des manieres universelles du S. G. D. L. touchant la pratique de la perspective sans emploier aucun tiers point, de distance ny d'autre nature, qui soit hors du champ de l'ouvrage</title>
+        <respStmt>
+          <name>Emma Bondoerffer</name>
+          <resp>Transcription</resp>
+        </respStmt>
+        <respStmt>
+          <name>Octave Philibert</name>
+          <resp>Correction, Structuration, Balisage, Indexation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>ArTerm</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date when="2028">2028</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Source Cnum - Conservatoire numérique des Arts et Métiers - http://cnum.cnam.fr<author ref="https://catalogue.bnf.fr/ark:/12148/cb361261386">Desargues<idno type="ISNI" />
+          </author>
+          <title xml:lang="fra">Exemple de l'une des manieres universelles du S. G. D. L. touchant la pratique de la perspective sans emploier aucun tiers point, de distance ny d'autre nature, qui soit hors du champ de l'ouvrage</title>
+          <publisher>Jacques Dugast</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date when="1636">1636</date>
+        </bibl>
+        <msDesc>
+          <msIdentifier>
+            <country>France</country>
+            <settlement ref="#Paris">Paris</settlement>
+            <institution>Bibliothèque nationale de France</institution>
+            <repository />
+            <idno type="USTC">https://www.ustc.ac.uk/editions/6033482</idno>
+          </msIdentifier>
+        </msDesc>
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+      </projectDesc>
+      <editorialDecl>
+        <correction status="medium" method="silent">
+          <p>édition complète</p>
+        </correction>
+        <normalization method="silent">
+          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+        </normalization>
+        <punctuation marks="some">
+          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
+        </punctuation>
+        <segmentation>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : front (2 head+gravure) + body (2div)</p>
+        </segmentation>
+        <hyphenation eol="none" />
+        <stdVals>
+          <p>Norme ISO-8601 pour les dates</p>
+        </stdVals>
+      </editorialDecl>
+      <p />
+    </encodingDesc>
+    <profileDesc>
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
+    </profileDesc>
+  </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="fra">Le premier livre d'architecture -Le second livre de perspective de Sébastian Serlio</title>
+        <respStmt>
+          <name>Emma Bondoerffer</name>
+          <resp>Transcription</resp>
+        </respStmt>
+        <respStmt>
+          <name>Irene Calcagno</name>
+          <resp>Correction, Structuration, Balisage, Indexation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>ArTerm</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date when="2028">2028</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>ETALAB<author ref="ark:/12148/cb313544573">Martin<idno type="ISNI" />
+          </author>
+          <title xml:lang="fra">Le premier livre d'architecture -Le second livre de perspective de Sébastian Serlio</title>
+          <publisher>Jehan Barbé</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date when="1545">1545</date>
+        </bibl>
+        <msDesc>
+          <msIdentifier>
+            <country>France</country>
+            <settlement ref="#Paris">Paris</settlement>
+            <institution>Biblioteca nazionale centrale di Roma, INHA, fonds Jacques Doucet</institution>
+            <repository />
+            <idno type="USTC">https://www.ustc.ac.uk/editions/856046</idno>
+          </msIdentifier>
+        </msDesc>
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+      </projectDesc>
+      <editorialDecl>
+        <correction status="medium" method="silent">
+          <p>édition complète</p>
+        </correction>
+        <normalization method="silent">
+          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+        </normalization>
+        <punctuation marks="some">
+          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
+        </punctuation>
+        <segmentation>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : </p>
+        </segmentation>
+        <hyphenation eol="none" />
+        <stdVals>
+          <p>Norme ISO-8601 pour les dates</p>
+        </stdVals>
+      </editorialDecl>
+      <p />
+    </encodingDesc>
+    <profileDesc>
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
+    </profileDesc>
+  </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="fra">La règle précise pour descrire le profil eslevé du fust des colonnes</title>
+        <respStmt>
+          <name>Emma Bondoerffer</name>
+          <resp>Transcription</resp>
+        </respStmt>
+        <respStmt>
+          <name>Octave Philibert</name>
+          <resp>Correction, Structuration, Balisage, Indexation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>ArTerm</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date when="2028">2028</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author ref="https://bibliotheque-numerique.inha.fr/idurl/1/12652">Huret<idno type="ISNI" />
+          </author>
+          <title xml:lang="fra">La règle précise pour descrire le profil eslevé du fust des colonnes</title>
+          <publisher>Edme Martin</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date when="1665">1665</date>
+        </bibl>
+        <msDesc>
+          <msIdentifier>
+            <country>France</country>
+            <settlement ref="#Paris">Paris</settlement>
+            <institution>Bibliothèque nationale de France</institution>
+            <repository />
+            <idno type="USTC">https://www.ustc.ac.uk/editions/6114248</idno>
+          </msIdentifier>
+        </msDesc>
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+      </projectDesc>
+      <editorialDecl>
+        <correction status="medium" method="silent">
+          <p>édition complète</p>
+        </correction>
+        <normalization method="silent">
+          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+        </normalization>
+        <punctuation marks="some">
+          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
+        </punctuation>
+        <segmentation>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : </p>
+        </segmentation>
+        <hyphenation eol="none" />
+        <stdVals>
+          <p>Norme ISO-8601 pour les dates</p>
+        </stdVals>
+      </editorialDecl>
+      <p />
+    </encodingDesc>
+    <profileDesc>
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
+    </profileDesc>
+  </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="fra">Disegno del Doni, partito in piu ragionamenti, ne quali si tratta della scoltura et pittura; de colori, de getti, de modegli, con molte cose appartenenti a quest'arti, et si termina la nobiltà dell'una et dell'altra professione. Con historie, essempi, et sentenze, et nel fine alcune lettere che trattano della medesima materia</title>
+        <respStmt>
+          <name>Anaïs Mazoué</name>
+          <resp>Indexation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Julia Castiglione</name>
+          <resp>Correction, Structuration, Balisage</resp>
+        </respStmt>
+        <respStmt>
+          <name>ATIR</name>
+          <resp>Transcription</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>ArTerm</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date when="2028">2028</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author ref="ark:/12148/cb303480041">Doni<idno type="ISNI">https://isni.org/isni/000000011872331X</idno>
+          </author>
+          <title xml:lang="fra">Disegno del Doni, partito in piu ragionamenti, ne quali si tratta della scoltura et pittura; de colori, de getti, de modegli, con molte cose appartenenti a quest'arti, et si termina la nobiltà dell'una et dell'altra professione. Con historie, essempi, et sentenze, et nel fine alcune lettere che trattano della medesima materia</title>
+          <publisher>G. Giolito di Ferrarii</publisher>
+          <pubPlace>Venise</pubPlace>
+          <date when="1549">1549</date>
+        </bibl>
+        <msDesc>
+          <msIdentifier>
+            <country>USA</country>
+            <settlement ref="#Los Angeles">Los Angeles</settlement>
+            <institution>Getty Institute</institution>
+            <repository />
+            <idno type="USTC">https://www.ustc.ac.uk/editions/827607</idno>
+          </msIdentifier>
+        </msDesc>
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+      </projectDesc>
+      <editorialDecl>
+        <correction status="medium" method="silent">
+          <p>édition complète</p>
+        </correction>
+        <normalization method="silent">
+          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+        </normalization>
+        <punctuation marks="some">
+          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
+        </punctuation>
+        <segmentation>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : </p>
+        </segmentation>
+        <hyphenation eol="none" />
+        <stdVals>
+          <p>Norme ISO-8601 pour les dates</p>
+        </stdVals>
+      </editorialDecl>
+      <p />
+    </encodingDesc>
+    <profileDesc>
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
+    </profileDesc>
+  </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="fra">La pratica della perspettiva di Monsignor Daniel Barbaro eletto patriarca d'Aquileia, opera molto utile a pittori, a scultori, &amp; ad architetti. Con due tavole, una de'capitoli principali, l'altra delle cose più notabili contenute nella presente opera.</title>
+        <respStmt>
+          <name>Emma Bondoerffer</name>
+          <resp>Transcription, Structuration</resp>
+        </respStmt>
+        <respStmt>
+          <name>Octave Philibert</name>
+          <resp>Correction, Balisage, Indexation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>ArTerm</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date when="2028">2028</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author ref="https://catalogue.bnf.fr/ark:/12148/cb39315875n48z">Barbaro<idno type="ISNI" />
+          </author>
+          <title xml:lang="fra">La pratica della perspettiva di Monsignor Daniel Barbaro eletto patriarca d'Aquileia, opera molto utile a pittori, a scultori, &amp; ad architetti. Con due tavole, una de'capitoli principali, l'altra delle cose più notabili contenute nella presente opera.</title>
+          <publisher>Camillo et Rutilio Borgominieri</publisher>
+          <pubPlace>Venise</pubPlace>
+          <date when="1569">1569</date>
+        </bibl>
+        <msDesc>
+          <msIdentifier>
+            <country />
+            <settlement ref="#" />
+            <institution>Getty Institute</institution>
+            <repository />
+            <idno type="USTC">https://www.ustc.ac.uk/editions/812217</idno>
+          </msIdentifier>
+        </msDesc>
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+      </projectDesc>
+      <editorialDecl>
+        <correction status="medium" method="silent">
+          <p>édition complète</p>
+        </correction>
+        <normalization method="silent">
+          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+        </normalization>
+        <punctuation marks="some">
+          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
+        </punctuation>
+        <segmentation>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : front (titlePage, dedicace, preface), body (9 livres [L1: 9Chap, L2 : 11C, L3: 33C, L4: 18C, L5: 3C, L6: 4C, L7: 2C, L8: 4C, L9: 5C], back (postface, gap)</p>
+        </segmentation>
+        <hyphenation eol="none" />
+        <stdVals>
+          <p>Norme ISO-8601 pour les dates</p>
+        </stdVals>
+      </editorialDecl>
+      <p />
+    </encodingDesc>
+    <profileDesc>
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
+    </profileDesc>
+  </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="fra">Il Riposo</title>
+        <respStmt>
+          <name>Anaïs Mazoué</name>
+          <resp>Structuration, Indexation</resp>
+        </respStmt>
+        <respStmt>
+          <name>ATIR</name>
+          <resp>Transcription</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>ArTerm</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date when="2028">2028</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>ATIR<author ref="https://catalogue.bnf.fr/ark:/12148/cb12463031c">Borghini<idno type="ISNI">https://isni.org/isni/0000000081356930</idno>
+          </author>
+          <title xml:lang="fra">Il Riposo</title>
+          <publisher>Giorgio Marescotti</publisher>
+          <pubPlace>Florence</pubPlace>
+          <date when="1584">1584</date>
+        </bibl>
+        <msDesc>
+          <msIdentifier>
+            <country />
+            <settlement ref="#" />
+            <institution />
+            <repository />
+            <idno type="USTC">https://www.ustc.ac.uk/editions/816377</idno>
+          </msIdentifier>
+        </msDesc>
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+      </projectDesc>
+      <editorialDecl>
+        <correction status="medium" method="silent">
+          <p>édition complète</p>
+        </correction>
+        <normalization method="silent">
+          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+        </normalization>
+        <punctuation marks="some">
+          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
+        </punctuation>
+        <segmentation>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : </p>
+        </segmentation>
+        <hyphenation eol="none" />
+        <stdVals>
+          <p>Norme ISO-8601 pour les dates</p>
+        </stdVals>
+      </editorialDecl>
+      <p />
+    </encodingDesc>
+    <profileDesc>
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
+    </profileDesc>
+  </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="fra">Lo inganno de gl'occhi : prospettiva pratica</title>
+        <respStmt>
+          <name>Emma Bondoerffer</name>
+          <resp>Transcription, Structuration</resp>
+        </respStmt>
+        <respStmt>
+          <name>Octave Philibert</name>
+          <resp>Correction, Structuration, Balisage, Indexation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Carla Tricon</name>
+          <resp>Indexation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>ArTerm</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date when="2028">2028</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author ref="http://ark.bnf.fr/ark:/12148/cb30002033t">Accolti<idno type="ISNI">https://isni.org/isni/0000000115787350</idno>
+          </author>
+          <title xml:lang="fra">Lo inganno de gl'occhi : prospettiva pratica</title>
+          <publisher>P. Cecconcelli</publisher>
+          <pubPlace>Florence</pubPlace>
+          <date when="1625">1625</date>
+        </bibl>
+        <msDesc>
+          <msIdentifier>
+            <country />
+            <settlement ref="#" />
+            <institution>Getty Institute</institution>
+            <repository />
+            <idno type="USTC">https://www.ustc.ac.uk/editions/4008330</idno>
+          </msIdentifier>
+        </msDesc>
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+      </projectDesc>
+      <editorialDecl>
+        <correction status="medium" method="silent">
+          <p>édition complète</p>
+        </correction>
+        <normalization method="silent">
+          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+        </normalization>
+        <punctuation marks="some">
+          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
+        </punctuation>
+        <segmentation>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : front (titlePage, dedicate, eloge x2, avis), body (3div1 [38 div2 ; 20 div2 ; 31 div2]</p>
+        </segmentation>
+        <hyphenation eol="none" />
+        <stdVals>
+          <p>Norme ISO-8601 pour les dates</p>
+        </stdVals>
+      </editorialDecl>
+      <p />
+    </encodingDesc>
+    <profileDesc>
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
+    </profileDesc>
+  </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="fra">Trattato della pittura e sculptura, uso e abuso loro</title>
+        <respStmt>
+          <name>Emma Bondoerffer</name>
+          <resp>Transcription, Structuration, Balisage</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>ArTerm</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date when="2028">2028</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Public domain<author ref="ark:/13960/t6252zw56">Ottonelli<idno type="ISNI">https://isni.oclc.org/cbs/DB=1.2/SET=5/TTL=1/SHW?FRST=1</idno>
+          </author>
+          <title xml:lang="fra">Trattato della pittura e sculptura, uso e abuso loro</title>
+          <publisher>Bonardi</publisher>
+          <pubPlace>Florence</pubPlace>
+          <date when="1652">1652</date>
+        </bibl>
+        <msDesc>
+          <msIdentifier>
+            <country />
+            <settlement ref="#Los Angeles">Los Angeles</settlement>
+            <institution>Getty Institute</institution>
+            <repository />
+            <idno type="USTC">https://www.ustc.ac.uk/editions/1726303</idno>
+          </msIdentifier>
+        </msDesc>
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+      </projectDesc>
+      <editorialDecl>
+        <correction status="medium" method="silent">
+          <p>édition complète</p>
+        </correction>
+        <normalization method="silent">
+          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+        </normalization>
+        <punctuation marks="some">
+          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
+        </punctuation>
+        <segmentation>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : </p>
+        </segmentation>
+        <hyphenation eol="none" />
+        <stdVals>
+          <p>Norme ISO-8601 pour les dates</p>
+        </stdVals>
+      </editorialDecl>
+      <p />
+    </encodingDesc>
+    <profileDesc>
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
+    </profileDesc>
+  </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="fra">Œuvre de la diversité des termes dont on use en architecture, reduict en ordre par maistre</title>
+        <respStmt>
+          <name>Emma Bondoerffer</name>
+          <resp>Transcription, Structuration</resp>
+        </respStmt>
+        <respStmt>
+          <name>Octave Philibert</name>
+          <resp>Correction, Balisage</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>ArTerm</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date when="2028">2028</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Public domain<author ref="https://data.bnf.fr/fr/ark:/12148/cb12144720z">Sambin<idno type="ISNI">https://isni.oclc.org/cbs/DB=1.2/SET=1/TTL=1/CMD?ACT=SRCH&amp;IKT=8006&amp;SRT=LST_nd&amp;TRM=Huges+sambin</idno>
+          </author>
+          <title xml:lang="fra">Œuvre de la diversité des termes dont on use en architecture, reduict en ordre par maistre</title>
+          <publisher>Jean Marcorelle et Jean Durand</publisher>
+          <pubPlace>Lyon</pubPlace>
+          <date when="1572">1572</date>
+        </bibl>
+        <msDesc>
+          <msIdentifier>
+            <country>France</country>
+            <settlement ref="#Paris">Paris</settlement>
+            <institution>Bibliothèque nationale de France</institution>
+            <repository />
+            <idno type="USTC">https://www.ustc.ac.uk/editions/24496</idno>
+          </msIdentifier>
+        </msDesc>
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+      </projectDesc>
+      <editorialDecl>
+        <correction status="medium" method="silent">
+          <p>édition complète</p>
+        </correction>
+        <normalization method="silent">
+          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+        </normalization>
+        <punctuation marks="some">
+          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
+        </punctuation>
+        <segmentation>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : </p>
+        </segmentation>
+        <hyphenation eol="none" />
+        <stdVals>
+          <p>Norme ISO-8601 pour les dates</p>
+        </stdVals>
+      </editorialDecl>
+      <p />
+    </encodingDesc>
+    <profileDesc>
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
+    </profileDesc>
+  </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="fra">Le due regole della prospettiva pratica</title>
+        <respStmt>
+          <name>Anaïs Mazoué</name>
+          <resp>Transcription</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>ArTerm</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date when="2028">2028</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author ref="https://data.bnf.fr/fr/ark:/12148/cb120950564">Vignola, Barozzi da<idno type="ISNI">https://isni.oclc.org/cbs/DB=1.2/SET=3/TTL=1/SHW?FRST=1</idno>
+          </author>
+          <title xml:lang="fra">Le due regole della prospettiva pratica</title>
+          <publisher>Francesco Zannetti</publisher>
+          <pubPlace>Rome</pubPlace>
+          <date when="1583">1583</date>
+        </bibl>
+        <msDesc>
+          <msIdentifier>
+            <country />
+            <settlement ref="#ATIR">ATIR</settlement>
+            <institution />
+            <repository />
+            <idno type="USTC">https://www.ustc.ac.uk/editions/807538</idno>
+          </msIdentifier>
+        </msDesc>
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+      </projectDesc>
+      <editorialDecl>
+        <correction status="medium" method="silent">
+          <p>édition complète</p>
+        </correction>
+        <normalization method="silent">
+          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+        </normalization>
+        <punctuation marks="some">
+          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
+        </punctuation>
+        <segmentation>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : </p>
+        </segmentation>
+        <hyphenation eol="none" />
+        <stdVals>
+          <p>Norme ISO-8601 pour les dates</p>
+        </stdVals>
+      </editorialDecl>
+      <p />
+    </encodingDesc>
+    <profileDesc>
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
+    </profileDesc>
+  </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="fra">Les quatre livres de l’architecture d’André Palladio traduit par R. Fréart de Chambray</title>
+        <respStmt>
+          <name>Emma Bondoerffer</name>
+          <resp>Transcription</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>ArTerm</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date when="2028">2028</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>© 2004 – CESR ARCHITECTURA<author ref="ark:/12148/cb119184708">Palladio<idno type="ISNI">https://isni.org/isni/0000000121222209</idno>
+          </author>
+          <title xml:lang="fra">Les quatre livres de l’architecture d’André Palladio traduit par R. Fréart de Chambray</title>
+          <publisher>Edme Martin</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date when="1650">1650</date>
+        </bibl>
+        <msDesc>
+          <msIdentifier>
+            <country>France</country>
+            <settlement ref="#Paris, Tours">Paris, Tours</settlement>
+            <institution>CESR</institution>
+            <repository />
+            <idno type="USTC">https://www.ustc.ac.uk/editions/6006478</idno>
+          </msIdentifier>
+        </msDesc>
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+      </projectDesc>
+      <editorialDecl>
+        <correction status="medium" method="silent">
+          <p>édition complète</p>
+        </correction>
+        <normalization method="silent">
+          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+        </normalization>
+        <punctuation marks="some">
+          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
+        </punctuation>
+        <segmentation>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : </p>
+        </segmentation>
+        <hyphenation eol="none" />
+        <stdVals>
+          <p>Norme ISO-8601 pour les dates</p>
+        </stdVals>
+      </editorialDecl>
+      <p />
+    </encodingDesc>
+    <profileDesc>
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
+    </profileDesc>
+  </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="fra">Optique de portraiture et de peinture, Paris, chez l'auteur</title>
+        <respStmt>
+          <name>Emma Bondoerffer</name>
+          <resp>Transcription</resp>
+        </respStmt>
+        <respStmt>
+          <name>Carla Tricon</name>
+          <resp>Identification des œuvres</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>ArTerm</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date when="2028">2028</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Public domain<author ref="ark:/12148/cb306298335">Huret<idno type="ISNI">https://isni.oclc.org/cbs/DB=1.2/SET=8/TTL=1/SHW?FRST=2</idno>
+          </author>
+          <title xml:lang="fra">Optique de portraiture et de peinture, Paris, chez l'auteur</title>
+          <publisher>Chez l'Auteur</publisher>
+          <pubPlace>Paris</pubPlace>
+          <date when="1670">1670</date>
+        </bibl>
+        <msDesc>
+          <msIdentifier>
+            <country>France</country>
+            <settlement ref="#Paris">Paris</settlement>
+            <institution>Bibliothèque nationale de France</institution>
+            <repository />
+            <idno type="USTC">https://www.ustc.ac.uk/editions/6123137</idno>
+          </msIdentifier>
+        </msDesc>
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+      </projectDesc>
+      <editorialDecl>
+        <correction status="medium" method="silent">
+          <p>édition complète</p>
+        </correction>
+        <normalization method="silent">
+          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+        </normalization>
+        <punctuation marks="some">
+          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
+        </punctuation>
+        <segmentation>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : </p>
+        </segmentation>
+        <hyphenation eol="none" />
+        <stdVals>
+          <p>Norme ISO-8601 pour les dates</p>
+        </stdVals>
+      </editorialDecl>
+      <p />
+    </encodingDesc>
+    <profileDesc>
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
+    </profileDesc>
+  </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="fra">I quattro libri dell’architettura di Andrea Palladio. Ne’quali, dopo un breve trattato de’cinque ordini, e di quelli avertimenti, che sono piu necessarii nel fabricare, si tratta delle case private, delle vie, dei ponti, delle piazze, dei xisti et de’ tempii. Con privilegi.</title>
+        <respStmt>
+          <name>Emma Bondoerffer</name>
+          <resp>Transcription, Structuration</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anaïs Mazoué</name>
+          <resp>Transcription</resp>
+        </respStmt>
+        <respStmt>
+          <name>ATIR</name>
+          <resp>Transcription</resp>
+        </respStmt>
+        <respStmt>
+          <name>Nicolò Zanolli</name>
+          <resp>Correction, Balisage, Indexation, Identification des œuvres</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>ArTerm</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date when="2028">2028</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Source gallica.bnf.fr / Bibliothèque national de France<author ref="ark:/12148/cb119184708">Palladio<idno type="ISNI">https://isni.org/isni/0000000121222209</idno>
+          </author>
+          <title xml:lang="fra">I quattro libri dell’architettura di Andrea Palladio. Ne’quali, dopo un breve trattato de’cinque ordini, e di quelli avertimenti, che sono piu necessarii nel fabricare, si tratta delle case private, delle vie, dei ponti, delle piazze, dei xisti et de’ tempii. Con privilegi.</title>
+          <publisher>Dominico de’Franceschi</publisher>
+          <pubPlace>Venise</pubPlace>
+          <date when="1570">1570</date>
+        </bibl>
+        <msDesc>
+          <msIdentifier>
+            <country>France</country>
+            <settlement ref="#Paris">Paris</settlement>
+            <institution>Bibliothèque nationale de France</institution>
+            <repository />
+            <idno type="USTC">http://catalogue.bnf.fr/ark:/12148/cb119409036</idno>
+          </msIdentifier>
+        </msDesc>
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+      </projectDesc>
+      <editorialDecl>
+        <correction status="medium" method="silent">
+          <p>édition complète</p>
+        </correction>
+        <normalization method="silent">
+          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+        </normalization>
+        <punctuation marks="some">
+          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
+        </punctuation>
+        <segmentation>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : </p>
+        </segmentation>
+        <hyphenation eol="none" />
+        <stdVals>
+          <p>Norme ISO-8601 pour les dates</p>
+        </stdVals>
+      </editorialDecl>
+      <p />
+    </encodingDesc>
+    <profileDesc>
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
+    </profileDesc>
+  </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="fra">Ragionamenti Accademici sopra alcuni luoghi difficili di Dante</title>
+        <respStmt>
+          <name>Anaïs Mazoué</name>
+          <resp>Transcription, Structuration</resp>
+        </respStmt>
+        <respStmt>
+          <name>Julia Castiglione</name>
+          <resp>Correction, Balisage, Indexation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Carla Tricon</name>
+          <resp>Identification des œuvres</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>ArTerm</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date when="2028">2028</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Public domain<author ref="ark:/12148/cb125520809">Bartoli<idno type="ISNI">ISNI 0000 0001 2281 1371</idno>
+          </author>
+          <title xml:lang="fra">Ragionamenti Accademici sopra alcuni luoghi difficili di Dante</title>
+          <publisher>Francesco de' Franceschi Senese</publisher>
+          <pubPlace>Venezia</pubPlace>
+          <date when="1567">1567</date>
+        </bibl>
+        <msDesc>
+          <msIdentifier>
+            <country>Canada</country>
+            <settlement ref="#Toronto">Toronto</settlement>
+            <institution>Library of the University of Toronto</institution>
+            <repository />
+            <idno type="USTC">https://www.ustc.ac.uk/editions/812413</idno>
+          </msIdentifier>
+        </msDesc>
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+      </projectDesc>
+      <editorialDecl>
+        <correction status="medium" method="silent">
+          <p>édition complète</p>
+        </correction>
+        <normalization method="silent">
+          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+        </normalization>
+        <punctuation marks="some">
+          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
+        </punctuation>
+        <segmentation>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : </p>
+        </segmentation>
+        <hyphenation eol="none" />
+        <stdVals>
+          <p>Norme ISO-8601 pour les dates</p>
+        </stdVals>
+      </editorialDecl>
+      <p />
+    </encodingDesc>
+    <profileDesc>
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
+    </profileDesc>
+  </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="fra">Lo inganno degli occhi: prospettiva pratica</title>
+        <respStmt>
+          <name>Emma Bondoerffer</name>
+          <resp>Transcription, Structuration, Balisage, Indexation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>ArTerm</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date when="2028">2028</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Public domain<author ref="ark:/12148/cb16708799z">Accolti<idno type="ISNI">ISNI 0000 0003 9924 5763</idno>
+          </author>
+          <title xml:lang="fra">Lo inganno degli occhi: prospettiva pratica</title>
+          <publisher>Pietro Cecconcelli</publisher>
+          <pubPlace>Firenze</pubPlace>
+          <date when="1625">1625</date>
+        </bibl>
+        <msDesc>
+          <msIdentifier>
+            <country>USA</country>
+            <settlement ref="#Los Angeles">Los Angeles</settlement>
+            <institution>Getty Research Institute</institution>
+            <repository />
+            <idno type="USTC">https://www.ustc.ac.uk/editions/4008330</idno>
+          </msIdentifier>
+        </msDesc>
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+      </projectDesc>
+      <editorialDecl>
+        <correction status="medium" method="silent">
+          <p>édition complète</p>
+        </correction>
+        <normalization method="silent">
+          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+        </normalization>
+        <punctuation marks="some">
+          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
+        </punctuation>
+        <segmentation>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : </p>
+        </segmentation>
+        <hyphenation eol="none" />
+        <stdVals>
+          <p>Norme ISO-8601 pour les dates</p>
+        </stdVals>
+      </editorialDecl>
+      <p />
+    </encodingDesc>
+    <profileDesc>
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
+    </profileDesc>
+  </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="fra">Descrizzione delle imagini dipinte da Rafaelle d'Urbino nelle camere del palazzo apostolico Vaticano , di Gio. Pietro Bellori...</title>
+        <respStmt>
+          <name>Emma Bondoerffer</name>
+          <resp>Structuration</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anaïs Mazoué</name>
+          <resp>Balisage, Indexation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>ArTerm</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date when="2028">2028</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>ATIR<author ref="http://ark.bnf.fr/ark:/12148/cb121957986">Bellori<idno type="ISNI">http://isni.org/isni/0000000114785194</idno>
+          </author>
+          <title xml:lang="fra">Descrizzione delle imagini dipinte da Rafaelle d'Urbino nelle camere del palazzo apostolico Vaticano , di Gio. Pietro Bellori...</title>
+          <publisher>G. G. Komarek</publisher>
+          <pubPlace>Rome</pubPlace>
+          <date when="1695">1695</date>
+        </bibl>
+        <msDesc>
+          <msIdentifier>
+            <country>France</country>
+            <settlement ref="#Paris">Paris</settlement>
+            <institution>Bibliothèque nationale de France</institution>
+            <repository />
+            <idno type="USTC">http://catalogue.bnf.fr/ark:/12148/cb300811089</idno>
+          </msIdentifier>
+        </msDesc>
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+      </projectDesc>
+      <editorialDecl>
+        <correction status="medium" method="silent">
+          <p>édition complète</p>
+        </correction>
+        <normalization method="silent">
+          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+        </normalization>
+        <punctuation marks="some">
+          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
+        </punctuation>
+        <segmentation>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : front (titlePage + lettre + Imprimatur [note] + errata) + body (2 chapitres avec sous chapitres)</p>
+        </segmentation>
+        <hyphenation eol="none" />
+        <stdVals>
+          <p>Norme ISO-8601 pour les dates</p>
+        </stdVals>
+      </editorialDecl>
+      <p />
+    </encodingDesc>
+    <profileDesc>
+      <xi:include href="../IndexPersonnes.xml" xpointer="element(/1/1)" />
+      <xi:include href="../IndexLieux.xml" xpointer="element(/1/1)" />
+    </profileDesc>
+  </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="fra">L'architettura tradotta in lingua fiorentina da Cosimo Bartoli, con la aggiunta de disegni</title>
+        <respStmt>
+          <name>Emma Bondoerffer</name>
+          <resp>Structuration</resp>
+        </respStmt>
+        <respStmt>
+          <name>Anaïs Mazoué</name>
+          <resp>Balisage, Indexation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Carla Tricon</name>
+          <resp>Identification des œuvres</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Edition numérique réalisée dans le cadre du projet ANR ArTerm.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>ArTerm</publisher>
+        <pubPlace>Paris</pubPlace>
+        <date when="2028">2028</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">ArTerm Copora © 2028 by ArTerm ANR is licensed under CC BY-NC-SA 4.0.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>ATIR<author ref="http://ark.bnf.fr/ark:/12148/cb125520809">Bartoli<idno type="ISNI">http://isni.org/isni/0000000122811371</idno>
+          </author>
+          <title xml:lang="fra">L'architettura tradotta in lingua fiorentina da Cosimo Bartoli, con la aggiunta de disegni</title>
+          <publisher>Lorenzo Torrentino</publisher>
+          <pubPlace>Florence</pubPlace>
+          <date when="1550">1550</date>
+        </bibl>
+        <msDesc>
+          <msIdentifier>
+            <country />
+            <settlement ref="#" />
+            <institution />
+            <repository />
+            <idno type="USTC">https://www.ustc.ac.uk/editions/808305</idno>
+          </msIdentifier>
+        </msDesc>
+        <xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)" />
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Le projet ArTerm propose l'édition numérique d'un corpus franco-italien de textes de la littérature artistique (XVIe-XVIIe s.), afin d'examiner les phénomènes de traduction des théories des arts d'une langue à l'autre et des transferts linguistiques du lexique esthétique et technique, à l'aide d'un Glossaire franco-italien du patrimoine artistique.</p>
+      </projectDesc>
+      <editorialDecl>
+        <correction status="medium" method="silent">
+          <p>édition complète</p>
+        </correction>
+        <normalization method="silent">
+          <p>Les ambiguïtés entre i, j, u, v ont été corrigées ; les espaces autour des ponctuations et accentuations ont été normalisées en suivant les règles de typographies du 20è siècle.</p>
+        </normalization>
+        <punctuation marks="some">
+          <p>En français, les point-virgules ont souvent été transformés en virgules ou en point, le reste des ponctuations ont été conservées comme dans les imprimés de référence. En italien, les ponctuations ont pu être retravaillées pour fluidifier la lecture.</p>
+        </punctuation>
+        <segmentation>
+          <p>Les paragraphes sont indiqués dans des balises p, enfant de balises div/div1/div2/div3/div4. Structure de ce fichier : front (titlePage + lettre + preface) + body (10 livres avec chapitres)</p>
         </segmentation>
         <hyphenation eol="none" />
         <stdVals>
