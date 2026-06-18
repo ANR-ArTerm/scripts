@@ -8,6 +8,19 @@
         </xsl:copy>
     </xsl:template>
     
+    <!--  Template spécifique pour ajouter le xi:include IndexOeuvres à la fin de sourceDesc  -->
+    <xsl:template match="tei:sourceDesc">
+        <sourceDesc xmlns="http://www.tei-c.org/ns/1.0">
+            <!--   Copier les attributs existants (s'il y en a)   -->
+            <xsl:apply-templates select="@*"/>
+            <!--   Copier le contenu existant (bibl, msDesc, etc.), en excluant un éventuel xi:include IndexOeuvres déjà présent   -->
+            <xsl:apply-templates select="node()[not(local-name()='include' and contains(@href, 'IndexOeuvres'))][not(local-name()='listObject')]"/>
+            
+            <!--   Ajouter l'inclusion IndexOeuvres à la fin   -->
+            <xsl:text> </xsl:text>
+            <xsl:text disable-output-escaping="yes">&lt;xi:include href="../IndexOeuvres.xml" xpointer="element(/1/1)"/&gt;</xsl:text>
+        </sourceDesc>
+    </xsl:template>
     <!-- Template spécifique pour recréer profileDesc avec xi:include -->
     <xsl:template match="tei:profileDesc">
         <profileDesc xmlns="http://www.tei-c.org/ns/1.0">
@@ -17,7 +30,6 @@
             <xsl:text disable-output-escaping="yes">&lt;xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/&gt;</xsl:text>
         </profileDesc>
     </xsl:template>
-    
     <!--  Template spécifique pour les div1 TEI  -->
     <xsl:template match="tei:div1">
         <xsl:variable name="parent-id" select="parent::tei:body/@xml:id"/>
