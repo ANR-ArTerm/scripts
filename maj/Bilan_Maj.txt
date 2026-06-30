@@ -1,0 +1,56 @@
+PEINTURE : 
+
+47 fichier(s) XML trouvé(s).
+23 fichier(s) ignoré(s) (présents dans la liste d'exclusion) :
+  - Armenini_PrecettiDellaPitturaATIR.xml
+  - Baglione_ViteATIR.xml
+  - Baldinucci_Notizie.xml
+  - Baldinucci_Vocabolario.xml
+  - Bellori_DescrizzioneImagiDipinteRafelloATIR.xml
+  - Bellori_ViteATIR.xml
+  - Celio_Memoria.xml
+  - Cellini_VitaBenvenutoCelliniATIR.xml
+  - Condivi_VitaMichelangeloATIR.xml
+  - Dolce_DialogoDellaPitturaIntitolatoAretinoMemofonte.xml
+  - Felibien_Entretiens1.xml
+  - Felibien_Entretiens2.xml
+  - Felibien_Entretiens3.xml
+  - Felibien_Entretiens4.xml
+  - Felibien_Entretiens5.xml
+  - Frey_CodiceMagliabechianoATIR.xml
+  - Frey_LibroAntonioBilliATIR.xml
+  - Lomazzo_TrattatoATIR.xml
+  - Morelli_NotiziaOpereDisegno.xml
+  - Passeri_ViteATIR.xml
+  - Pino_DialogoPitturaATIR.xml
+  - Varchi_LezzioniMemofonte.xml
+  - Vasari_Vite1551Memofonte.xml
+24 fichier(s) seront effectivement traités.
+-> 4452 terme(s) unique(s) écrits dans C:\Users\ebondoer\Desktop\GitHubArTerm\scripts\maj\termes_francais_Peinture.txt
+-> 5696 terme(s) unique(s) écrits dans C:\Users\ebondoer\Desktop\GitHubArTerm\scripts\maj\termes_italien_Peinture.txt
+
+ARCHITECTURE :
+
+17 fichier(s) XML trouvé(s).
+7 fichier(s) ignoré(s) (présents dans la liste d'exclusion) :
+  - Barbaro_DieciLibriDellArchitetturaATIR.xml
+  - Cataneo_PrimiQuatroLibriArchitetturaATIR.xml
+  - Martin_DiscoursSongePoliphile.xml
+  - Palladio_DescritioneChieseATIR.xml
+  - Scamozzi_IdeaArchitetturaUniversaleATIR.xml
+  - Serlio_LibroExtraodinarioArchitetturaATIR.xml
+  - Vignola_RegolaDelliCinqueOrdiniArchitetturaATIR.xml
+10 fichier(s) seront effectivement traités.
+-> 4175 terme(s) unique(s) écrits dans C:\Users\ebondoer\Desktop\GitHubArTerm\scripts\maj\termes_francais_Archi.txt
+-> 1579 terme(s) unique(s) écrits dans C:\Users\ebondoer\Desktop\GitHubArTerm\scripts\maj\termes_italien_Archi.txt
+
+PERSPECTIVE : 
+
+11 fichier(s) XML trouvé(s).
+3 fichier(s) ignoré(s) (présents dans la liste d'exclusion) :
+  - DuBreuil_PerspectivePractique.xml
+  - Leclerc_DiscoursVueOeil.xml
+  - Sirigatti_PraticaProspettiva.xml
+8 fichier(s) seront effectivement traités.
+-> 1808 terme(s) unique(s) écrits dans C:\Users\ebondoer\Desktop\GitHubArTerm\scripts\maj\termes_francais_Perspective.txt
+-> 1486 terme(s) unique(s) écrits dans C:\Users\ebondoer\Desktop\GitHubArTerm\scripts\maj\termes_italien_Perspective.txt
