@@ -28,7 +28,7 @@
          les tokens pour accepter tout type d'espace.  -->
 <xsl:variable name="TERMES_MULTI" select="'^(Vostra\s+Signoria|Altezza\s+Vostra|Sua\s+Signoria|Sua\s+Altezza)'"/>
 <!--  Mots simples : testés directement sur $mot (correspondance exacte).  -->
-<xsl:variable name="TERMES_MONO" select="'^(VS|SA|Roi|Reine|Re|Rei|Monseigneur|Archev[eê]que|Grandduc|Nil|Illustrissima|Signoria|Vostra|Altezza)$'"/>
+    <xsl:variable name="TERMES_MONO" select="'^(VS|SA|Roi|Reine|Re|Rei|Monseigneur|Archev[eê]que|Grandduc|Nil|Nilo|Illustrissima|Signoria|Vostra|Altezza|Eccellenza|Eminenza|Tevere|Tibre|Alpi|Alpes)$'"/>
 <!--  ============================================================
          RÈGLE IDENTITÉ
     ============================================================  -->
