@@ -66,7 +66,7 @@
     </xsl:template><!--  ============================================================
          BALISES PROTÉGÉES DANS LE BODY
     ============================================================  -->
-<xsl:template match="*[ local-name() = 'persName' or local-name() = 'placeName' or local-name() = 'objectName' or local-name() = 'date' or local-name() = 'item' or (local-name() = 'hi' and @rend = 'capitals') ]">
+    <xsl:template match="*[ local-name() = 'persName' or local-name() = 'placeName' or local-name() = 'objectName' or local-name() = 'date' or local-name() = 'item' or (local-name() = 'hi' and @rend = 'capitals') or (local-name() = 'hi' and @rend = 'it')]">
 <xsl:copy>
 <xsl:apply-templates select="@*"/>
 <xsl:value-of select="."/>
