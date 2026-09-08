@@ -37,10 +37,10 @@
     </xsl:template>
     
     <!-- décalage à partir de n="69" et pour tous les pb suivants -->
-    <xsl:template match="tei:pb[xs:integer(@n) >= 69]">
+    <xsl:template match="tei:pb[xs:integer(@n) >= 17]">
         <xsl:copy>
             <xsl:apply-templates select="@*[not(name()='n')]"/>
-            <xsl:attribute name="n" select="xs:integer(@n) - 24"/>
+            <xsl:attribute name="n" select="xs:integer(@n) - 16"/>
         </xsl:copy>
     </xsl:template>
     
