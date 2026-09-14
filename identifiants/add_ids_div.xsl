@@ -37,16 +37,16 @@
         <div1 xmlns="http://www.tei-c.org/ns/1.0">
             <!--  Ajouter xml:id (par exemple L1, L2, etc.)  -->
             <xsl:attribute name="xml:id">
-                <xsl:value-of select="concat('C', $position)"/>
+                <xsl:value-of select="concat('L', $position)"/>
             </xsl:attribute>
             <!--  Ajouter type="chapitre"  -->
-            <xsl:attribute name="type">chapitre</xsl:attribute>
+            <xsl:attribute name="type">livre</xsl:attribute>
             <!--  Ajouter n avec la position  -->
             <xsl:attribute name="n">
                 <xsl:value-of select="$position"/>
             </xsl:attribute>
-            <!--  Copier les attributs existants (s'il y en a)  
-            <xsl:apply-templates select="@*"/>-->
+            <!--  Copier les attributs existants (s'il y en a)  -->
+            <xsl:apply-templates select="@*"/>
             <!--  Copier le contenu  -->
             <xsl:apply-templates select="node()"/>
         </div1>
@@ -59,16 +59,16 @@
         <div2 xmlns="http://www.tei-c.org/ns/1.0">
             <!--  Ajouter xml:id (par exemple L1C1, L1C2, etc.)  -->
             <xsl:attribute name="xml:id">
-                <xsl:value-of select="concat($parent-id, 'SC', $position)"/>
+                <xsl:value-of select="concat($parent-id, 'C', $position)"/>
             </xsl:attribute>
             <!--  Ajouter type="chapitre"  -->
-            <xsl:attribute name="type">sous-chapitre</xsl:attribute>
+            <xsl:attribute name="type">chapitre</xsl:attribute>
             <!--  Ajouter n avec la position  -->
             <xsl:attribute name="n">
                 <xsl:value-of select="$position"/>
             </xsl:attribute>
-            <!--  Copier les attributs existants (s'il y en a) 
-            <xsl:apply-templates select="@*"/> -->
+            <!--  Copier les attributs existants (s'il y en a) -->
+            <xsl:apply-templates select="@*"/> 
             <!--  Copier le contenu  -->
             <xsl:apply-templates select="node()"/>
         </div2>
@@ -85,7 +85,7 @@
                 <xsl:value-of select="concat($div1-id, 'SC', $div2-position, 'S', $position)"/>
             </xsl:attribute>
             <!--  Ajouter type="sous-chapitre"  -->
-            <xsl:attribute name="type">section</xsl:attribute>
+            <xsl:attribute name="type">sous-chapitre</xsl:attribute>
             <!--  Ajouter n avec la position  -->
             <xsl:attribute name="n">
                 <xsl:value-of select="$position"/>

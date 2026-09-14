@@ -30,140 +30,140 @@
             <xsl:text disable-output-escaping="yes">&lt;xi:include href="../IndexLieux.xml" xpointer="element(/1/1)"/&gt;</xsl:text>
         </profileDesc>
     </xsl:template>
-    <!--   Template spécifique pour les div1 TEI   -->
-    <xsl:template match="tei:div1">
-        <xsl:variable name="parent-id" select="parent::tei:body/@xml:id"/>
-        <xsl:variable name="position" select="count(preceding-sibling::tei:div1) + 1"/>
-        <div1 xmlns="http://www.tei-c.org/ns/1.0">
-            <!--   Ajouter xml:id (par exemple L1, L2, etc.)   -->
-            <xsl:attribute name="xml:id">
-                <xsl:value-of select="concat('L', $position)"/>
-            </xsl:attribute>
-            <!--   Ajouter type="chapitre"   -->
-            <xsl:attribute name="type">livre</xsl:attribute>
-            <!--   Ajouter n avec la position   -->
-            <xsl:attribute name="n">
-                <xsl:value-of select="$position"/>
-            </xsl:attribute>
-            <!--   Copier les attributs existants (s'il y en a)   -->
-            <xsl:apply-templates select="@*"/>
-            <!--   Copier le contenu   -->
-            <xsl:apply-templates select="node()"/>
-        </div1>
-    </xsl:template>
-    <!--   Template spécifique pour les div2 TEI   -->
-    <xsl:template match="tei:div2">
-        <xsl:variable name="parent-id" select="parent::tei:div1/@xml:id"/>
-        <xsl:variable name="position" select="count(preceding-sibling::tei:div2) + 1"/>
-        <div2 xmlns="http://www.tei-c.org/ns/1.0">
-            <!--   Ajouter xml:id (par exemple L1C1, L1C2, etc.)   -->
-            <xsl:attribute name="xml:id">
-                <xsl:value-of select="concat($parent-id, 'C', $position)"/>
-            </xsl:attribute>
-            <!--   Ajouter type="chapitre"   -->
-            <xsl:attribute name="type">chapitre</xsl:attribute>
-            <!--   Ajouter n avec la position   -->
-            <xsl:attribute name="n">
-                <xsl:value-of select="$position"/>
-            </xsl:attribute>
-            <!--   Copier les attributs existants (s'il y en a)   -->
-            <xsl:apply-templates select="@*"/>
-            <!--   Copier le contenu   -->
-            <xsl:apply-templates select="node()"/>
-        </div2>
-    </xsl:template>
-    <!--   Template spécifique pour les div3 TEI   -->
-    <xsl:template match="tei:div3">
-        <xsl:variable name="div1-id" select="ancestor::tei:div1/@xml:id"/>
-        <xsl:variable name="div2-position" select="count(parent::tei:div2/preceding-sibling::tei:div2) + 1"/>
-        <xsl:variable name="position" select="count(preceding-sibling::tei:div3) + 1"/>
-        <div3 xmlns="http://www.tei-c.org/ns/1.0">
-            <!--   Reconstruire l'ID complet : L1C1SC1   -->
-            <xsl:attribute name="xml:id">
-                <xsl:value-of select="concat($div1-id, 'C', $div2-position, 'SC', $position)"/>
-            </xsl:attribute>
-            <!--   Ajouter type="sous-chapitre"   -->
-            <xsl:attribute name="type">sous-chapitre</xsl:attribute>
-            <!--   Ajouter n avec la position   -->
-            <xsl:attribute name="n">
-                <xsl:value-of select="$position"/>
-            </xsl:attribute>
-            <!--   Copier les attributs existants (s'il y en a)   -->
-            <xsl:apply-templates select="@*"/>
-            <!--   Copier le contenu   -->
-            <xsl:apply-templates select="node()"/>
-        </div3>
-    </xsl:template>
-    <!--   Template spécifique pour les div4 TEI   -->
-    <xsl:template match="tei:div4">
-        <xsl:variable name="div1-id" select="ancestor::tei:div1/@xml:id"/>
-        <xsl:variable name="div2-position" select="count(ancestor::tei:div2/preceding-sibling::tei:div2) + 1"/>
-        <xsl:variable name="div3-position" select="count(parent::tei:div3/preceding-sibling::tei:div3) + 1"/>
-        <xsl:variable name="position" select="count(preceding-sibling::tei:div4) + 1"/>
-        <div4 xmlns="http://www.tei-c.org/ns/1.0">
-            <!--   Reconstruire l'ID complet : L1C1SC1S1   -->
-            <xsl:attribute name="xml:id">
-                <xsl:value-of select="concat($div1-id, 'C', $div2-position, 'SC', $div3-position, 'S', $position)"/>
-            </xsl:attribute>
-            <!--   Ajouter type="section"   -->
-            <xsl:attribute name="type">section</xsl:attribute>
-            <!--   Ajouter n avec la position   -->
-            <xsl:attribute name="n">
-                <xsl:value-of select="$position"/>
-            </xsl:attribute>
-            <!--   Copier les attributs existants (s'il y en a)   -->
-            <xsl:apply-templates select="@*"/>
-            <!--   Copier le contenu   -->
-            <xsl:apply-templates select="node()"/>
-        </div4>
-    </xsl:template>
-    <!--   Template spécifique pour les figure TEI (hors lettrines)   -->
-    <xsl:template match="tei:figure[not(@type='lettrine')]">
-        <xsl:variable name="current-div" select="(ancestor::tei:div1 | ancestor::tei:div2 | ancestor::tei:div3 | ancestor::tei:div4 | ancestor::tei:div5)[last()]"/>
-        <xsl:variable name="parent-id" select="$current-div/@xml:id"/>
-        <!--   Position calculée sur TOUTES les figures (hors lettrines) précédentes dans la même division,
+<!--<!-\-   Template spécifique pour les div1 TEI   -\->
+<xsl:template match="tei:div1">
+<xsl:variable name="parent-id" select="parent::tei:body/@xml:id"/>
+<xsl:variable name="position" select="count(preceding-sibling::tei:div1) + 1"/>
+<div1 xmlns="http://www.tei-c.org/ns/1.0">
+<!-\-   Ajouter xml:id (par exemple L1, L2, etc.)   -\->
+<xsl:attribute name="xml:id">
+<xsl:value-of select="concat('L', $position)"/>
+</xsl:attribute>
+<!-\-   Ajouter type="chapitre"   -\->
+<xsl:attribute name="type">livre</xsl:attribute>
+<!-\-   Ajouter n avec la position   -\->
+<xsl:attribute name="n">
+<xsl:value-of select="$position"/>
+</xsl:attribute>
+<!-\-   Copier les attributs existants (s'il y en a)   -\->
+<xsl:apply-templates select="@*"/>
+<!-\-   Copier le contenu   -\->
+<xsl:apply-templates select="node()"/>
+</div1>
+</xsl:template>
+<!-\-   Template spécifique pour les div2 TEI   -\->
+<xsl:template match="tei:div2">
+<xsl:variable name="parent-id" select="parent::tei:div1/@xml:id"/>
+<xsl:variable name="position" select="count(preceding-sibling::tei:div2) + 1"/>
+<div2 xmlns="http://www.tei-c.org/ns/1.0">
+<!-\-   Ajouter xml:id (par exemple L1C1, L1C2, etc.)   -\->
+<xsl:attribute name="xml:id">
+<xsl:value-of select="concat($parent-id, 'C', $position)"/>
+</xsl:attribute>
+<!-\-   Ajouter type="chapitre"   -\->
+<xsl:attribute name="type">chapitre</xsl:attribute>
+<!-\-   Ajouter n avec la position   -\->
+<xsl:attribute name="n">
+<xsl:value-of select="$position"/>
+</xsl:attribute>
+<!-\-   Copier les attributs existants (s'il y en a)   -\->
+<xsl:apply-templates select="@*"/>
+<!-\-   Copier le contenu   -\->
+<xsl:apply-templates select="node()"/>
+</div2>
+</xsl:template>
+<!-\-   Template spécifique pour les div3 TEI   -\->
+<xsl:template match="tei:div3">
+<xsl:variable name="div1-id" select="ancestor::tei:div1/@xml:id"/>
+<xsl:variable name="div2-position" select="count(parent::tei:div2/preceding-sibling::tei:div2) + 1"/>
+<xsl:variable name="position" select="count(preceding-sibling::tei:div3) + 1"/>
+<div3 xmlns="http://www.tei-c.org/ns/1.0">
+<!-\-   Reconstruire l'ID complet : L1C1SC1   -\->
+<xsl:attribute name="xml:id">
+<xsl:value-of select="concat($div1-id, 'C', $div2-position, 'SC', $position)"/>
+</xsl:attribute>
+<!-\-   Ajouter type="sous-chapitre"   -\->
+<xsl:attribute name="type">sous-chapitre</xsl:attribute>
+<!-\-   Ajouter n avec la position   -\->
+<xsl:attribute name="n">
+<xsl:value-of select="$position"/>
+</xsl:attribute>
+<!-\-   Copier les attributs existants (s'il y en a)   -\->
+<xsl:apply-templates select="@*"/>
+<!-\-   Copier le contenu   -\->
+<xsl:apply-templates select="node()"/>
+</div3>
+</xsl:template>
+<!-\-   Template spécifique pour les div4 TEI   -\->
+<xsl:template match="tei:div4">
+<xsl:variable name="div1-id" select="ancestor::tei:div1/@xml:id"/>
+<xsl:variable name="div2-position" select="count(ancestor::tei:div2/preceding-sibling::tei:div2) + 1"/>
+<xsl:variable name="div3-position" select="count(parent::tei:div3/preceding-sibling::tei:div3) + 1"/>
+<xsl:variable name="position" select="count(preceding-sibling::tei:div4) + 1"/>
+<div4 xmlns="http://www.tei-c.org/ns/1.0">
+<!-\-   Reconstruire l'ID complet : L1C1SC1S1   -\->
+<xsl:attribute name="xml:id">
+<xsl:value-of select="concat($div1-id, 'C', $div2-position, 'SC', $div3-position, 'S', $position)"/>
+</xsl:attribute>
+<!-\-   Ajouter type="section"   -\->
+<xsl:attribute name="type">section</xsl:attribute>
+<!-\-   Ajouter n avec la position   -\->
+<xsl:attribute name="n">
+<xsl:value-of select="$position"/>
+</xsl:attribute>
+<!-\-   Copier les attributs existants (s'il y en a)   -\->
+<xsl:apply-templates select="@*"/>
+<!-\-   Copier le contenu   -\->
+<xsl:apply-templates select="node()"/>
+</div4>
+</xsl:template>-->
+<!--   Template spécifique pour les figure TEI (hors lettrines)   -->
+<xsl:template match="tei:figure[not(@type='lettrine')]">
+<xsl:variable name="current-div" select="(ancestor::tei:div1 | ancestor::tei:div2 | ancestor::tei:div3 | ancestor::tei:div4 | ancestor::tei:div5)[last()]"/>
+<xsl:variable name="parent-id" select="$current-div/@xml:id"/>
+<!--   Position calculée sur TOUTES les figures (hors lettrines) précédentes dans la même division,
        quel que soit le <p> qui les contient (et non plus seulement les figures soeurs)   -->
-        <xsl:variable name="position" select="count($current-div//tei:figure[not(@type='lettrine')][. &lt;&lt; current()]) + 1"/>
-        <figure xmlns="http://www.tei-c.org/ns/1.0">
-            <!--   Ajouter xml:id (par exemple F1L1C2)   -->
-            <xsl:attribute name="xml:id">
-                <xsl:value-of select="concat('F', $position, $parent-id)"/>
-            </xsl:attribute>
-            <!--   Copier les attributs existants, en excluant un éventuel ancien xml:id pour éviter tout conflit   -->
-            <xsl:apply-templates select="@*[not(local-name()='id' and namespace-uri()='http://www.w3.org/XML/1998/namespace')]"/>
-            <!--   Copier le contenu   -->
-            <xsl:apply-templates select="node()"/>
-        </figure>
-    </xsl:template>
-    <!--   Template spécifique pour les figure de type lettrine : pas d'identifiant   -->
-    <xsl:template match="tei:figure[@type='lettrine']">
-        <figure xmlns="http://www.tei-c.org/ns/1.0">
-            <!--   Copier les attributs existants, en supprimant un éventuel xml:id déjà présent   -->
-            <xsl:apply-templates select="@*[not(local-name()='id' and namespace-uri()='http://www.w3.org/XML/1998/namespace')]"/>
-            <!--   Copier le contenu   -->
-            <xsl:apply-templates select="node()"/>
-        </figure>
-    </xsl:template>
-    <!--   Template spécifique pour les div4 TEI   -->
-    <xsl:template match="tei:div5">
-        <xsl:variable name="div1-id" select="ancestor::tei:div1/@xml:id"/>
-        <xsl:variable name="div2-position" select="count(ancestor::tei:div2/preceding-sibling::tei:div2) + 1"/>
-        <xsl:variable name="div3-position" select="count(parent::tei:div3/preceding-sibling::tei:div3) + 1"/>
-        <xsl:variable name="div4-position" select="count(parent::tei:div4/preceding-sibling::tei:div4) + 1"/>
-        <xsl:variable name="position" select="count(preceding-sibling::tei:div5) + 1"/>
-        <div5 xmlns="http://www.tei-c.org/ns/1.0">
-            <!--   Reconstruire l'ID complet : L1C1SC1S1SS1   -->
-            <xsl:attribute name="xml:id">
-                <xsl:value-of select="concat($div1-id, 'C', $div2-position, 'SC', $div3-position, 'S', $div4-position, 'SS', $position)"/>
-            </xsl:attribute>
-            <!--   Ajouter n avec la position   -->
-            <xsl:attribute name="n">
-                <xsl:value-of select="$position"/>
-            </xsl:attribute>
-            <!--   Copier les attributs existants (s'il y en a)   -->
-            <xsl:apply-templates select="@*"/>
-            <!--   Copier le contenu   -->
-            <xsl:apply-templates select="node()"/>
-        </div5>
-    </xsl:template>
+<xsl:variable name="position" select="count($current-div//tei:figure[not(@type='lettrine')][. &lt;&lt; current()]) + 1"/>
+<figure xmlns="http://www.tei-c.org/ns/1.0">
+<!--   Ajouter xml:id (par exemple F1L1C2)   -->
+<xsl:attribute name="xml:id">
+<xsl:value-of select="concat('F', $position, $parent-id)"/>
+</xsl:attribute>
+<!--   Copier les attributs existants, en excluant un éventuel ancien xml:id pour éviter tout conflit   -->
+<xsl:apply-templates select="@*[not(local-name()='id' and namespace-uri()='http://www.w3.org/XML/1998/namespace')]"/>
+<!--   Copier le contenu   -->
+<xsl:apply-templates select="node()"/>
+</figure>
+</xsl:template>
+<!--   Template spécifique pour les figure de type lettrine : pas d'identifiant   -->
+<xsl:template match="tei:figure[@type='lettrine']">
+<figure xmlns="http://www.tei-c.org/ns/1.0">
+<!--   Copier les attributs existants, en supprimant un éventuel xml:id déjà présent   -->
+<xsl:apply-templates select="@*[not(local-name()='id' and namespace-uri()='http://www.w3.org/XML/1998/namespace')]"/>
+<!--   Copier le contenu   -->
+<xsl:apply-templates select="node()"/>
+</figure>
+</xsl:template>
+<!--   Template spécifique pour les div4 TEI   -->
+<xsl:template match="tei:div5">
+<xsl:variable name="div1-id" select="ancestor::tei:div1/@xml:id"/>
+<xsl:variable name="div2-position" select="count(ancestor::tei:div2/preceding-sibling::tei:div2) + 1"/>
+<xsl:variable name="div3-position" select="count(parent::tei:div3/preceding-sibling::tei:div3) + 1"/>
+<xsl:variable name="div4-position" select="count(parent::tei:div4/preceding-sibling::tei:div4) + 1"/>
+<xsl:variable name="position" select="count(preceding-sibling::tei:div5) + 1"/>
+<div5 xmlns="http://www.tei-c.org/ns/1.0">
+<!--   Reconstruire l'ID complet : L1C1SC1S1SS1   -->
+<xsl:attribute name="xml:id">
+<xsl:value-of select="concat($div1-id, 'C', $div2-position, 'SC', $div3-position, 'S', $div4-position, 'SS', $position)"/>
+</xsl:attribute>
+<!--   Ajouter n avec la position   -->
+<xsl:attribute name="n">
+<xsl:value-of select="$position"/>
+</xsl:attribute>
+<!--   Copier les attributs existants (s'il y en a)   -->
+<xsl:apply-templates select="@*"/>
+<!--   Copier le contenu   -->
+<xsl:apply-templates select="node()"/>
+</div5>
+</xsl:template>
 </xsl:stylesheet>
