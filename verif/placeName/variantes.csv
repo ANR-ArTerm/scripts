@@ -1,76 +1,96 @@
 ID,Noms
 ,Eglise
-AbbayeSaintMartinEsAiresDeTroyes,"Abbaye
-							de saint Martin de Troyes"
-Achaie,Achaie
+AbbayeSaintMartinEsAiresDeTroyes,Abbaye de saint Martin de Troyes
+Abruzzes,Abruzzo
+Achaie,"Achaia,Achaie,Acaia"
 Acre,Acre
 Adee,Adée
 Adria,Adria
 Afrique,"Afrique,Africa"
+AgerGallicus,Gallia
+Agrigente,"Agrigenta,Agrigento"
 AixLaChapelle,"Aix la Chapelle,Aix-la-Chapelle"
+Akhmim,Chemmin
 Alabanda,Alabande
+Alatri,Alatro
 Alba,Albe
-Albanie,Albanie
+Albanie,"Albanie,Albania"
+AlbanoLaziale,Albano
 Albigeois,"l'isle d'Albigeois,Alby"
-Alexandrie,"Alessandria,Alexandrie"
+Alexandrie,"Città del
+              Faro,Allessandria,Alessandria,Alexandrie,Città"
 AlexandrieItalie,Alessandria
 Alkmaar,Alcmar
-Allemagne,"Allemaigne,l'Alemagne,Allemagna,Allemagne,Allemange,Alemagna,Alemagne,Germanie,Germania"
+Allemagne,"l'Alemagne,Allemaigne,Allemagna,Allemagne,Allemange,Germania,Alemagna,Alemagne,Germanie,Lamagna,Magna"
 Alost,Alost
 Alpes,Alpes
 Alsace,Alsace
 Amerique,"l'Amerique,Amerique,America"
 Amiens,Amiens
 Amsterdam,"Amstelaedami,Amsterodami,AMSTERDAM,Amsterdam"
-Ancone,Ancone
+Ancone,"Ancone,Ancona"
 Ancyre,Ancyre
 Andelys,Andely
 Anet,Anet
 Angers,Angers
 Angleterre,"Grande
-							Brétagne,d'Angleterre,Inghilterra,Angleterre,Bretaigne"
+            Brétagne,medesima Isola,d'Angleterre,Inghilterra,Angleterre,Bretaigne,Isola"
+Antandros,Andro
 Antioche,Antioche
 Antiochos,"Antioche Soter,Antioche"
 Anvers,"d'Anvers,Anversa,Anvers,ANVERS"
 Apennins,Appenins
-Aquilee,"AQUILEIA,Aquilea"
+Aquilee,"AQUILEIA,Aquileia,Aquilea"
 Arabie,Arabie
+ArabieSaoudite,Arabia
 Arcadie,Arcadia
-Arcueil,"Arceuil,Arcueil"
+Arcueil,"Arcueil,Arceuil"
 Ardea,Ardée
-Arezzo,"cette vile,Arrezze,Arezze,Arezzo,Arreze"
-Argos,"Argos,Arges,Argo"
+Arezzo,"cette vile,Arrezze,Arezzo,Arreze,Arezze"
+Argos,"appresso delli Argivi,appresso alli Argivi,Arges,Argos,Argo"
+Ariana,Arriana
 Ariccia,Aricia
 Arles,Arles
-Armenie,Armenie
+Armenie,"Armenia,Armenie"
+ArmenieMineure,Armenia minore
 Arnhem,Arnhem
 Arno,Arno
 Arpino,Arpino
 Artaxata,Artaxata
-Asie,"l'Asie,Asia,Asie"
-Assise,Assise
+Ashkelon,Ascalo
+Asie,"l'Asie,Asie,Asia"
+Asolo,"Asolo Castello del
+              Trivigiano"
+Assise,"Assise,Scisi"
 Assos,Assos
-Assyrie,"Assirie,Assiria,Assyrie"
-Athenes,"d'Athènes,Athénes,Athènes,Athénes,Athenes,Athene,Atenes,Atene"
+Assyrie,"appresso li Assiri,Assyrie,Assiria,Assirie"
+Athenes,"d'Athènes,Athénes,Athènes,Athenes,Athénes,Atenes,Athene,Atene"
 Athos,Athos
+Atlantide,Isola Atlantea
 Augsbourg,"Augustanus,Ausbourg"
+Aulis,Aulide
 AuluGelle,Aulugelle
+Auteuil,Auteuil
 Autriche,Autriche
 Autun,Autun
-Auvergne,Auvergne
+Auvergne,"Auvergne,Onvernia"
 Avennes,Avennes
 Avignon,"d'Avignon,Avignon"
-Babylone,"Babillonia,Babilonia,Babylone,Babilone"
-Baies,Baie
+Babylone,"Babbillonia,Babillonia,Babbilonia,Babilonia,Babylone,Babilone"
+Bagnolo,Bagnolo
+Baies,"Baia,Baie"
 Barbarie,Barbarie
 Barbazan,Barbasan
 Barbencon,Barbançon
 Basel,"Basileae,Basle"
+Basilicate,Basilicata
 BasiliqueSantaCroceFlorence,Eglise de Sainte Croix
-BassanoDelGrappa,Bassan
+BassanoDelGrappa,"Angarano,Bassano,Bassan"
 Baviere,Baviere
 Belleville,Belleville
-Belvedere,"Belvedere,Belvédére"
+Belvedere,"Belvédére,Belvedere"
+Benevent,Benevento
+Beotie,Beotia
 BercheresLesPierres,"Berchere-l'Evêque,Bercheres"
 Bergame,Bergame
 Berlin,Berlin
@@ -78,380 +98,561 @@ Berne,Berne
 Beziers,Beziers
 Birsa,Birsa
 Blois,Blois
+BoisDeVincennes,Bois de Vincennes
 BoisLeDuc,Bosleduc
-Bologne,"cette vile,Bolongne,Boulogne,BOLOGNA,Bologne,Bologna"
-Bolsena,"Bolséne,Bolsene"
+Bologne,"cette vile,Bolongne,Boulogne,BOLOGNA,Bologna,Bologne"
+Bolsena,"Campi di Bolsena,Bolsene,Bolséne"
 Bordeaux,Bordeaux
 Bosphore,Bosphore
 Boulogne,Boulongne
-Bourgogne,Bourgogne
+Bouras,Bura
+Bourgogne,"Bourgogne,Borgogna"
+BozcaadaIlcesi,Tenedo
 Brabant,Brabant
 Breda,Breda
 Brescia,"Brescia,Bresce"
 Bresso,Bresse
 Brie,Brie
+Brindisi,Brindisi
 Bruegel,Brugle
 Bruges,Bruges
-Bruxelles,"Brusselles,Bruxelles,Brusseles"
-Byzance,"Bisance,Bizance"
+Bruxelles,"Brusselles,Brusseles,Bruxelles"
+Bucephalie,una
+Byblos,Biblo
+Byzance,"Bizance,Bisance"
 Cadix,Cadis
 Cadmee,Cadmée
 Cadore,Cador
 Caen,Caen
+Cagli,Calgi
 Calabre,Calabre
 Calidonia,Calidonia
 Camaldoli,Camaldoli
+Camarina,Camerino
 Cambay,Cambaya
 Camerino,Camerino
 Campan,Campan
+Campanie,Campagna
+CampigliaDeiBerici,Campiglia
+CampoMarzioRome,"Campo
+              Martio"
 Cana,Cana
+CanalGrande,Canal grande
 Candie,"Isle de Crete,Candie"
-Capitole,"Campidoglio,Capitole"
+Capitole,"campidoglio,Campidoglio,Capitole"
 Capoue,Capua
 Cappadoce,Cappadoce
-Caprarola,"Caprarole,Capriola"
-Caravaggio,"Bourg de
-							Caravage,Caravaggio,Caravagio,Caravage"
-Carie,"Carie,Carye"
+Caprarola,"Caprarole,Caprarola,Capriola"
+CaputCilla,Cilla
+Caravaggio,"Bourg de Caravage,Caravaggio,Caravagio,Caravage"
+Carie,"Carie,Caria,Carye"
+Carmania,Carmania
 Carrara,"Carrara,Carrare"
-Carthage,"Carthage,Cartage"
-CastelFranco,"Castel
-                     Franco,Castel Franco"
+Carre,Carri
+Carthage,"Cartagine,Carthage,Cartage"
+Cassandreia,Cassandrea
+CastelFranco,"Castel Franco,Castelfranco"
 Catalogne,Catalogne
 Catane,Catane
 Caunos,Caune
 Cento,Cento
-Cesaree,"Cesarée,Cesaree"
+Cesaree,"Cesaree,Cesarée"
+Cessalto,Cesalto
+Chaillot,Chaliot
+Chambord,Sciambur
 Chambray,Chambray
 Champagne,Champagne
 CharentonLePont,Charenton
 Charlemont,Charlesmont
 Chartres,Chartres
 Chateaudun,Chasteaudun
+Chiaravalle,Chiaravalle
 Chine,Chine
-Chios,"Isle de
-                                    Chio"
+Chios,"Isle de Chio,Scio"
 Chiusi,Chiusi
-Chypre,"Cipre,Cypro,Cypre"
+Chypre,"Cipre,Cipro,Cypre,Cypro,Cipri"
+Cilicie,Cilicia
+Cingoli,Cingoli
 CittaDiCastello,"Città di Castello,Ville de Castello,Castello"
+Civitavecchia,Civita Vecchia
+Clazomenes,Clazzomene
 Cnide,"Gnide,Gnido"
-Colchide,Colchos
+Cnossos,Gnosio
+Colchide,"Colchos,Colco"
+CollegeDeLaon,Collége de Laon
 Cologne,Cologne
 Come,Como
 ConchesEnOuche,Conchey
-Constantinople,Constantinople
+Constantinople,"Constantinopoli,Costantinopoli,Constantinople"
 Copenhague,Compenhague
-Corfou,"CORCIRE,Corcire,Corcyre,Corfou"
-Corinthe,"Corinthe,Corinto,Corinte"
+Corfou,"Corcire,CORCIRE,Corcyre,Corfou,Corfù"
+Corinthe,"Corintho,Corinthe,Corinto,Corinte"
 Correggio,"Correggio,Corrége,Coregio"
+Corse,Corsica
 Cortone,"Cortonne,Cortone,Cortona"
+Cos,Coo
+Costozza,Costoza
 Cotton,Cotton
 Courtrai,Courtray
 Cracovie,Cracovia
 Crema,Crema
 Cremone,"Cremona,Cremone"
-Crete,Crete
-Crotone,Crotone
-Cumes,Cumes
+Crete,"Isola di Candia,Crete,Creta"
+Crotone,"Cutrone,Crotone"
+Cumes,"Cumes,Cuma"
+Cyrene,Cirene
+Cythere,Citerea
+Dalmatie,Dalmatia
 Damas,Damas
 Danemark,"Dannemark,Danemark"
 Delft,Delft
-Delos,Delos
-Delphes,"Delphos,Delphes,Delphe,Delphi,Delfes,Delfo"
+Delos,"Delos,Delo"
+Delphes,"Delphos,Delphes,Delfes,Delphi,Delpho,Delphe,Delfo"
 Deventer,Deventer
 Dinant,Dinan
 Dordrecht,Dort
+Durres,Dirrachio
+Ecbatane,"Città Cebetana,Ebbatana,Ecbatana"
 Ecosse,"Escosse,Ecosse"
 Egine,isle d'Oenone
-Egypte,"l'Egipte,Egypte,Egipte,Egitto"
+EgliseSaintNicolasDuChardonnet,"Saint Nicolas du
+              Chardonnet"
+Egypte,"l'Egipte,Egitto,Egypte,Egipte"
 Elbe,Isle d'Elbe
+EleusisGrece,Eleusina
 Elide,Elide
 EmpireOrient,Empire d'Orient
-Ephese,"Ephese,Ephése,Efese,Efeso"
-Epire,Epire
-Espagne,"Cour d'Espagne,d'Espagne,Espagnes,Espaigne,Hispagna,Espagne,Spagna"
-Ethiopie,Ethiopie
+Ephese,"Efesia,Ephese,Ephése,Efese,Efeso"
+Epire,"Epiro,Epire"
+Erice,Erice
+Espagne,"Cour d'Espagne,d'Espagne,Espagnes,Hyspagna,Hispagna,Espaigne,Espagne,Ispagna,Spagna"
+Esquilin,"Monte
+              Esquilino"
+Ethiopie,"Ethiopia,Ethiopie,Etiopia"
+Etolie,Etholia
+Etrurie,Etruria
+Eubee,"Isola di Negroponte,Isola Euboia"
 Euphranor,Eufranore Isthmio
 Euphrate,"Euphrate,Eufrate"
-Europe,"l'Europe,Europe"
+Europe,"l'Europe,Europa,Europe"
 Fabriano,Fabriano
 Faenza,Faenza
+FaubourgSaintJacques,"Fauxbourg Saint Jacques,Faubourg Saint Jacques,S. Jacques"
 Fayence,Fayence
-Ferrare,"la même vile,Ferrare,Ferrara,Ferrari"
+Ferrare,"la même vile,FERRARA,Ferrari,Ferrare,Ferrara"
+Fidenes,Fidenati
 Fiesole,"Fiésole,Fiesole"
 Flandres,"Florentiam,Flandres,Fiandra,Flandre"
 Flessingue,Flessingue
-Florence,"cette fameuse vile,Città nostra,cette vile,Florence,,Florentia,Fiorenza.,Florence,Fiorenza,FIORENZA,FIRENZE,Firenze,Città"
+Florence,"cette fameuse vile,Città nostra,cette vile,Florence,,Florentia,Fiorenza.,Florence,Fiorenza,FIRENZE,Firenze,Città"
+Foligno,Fuligno
 Fontainebleau,"Fontaine belle-eau,Fontainebelle-eau,Fontaine-bleau,Fonteinebleau,Fontainebleau,Fontanableo"
 ForumBoarium,foro Boario
-France,"Francia,Franzia,France,Franza"
+France,"Francia,Franzia,Franza,France"
 Francfort,"Francofort,Francfort"
 FrancheComte,Franche Comté
 Frascati,Frescati
-Frioul,"Frioul,Friul"
+FrattaPolesine,Frata
+Frioul,"Frioul,Friuli,Friul"
 Gaete,Gaëte
+Galatie,"Galatia,Galacia"
 Galilee,Galilée
+Gallipoli,Galipoli
+Gambarare,Gambarare
 GambassiTerme,Cambassi
+Gand,Gand
 Garama,Garamante
-Genes,"cette superbe Vile,Génes,Génnes,Gennes,Genova,Génes,Genne,Genes"
+Genes,"cette superbe Vile,Genova,Génnes,Gennes,Génes,Genes,Génes,Genne"
 Gorinchem,Gorcum
 Gouda,Goude
 Gouvieux,Camp de Cefar
 Grece,"Grecia,Grece,Grèce,Gréce"
-Grottaferrata,Grotta Ferrata
+Grottaferrata,"Grotta
+              Ferrata,Grotta Ferrata"
 Gueldre,Gueldres
-Haarlem,"HARLEM,Harlem"
+Haarlem,"Harlem,HARLEM"
+Hebron,Chebrone
 Heemskerk,Hemskerc
 Heidelberg,Heydelberg
+Helice,Elide
+Heliopolis,Città certo del Sole
 Heraclee,Héraclée
+Heraklion,Candia
 Hollande,Hollande
-Hongrie,Hongrie
+Hongrie,"Ongheria,Hongrie"
+Hyperboreens,"Isola
+              Hyperborea,Isola Hiperborea"
+IleBerezan,"Isola
+              Boristene"
+IleDePharos,"Isola del
+              Faro"
+IleElephantine,Città Elefantina
+IleNotreDame,Isle Nôtre-Dame
+IlesBaleares,isole Balearidi
+Imola,Imola
+Inde,"Republica degli Indiani,India"
 Indes,"Inde orientale,Indes,Indie,Inde"
 Ingolstadt,Ingolstad
-Israel,"Israël,Israel"
-Istrie,Istria
-Italie,"l'Italia,Italie,Italia"
+Ionie,Ionia
+Israel,"Israel,Israël"
+Istrie,"Istrie,Istria"
+Italie,"l'Italia,Italia,Italie"
 IvrySurSeine,Ivry
-Jerusalem,"Ierusalemme,Hierusalem,Hieruslem,Jerusalem"
-Judee,Judée
+Izmir,Smirna
+Jaffa,Ioppe
+Janicule,Monte Ianiculo
+Jerusalem,"Hyerosolima,Hierosolima,Ierusalemme,Gerusalemme,Hierusalem,Ierosolima,Jerusalem,Hieruslem"
+Judee,"Giudea,Judée"
 Kalkar,Calcar
-Kos,"Ille de Co,Côos"
+Kayseri,Mazzara
+Kos,"Ille de
+                Co,Côos"
 LaHaye,"la
-							Haye,la Haye"
+              Haye,la
+            Haye,la Haye"
+Labicum,Labicana
+LacDeGarde,"lago di
+              Garda,Lago di Garda"
 Lacedemone,Lacedemone
 Lallaing,Lalain
 Languedoc,Languedoc
 Lanuvium,Lanuvium
-Lazio,Lazio
+LaodiceeDuLycos,Laodicea
+Larissa,Larissa
+Lazio,"Latio,Lazio"
+LeCaire,"Cairo,Cayro"
 LeMans,Mans
-Lemnos,"Isle de Lemnos,Lemnos"
-Lesbos,Lesbos
+LePiree,"Pireo,Pyreo"
+Lemnos,"Isola di Lemno,Isle de,Lemnos,Lenno,Lemno"
+Lesbos,"Isola di Lesbo,Lesbos,Lesbo"
+Leucade,Leucade
 Leuctres,Leuctre
-Leyde,"Leyde,Leida,Lede"
-Libye,"Libie,Libye,Libia"
+Leyde,"Leida,Leyde,Lede"
+Libye,"Lybia,Libia,Libye,Libie"
 Liege,"Liége,Liege,Liége"
+Lindau,Landau
 Lindos,Lindus
 Lisbonne,Lisbonne
-Livourne,Livourne
+Livourne,"Livourne,Livorno"
+Lleida,Lerida
 Loches,Loces
-Locres,Locres
+Locres,"Locres,Locri"
 Loire,Loire
-Lombardie,"Lomdardie,Lombardia,Lombardie"
+Lombardie,"Lombardie,Lomdardie,Lombardia"
 Lombez,Lombés
-Londres,"Londres,Londre,Londra"
+Londres,"Londres,Londra,Londre"
+Lonigo,Lonigo
 Loreto,"Lorette,Loreto,Loreta"
+Lorraine,Lorraine
 Louvain,Lovania
 Lucanie,Lucanie
 Lucques,"Luques,Lucca,Luca"
 Lugano,Lugano
+Lydie,"Lidia,Lydia"
 Lyon,"Lion,Lyon"
 LyonsLaForet,Lion
+Lysimacheia,Lisimachia
 Maaseik,Masseyk
-Macedoine,"Macedonia,Macédoine,Macedoine"
+Macedoine,"Macedoine,Macedonia,Macédoine"
 Madrid,Madrid
 Maiano,Maiano
 Mainz,Mayance
 Malines,Malines
 Malte,"Malthe,Malte,Malta"
 Mantinee,Mantinée
-Mantoue,"Mantoua,Mantoue,Mantouë,MANTOVA,Mantova,Mantoa"
+Mantoue,"Mantova,MANTOVA,Mantouë,Mantoua,Mantoue,Mantoa"
 Marathon,Marathon
-Marseille,Marseille
+MarcheAncone,"Marca
+              Anconitana"
+Marches,Marca
+Margiane,Margiana
+Marocco,Marocco
+Marseille,"Marseille,Marsilia"
+Marsique,Marsi
 Martaban,Martaban
+Maser,Masera
+Massada,Sibali
 Maubeuge,Mabuse
 Mauritanie,Mauritanie
 Melun,Melun
 Memphis,"Memphis,Memphi"
+Menfi,"Memphi,Memfi,Menfi,Mensi"
+Meroe,Meroe
+Mesopotamie,Mesopotamia
 Messine,Messine
 Mestre,Mestri
 Metaponte,Metaponte
 Meudon,Meudon
 Meulebeke,Meulebrac
-Meuse,la Meuse
+Meuse,"la
+              Meuse"
 Mexique,Roiaume de Mexique
 MezieresSurSeine,Mezieres
-Milan,"republica Milanese,questa Città,Città nostra,nostra Città,cette vile,Milano,MILANO,Città,Milan"
+Milan,"nostra
+                        Città,republica Milanese,Città nostra,questa Città,cette vile,Milano,MILANO,Milan,Città"
+Milet,Milesio
 Milos,Isle de Melos
-Modene,"Modéne,Modene,Modena"
+Modene,"Modene,Modena,Modéne"
 Monaco,Monaco
 Mondovi,Monte Regale
 Monferrato,MONFERRATO
 Mons,Mons
+MontAlbain,campi Albani
 MontFalterona,Falterona
+MontPalatin,"Monte Palatino,Palatino"
+Montagnana,Montagnana Castello del Padoano
 MonteCaucaso,monte Caucaso
-MonteCavallo,"Monte Cavallo,Monte cavallo,Montecavallo"
+MonteCavallo,"Monte cavallo,Montecavallo"
+MonteMorello,Monte Morello
+Montegaldella,Ghizzole
 Montesson,Montesson
 MontmirailSarthe,Montmiral
 MontoireSurLeLoir,Montoire
 Montpellier,Montpellier
+MontsCerauniens,Ceraunia
+MontsTaurus,"Monte
+              Tauro,Monte Tauro"
 Monza,Monza
+MottaDiLivenza,Motta
 Moulins,Moulins en Bourbonnois
 Munich,"Munik,Munic"
+Murano,Murano
 Mycenes,Missene
+Mytilene,Metelino
 Namur,Namur
 Nancy,Nancy
-Naples,"NAPOLI,Napoli,Naples,Naple"
+Nanto,Nanto
+Naples,"Napoli,NAPOLI,Naples,Naple,città"
 Narbonne,Narbonne
+Narni,Narni
 Navarre,Navarre
 NeubourgDuche,Neubourg
 Nevers,Nevers
 Nil,"Nilo,Nil"
-Nimes,Nismes
+Nimes,"Nismes,Nimes"
 Ninive,Ninive
 Nivernais,Nivernois
+Nomentum,Numento
 Normandie,Normandie
 Novare,Novara
 Nuremberg,Nuremberg
 Ogygie,Ogige
+Ombrie,Umbria
 Orange,Orange
 Orleans,Orleans
+Oropus,Oropo
 Orvieto,"Orviette,Orvieto,Orviete"
 Ostie,Hostie
+OstieAntique,Hostia
 Oudenaarde,OUDENARDE
-Padoue,"Padova,Padouë,Padoue"
+Padoue,"Padoue,Padova,Padouë,Padoa"
+PalaisTuileries,Tuileries
+PalaisTuileriesParis,Thuilleries
 Palerme,Palerme
+Panchaea,Pantei
 PantheonRome,Eglise de la Rotonde
-Paris,"Capitale,Parigi,PARIS,Paris"
-Parme,"la mesme Ville,Parmes,Parme,Parma"
-Parnasse,"Monte
-                  Parnaso"
-Paros,"Isle de Pâros,isola di Paro,Paros,Paro"
+Paphos,Pafo
+Paris,"Capitale,Parigi,Paris,PARIS"
+Parme,"la mesme Ville,Parmes,PARMA,Parma,Parme"
+Parnasse,"monte Parnaso,Monte Parnaso"
+Paros,"isola di Paro,Isle de Pâros,Parettonio,Paros,Paro"
+Pasargades,appresso ai Pasargadi
 Passignano,Passignano
 Passy,Passy
-Pavie,"Pavia,Pavie"
-PaysBas,"Païs-Bas.,pays bas,Païs bas,Païs-bas,Païs-Bas,Paï-bas"
+Pavie,"Pavie,Pavia"
+PaysBas,"Païs-Bas.,Païs bas,pays bas,Païs-bas,Païs-Bas,Paï-bas"
+Pedemonte,A SANTA Sofia
 Pegou,Pegu
-Peloponnese,Peloponese
+Pella,Pella
+Peloponnese,"Peloponneso,Peloponese,Morea"
+Peluse,Pelusio
+PeninsuleDeGallipoli,Chersonesso
+PeraGenes,Pera
+Pergame,Pergamo
 Perou,Perou
-Perse,Perse
-Perugia,"Pérouse,Perugino,Perouze,Perugia,Pérouse,Perouse,Peruge,Peruze"
+Perse,"Appresso dei
+              Persiani,Persia,Perse"
+Persepolis,Persepoli
+Perugia,"Pérouse,Perugino,Pérouse,Perouze,Perouse,Perugia,Peruze,Peruge"
 Pesaro,"cette derniere vile,Pisaro,Pesaro"
 Pessinonte,Pessinonte
 Pharos,Pharo
-Phenicie,Fenicie
-Picardie,Picardie
-Piemont,"PIED-MONT,Piedmont,Piemont"
-Pise,"Pise,Pisa"
+Pharsale,Farsaglia
+Phenicie,"Fenicie,Fenicia"
+Philippes,Filippici
+Phrygie,"Frigia minore,Frigia"
+Picardie,"Piccardia,Picardie"
+Piediluco,Pie di Luco
+Piemont,"PIED-MONT,Piemonte,Piamonte,Piedmont,Piemont"
+Piombino,Piombino
+PiombinoDese,Piombino
+Pise,"Pisa,Pise"
 Pistoia,Pistoie
 PlaceDesVosges,Place Royale de
-Plaisance,Plaisance
+PlaceMaubert,Place Maubert
+Plaisance,"Piacentia,Plaisance"
 Platees,Platées
 Po,Po
 Poitou,Poitou
+PojanaMaggiore,Cigogna
+Polesine,Polesine
 Pologne,Pologne
 Pomarance,Pomarance
 Pompei,Pompee
+Populonia,Popolonia
 PordenoneVille,"Pordenone,Pordenon"
-PortaSanPaolo,Porte Pauline
+PortaSanPaolo,"Porte
+              Pauline"
 PortoErcole,Porto Hercolé
 Portovenere,Porto-Venere
-Portugal,"Portugallo,Portugal"
-Pouzzoles,"Pouzzuolo,Pouzzole,Poussol"
+Portugal,"Portogallo,Portugallo,Portugal"
+Portus,porto
+Pouilles,Puglia
+Pouzzoles,"Pouzzuolo,Pouzzole,Pozzuolo,Poussol"
 Prague,Prague
 Prasville,Prasville
 Preneste,"Palestrina,Preneste"
-Procida,Prochyta
-Provence,Provence
-Pula,Pola
-Pyrenees,"Pyrenées,Pirenées,Pyrenées"
+Pretola,Pretola
+Priverno,Piperno
+Procida,"Isola di Procida,Prochyta"
+Provence,"Provence,Provenza"
+Pula,"Pola,Palo"
+Pyrenees,"Pyrennées,Pyrenées,Pyrenées,Pirenées"
+Pyrgi,Pirgo
+QuintoVicentino,Quinto
+Quirinal,"Monte
+                     Cavallo,Monte
+              Cavallo,monte Quirinale,Monte Quirinale,Monte Cavallo,Montecavallo"
 Rance,Rance
+RaphaelChambreSignature,Camera della Segnatura
 Ravenna,"cette vile,même vile,Ravenne,Ravenna"
-Rhin,"Rhin,Rein"
-Rhodes,"Rhodes,Rodes,Rhodo,Rodi"
-Rimini,"Rimino,Rimini"
+Rhin,"Rein,Rhin"
+Rhodes,"Rhodes,Rodes,Rhodo,Rhodi,Rodo,Rodi"
+Rimini,"Rimini,Rimino"
+RipaRome,Ripa
 Ripatransone,Ripa Transone
-Romagne,"Romagna,Romagne"
-Rome,"ancienne
-							Rome,cette illustre vile,cette superbe Ville,cette celebre vile,cette belle vile,cette capitale,cette Ville,cette Vile,cette vile,Roma.,Romae,Roma,Vile,ROMA,Rome"
+RocheTarpéienne,Tarpeia
+Romagne,"Romagne,Romagna"
+Rome,"appresso dei
+              Romani,cette superbe
+          Ville,cette illustre vile,cette superbe Ville,cette celebre vile,cette belle vile,cette capitale,ancienne Rome,cette Ville,cette vile,cette Vile,Città,Roma.,Romae,Roma,Rome,ROMA,Vile"
 Roquebrun,Roquebrue
 Roses,Roses
 Rouen,Rouen
+RoyaumeDuPont,Ponto
 Sagonte,Sagonte
-SaintBeat,"saint
-                                    Beat,Saint Beat,S. Beat"
+SaintBeat,"saint Beat,Saint Beat,S. Beat"
 SaintCloud,S. Cloud
 SaintDizier,"S. Dizier,S. Disier"
 SaintEtienneVille,"saint Estienne,Saint Etienne"
-SaintGermainEnLaye,"Saint
-                  Germain en Laye,Saint Germain en Laye,saint Germain en Laye"
-SaintLeuDEsserent,"saint
-                                    Leu,Saint Leu,S. Leu"
-SaintMaurDesFosses,S. Maur
+SaintGermainEnLaye,"saint Germain en Laye,Saint Germain en Laye"
+SaintLeuDEsserent,"Saint Leu,saint Leu,S. Leu"
+SaintMaurDesFosses,"Saint Maur,S. Maur"
 SaintMaximin,Saint Maximin
-SaintQuentinVille,"Saint
-							Quentin,Saint Quentin,San Quintino"
+SaintQuentinVille,"Saint Quentin,San Quintino"
 SaintRemyDeProvence,Saint Remi
 SainteBaume,sainte Baume
 Salerno,Salerno
 Samos,"Isle de Samos,Samos"
 Samothrace,Samotrace
 Sansepolcro,"Borgo di San Sepulchro,Borgo San Sepolchro,Borgo San Sepolcro,Borgo"
-SantAngeloInVado,"Agnolo
-							in Vado,Sant'Angelo in Vado,Saint-Ange in Vado,Agnolo in Vado"
+SantAngeloInVado,"Sant'Angelo in Vado,Saint-Ange in Vado,Agnolo in Vado"
+Santorin,Thera
 Sardaigne,"Sardaigne,Sardigna"
+Sarego,Meledo Villa del Vicentino
 Sarrancolin,Serancolin
 Savoie,Savoye
 Sceaux,Sceaux
 Schaffhouse,Schaffouse
 Schoorl,Schorel
+SeleucieDuTigre,Seleucia
 Selinonte,Selinonte
 Senlis,Senlis
 Senonches,Senonches
-Sens,Sens
+Sens,"Ville de
+              Sens,Sens"
 Sermoneta,Sermoneta
 Settignano,Settiniano
 Sevran,Seran
 Sevres,Seve
+Sibari,Sibariti
 Sicile,"Siciles,Sicille,Sicilia,Sicile"
 Sicyone,"Scicione,Sicionne,Sicione,Sycione,Sicyone"
-Sienne,"Sienne,Siénne,Siene,Siena"
+Sienne,"Siénne,Sienne,Siena,Siene"
+Siguenza,Seguenza
+Sirmione,Sirmion
 Skerries,Skerie
-Spolete,"Spolete,Spoléte"
-SriLanka,"isle de
-                            Zeilan"
+Smyrne,Smirna
+Sodoma,Sodoma
+Soest,"la Ville
+              de Soust"
+Soissons,Soisons
+Soucy,Soucy
+Sparte,Lacedemonia
+Spolete,"Spoléte,Spolete"
+Spoleto,"Spoleti,Spuleto"
+SriLanka,isle de Zeilan
 Steenwijk,STENVIK
 Strasbourg,Strasbourg
+StratoniceeDeCarie,Stratone
 Suede,"Svetia,Suéde,Suede"
 Suisse,Suisse
-Syracuse,"Syracuse,Siracuse"
-Syrie,"Sirie,Syrie"
+Suse,Susa
+Syracuse,"Syracuse,Siracusa,Siracuse"
+Syrie,"Syrie,Syria,Sirie,Siria"
 Tage,Tage
+Tanagra,Tanagra
 Tarbes,Tarbe
 Tarente,Tarante
 Tarn,Tarn
+Tarragone,Tarragona
+Tarse,Tarso
+Tazata,Talge
+TellBasta,Bubasti
 TempioDellaSalus,tempio della Salute
+Terracine,Terracina
 Terranova,Terranova
 Thasos,Thase
-Thebaide,Thebaide
-Thebes,"cette Ville,Thébes,Thebes,Tebes"
-ThebesEgypte,Tebes
+Thebaide,"Thebaide,Tebaide"
+Thebes,"cette Ville,Thebes,Thébes,Tebes,Thebe,Tebe"
+ThebesEgypte,"Tebes,Thebe"
+Therma,Teramene
+Thermo,Termo
+Thermopyles,Termopile
 Thessalie,"Tessaglia,Thesalie"
-Tibre,"le Tibre,Tebro,Tibre"
-Tivoli,"Tyburce,Tivoli"
+Thiene,"Thieni,Thiene"
+Thirassia,Tyresia
+Thrace,Tracia
+Tibre,"le Tibre,Tibre,Tebro"
+Tigranakert,Tigranocerta
+Tivoli,"Tyburce,Tivoli,Tiboli"
+Tolede,Tolledo
 Tonnerre,Tonnerre
-Torino,TORINO
-Toscane,"l'Estat du grand
-                                    Duc,Estat du grand Duc,Toschana,Toscanne,Thuscane,Tuscane,Toscana,Toscane"
-Toulouse,"nôtre Ville,Toulouse,Tholose,Tolosas,Tolose"
+Toscane,"appresso
+              dei Toscani,l'Estat du grand Duc,Estat du grand Duc,Toschana,Thuscane,Toscanne,Toscana,Tuscane,Toscane"
+Toulouse,"nôtre Ville,Toulouse,Tolosas,Tholose,Tolose"
 Touraine,Touraine
-Tours,Tours
-Trevise,"Trevisan,Trevise"
+Tournai,Tornai
+Tours,"Tours,TOURS"
+Trevi,Trevi
+Trevise,"Trevisan,Trevigi,Trevise"
 TriniteDuMont,"la Trinité du
-						Mont"
+              Mont"
 Tripoli,Tripoli
+Troade,Troade
 TrocyEnMultien,"Trossi,Trossy"
-Troia,"TROIA,Troia"
-Troie,"Troia,Troïe,Troie,Troye"
+Troia,"orto di Troia,TROIA"
+Troie,"Troia,Troie,Troïe,Troye"
 Troyes,Troyes
 Tunis,Tunis
-Turin,Torino
-Tyr,"Tyro,Tir,Tyr"
-Udine,"Udiné,Udine"
+Turin,"TORINO,Torino"
+Tyr,"Tyro,Tyr,Tir"
+TyrAntique,"Tyro,Tiro"
+Udine,"Udine,Udiné,Udene"
 Urbania,"Castel Durante,Castel-Durante"
-Urbino,"Territoire
-							d'Urbin,Duché d'Urbain,Duché d'Urbin,Urbain,Urbino,Urbin"
-Utique,Utique
-Utrecht,"UTRECK,Utreck,Utrec,Utrek"
+Urbino,"Territoire d'Urbin,Duché d'Urbain,Duché d'Urbin,Urbino,Urbain,Urbin"
+Utique,"Utique,Utica"
+Utrecht,"Utreck,UTRECK,Utrec,Utrek"
 Valdarno,Val d'Arno
 Valduggia,Valdugia
 Valence,Valence
@@ -460,19 +661,24 @@ ValléeDeFecamp,vallée Fecan
 Valsolda,Valsada
 Varallo,Varallo
 Vatican,"Vaticano,Vatican"
+Veies,Vei
 Venise,"Serenissima
-						Republica,Serenissima Republica,Republique de Venise,cette illustre vile,istessa Republica,Etat Venitien,Republique,cette vile,Venetiis,Vénise,Venegia,Venetus,Vinetia,VENETIA,Venetia,Venezia,VINEGIA,Vinegia,Vénise,Venize,Venise"
+						Republica,Serenissima Republica,Republique de Venise,cette illustre vile,istessa Republica,Etat Venitien,cette vile,Republique,Venetiis,Venezia,Venegia,Venetia,Venetus,Vinetia,VENETIA,VINEGIA,Vinegia,Vénise,Vénise,Venize,Venise,città"
 Venloo,Venlo
 VerLesChartres,Ver
 Vercelli,Vercelli
 Vernon,Vernon
-Verone,"Veronne,Verona,Verone,Vérone"
+Verone,"Veronne,Verone,Vérone,Verona"
+Veronella,Miga
 Versailles,Versailles
 Vibraye,Vibray
-Vicence,"Vincence,Vicénce,Vicenza,Vicence,Vicenze"
+Vicence,"detta Città,Vincence,Vicenza,Vicence,Vicenze,Vicénce,Città"
 Vienne,Vienne
+VillafrancaPadovana,Cigogna
+Viminal,Monte
 Vinci,Vinci
-Volterra,"Volterra,Volterre"
+Viterbe,Viterbe
+Volterra,"Volterre,Volterra"
 Westphalie,Westphalie
 Windsor,"Chasteau de Windesor,Windesor"
 Wurtzbourg,wirtbourg
