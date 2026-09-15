@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-comparer_ner.py
+verification_quali.py
 ===============
 Compare la qualité des annotations NER (persName, placeName…) de plusieurs
 systèmes par rapport à un gold standard TEI-XML.
