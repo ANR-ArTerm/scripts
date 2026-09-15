@@ -1,0 +1,7 @@
+﻿version;type_entite;total_gold;total_annote_systeme;vrais_positifs;faux_positifs;faux_negatifs;precision_pct;rappel_pct;f1_pct;n_Correct;n_@ref manquant;n_Erreur @ref;n_Erreur texte;n_Faux negatif;n_Faux positif
+Vbalise;persName;13285;12104;10908;1196;2377;90.12;82.11;85.93;10132;0;249;527;2377;1196
+Vbalise;placeName;4115;4028;3572;456;543;88.68;86.8;87.73;3519;0;6;47;543;456
+Vspacy;persName;13285;15481;6847;8634;6438;44.23;51.54;47.6;6495;N/A;N/A;352;6438;8634
+Vspacy;placeName;4115;21756;3059;18697;1056;14.06;74.34;23.65;2883;N/A;N/A;176;1056;18697
+Vstanza;persName;13285;23338;9894;13444;3391;42.39;74.47;54.03;9284;N/A;N/A;610;3391;13444
+Vstanza;placeName;4115;8930;3117;5813;998;34.9;75.75;47.79;3060;N/A;N/A;57;998;5813
