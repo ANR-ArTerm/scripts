@@ -25,7 +25,8 @@ suivantes restent correctement appariées.
 
 Deux entités sont candidates à l'alignement si :
   - leur similarité textuelle (token_sort_ratio) est ≥ seuil
-  - OU leurs @ref sont identiques (même entité, graphie différente)
+    - OU leurs @ref sont identiques ET leur similarité reste ≥ 0.40
+        (même entité avec une graphie suffisamment proche)
 
 Pour chaque paire alignée on diagnostique :
   Correct          — texte identique ET ref correcte (ou absente des deux)
@@ -49,7 +50,7 @@ DÉPENDANCES
   pip install lxml rapidfuzz
 
 Usage :
-    python comparer_ner.py [--seuil 0.80] [--output rapport_comparaison.csv]
+    python verification_quali.py [--seuil 0.80] [--output rapport_comparaison.csv]
                            [--tags persName placeName] [--encoding utf-8]
 """
 
@@ -90,10 +91,10 @@ TEI_NS = "http://www.tei-c.org/ns/1.0"
 # Statuts possibles (ordre d'affichage) — doivent correspondre exactement
 # aux valeurs retournées par diagnostiquer_paire() et aligner_et_comparer()
 STATUTS = [
-    "Correct",        # texte + ref identiques
-    "@ref manquant",  # texte OK, ref absente côté système
-    "Erreur @ref",    # texte OK, ref différente
-    "Erreur texte",   # textes proches (LCS alignés), ref OK ou absente
+    "Correct",        # texte OK ; @ref vérifiée si le système en produit
+    "@ref manquant",  # texte OK ; @ref absente côté système avec @ref attendu
+    "Erreur @ref",    # texte OK ; @ref différente de la référence gold
+    "Erreur texte",   # textes proches (LCS alignés), @ref OK ou absente
     "Faux negatif",   # entité gold sans correspondance système
     "Faux positif",   # entité système sans correspondance gold
 ]
@@ -101,7 +102,8 @@ STATUTS = [
 # Statuts comptant comme TP dans les métriques (entité trouvée, même imparfaitement)
 STATUTS_TP = {"Correct", "@ref manquant", "Erreur @ref", "Erreur texte"}
 
-# Seuil de similarité utilisé aussi dans l'étape d'alignement LCS
+# Seuil de similarité utilisé par défaut pour l'alignement LCS.
+# La valeur peut être modifiée avec l'option --seuil.
 SEUIL_ALIGNEMENT_DEFAULT = 0.80
 
 # Seuil textuel MINIMUM quand deux entités ont la même @ref.
@@ -257,23 +259,23 @@ def aligner_lcs(
     seuil: float,
 ) -> List[Tuple[Optional[int], Optional[int]]]:
     """
-    Aligne les deux listes par LCS (Plus Longue Sous-Séquence Commune).
+    Aligne les deux listes d'entités par LCS (Plus Longue Sous-Séquence Commune).
 
     Contrairement à l'alignement positionnel naïf (i ↔ i), le LCS tolère
-    les insertions et suppressions sans décaler toutes les entités suivantes.
+    les insertions et suppressions sans décaler les entités suivantes.
 
     Exemple :
       Gold    : [Grignani, MOSINI, Carracci, Annibale, Sivello]
       Vbalise : [MOSINI, Annibale, Carracci, Annibale, Sivello]
 
-      Naïf    : Grignani↔MOSINI (✗), MOSINI↔Annibale (✗), ...  ← tout décalé
+      Naïf    : Grignani↔MOSINI (✗), MOSINI↔Annibale (✗), ...  ← décalage
       LCS     : Grignani→FN, MOSINI↔MOSINI, Annibale→FP,
                 Carracci↔Carracci, Annibale↔Annibale, Sivello↔Sivello  ← correct
 
     Retourne une liste de tuples (idx_gold, idx_sys) :
       (i, j)       → paire alignée
-      (i, None)    → FN  : entité gold sans correspondance
-      (None, j)    → FP  : entité système sans correspondance
+      (i, None)    → FN : entité gold sans correspondance
+      (None, j)    → FP : entité système sans correspondance
     """
     n_g = len(gold_list)
     n_s = len(sys_list)
@@ -533,12 +535,12 @@ def ecrire_csv(chemin: Path, colonnes: List[str], lignes: List[dict]):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Comparaison NER positionnelle — Gold vs systèmes TEI",
+        description="Comparaison NER par alignement LCS — Gold vs systèmes TEI",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog=__doc__,
     )
-    parser.add_argument("--seuil",    type=float, default=0.80,
-                        help="Seuil similarité floue 0–1 (défaut : 0.80). "
+    parser.add_argument("--seuil",    type=float, default=SEUIL_ALIGNEMENT_DEFAULT,
+                        help=f"Seuil similarité floue 0–1 (défaut : {SEUIL_ALIGNEMENT_DEFAULT:.2f}). "
                              "Ex: 'il Carracci' vs 'Carracci' ≈ 84%% → Erreur texte si seuil ≤ 0.84")
     parser.add_argument("--output",   default="rapport_comparaison.csv",
                         help="Nom du CSV de sortie principal")
@@ -547,6 +549,9 @@ def main():
     parser.add_argument("--encoding", default="utf-8",
                         help="Encodage des fichiers texte")
     args = parser.parse_args()
+
+    if not 0 <= args.seuil <= 1:
+        parser.error("--seuil doit être compris entre 0 et 1")
 
     DOSSIER_SORTIE.mkdir(exist_ok=True)
     chemin_base = DOSSIER_SORTIE / args.output
@@ -559,7 +564,7 @@ def main():
     }
 
     print(f"\n{'='*72}")
-    print(f"  COMPARAISON NER — alignement positionnel")
+    print(f"  COMPARAISON NER — alignement LCS par ordre d'apparition")
     print(f"  Versions actives : {', '.join(versions_actives) or '(aucune)'}")
     print(f"  Seuil flou : {args.seuil*100:.0f}%   |   Entités : {args.tags}")
     print(f"{'='*72}\n")
@@ -603,8 +608,13 @@ def main():
             if sys_entites is None:
                 manquants.add((version, nom))
                 for tag in args.tags:
+                    # Le fichier manque : le résultat est indisponible et ne
+                    # doit pas être interprété comme une erreur d'annotation.
                     comptage[nom][f"{version.lower()}_{tag}"] = "N/A"
-                print(f"     {version:12s} ✗ ABSENT")
+                print(
+                    f"     [ERREUR] {version:12s} ✗ fichier absent — "
+                    "version exclue des métriques"
+                )
                 continue
 
             for tag in args.tags:
