@@ -59,7 +59,7 @@ def main():
         return
 
     subdirs = ['Architecture', 'Peinture', 'Perspective']
-    exclusions = {'Architecture': ['Martin_ArchitectureSerlio.xml']}
+    exclusions = {'Architecture': ['Martin_ArchitectureSerlio.xml', 'Felibien_PrincipesArchitectureSculpturePeinture.xml'], 'Peinture': ['Baldinucci_Vocabulario.xml']}
 
     total = 0
     success = 0
