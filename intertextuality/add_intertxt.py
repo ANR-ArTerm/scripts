@@ -19,14 +19,17 @@
 from pathlib import Path
 
 # ── À adapter ─────────────────────────────────────────────────────────────
-CSV_PATH    = Path("C:/Users/ebondoer/Desktop/Allign-bilingual/scripts_2026/output_visu_sentences/labse_nettoye/top_pairs_Peinture_seuil08_nettoye_gardes_sentences.csv")
-CORPUS_DIR  = Path("C:/Users/ebondoer/Desktop/GitHubArTerm/corpus/Peinture")
+CSV_PATH    = Path("C:/Users/ebondoer/Desktop/Allign-bilingual/traitement_IT_propre/LaBSE/output_nettoyage/post_tinder/top_pairs_p_ner_ids_Peinture_Architecture_Perspective_seuil08-085_nettoye_gardes.csv")
+CORPUS_DIR  = Path("C:/Users/ebondoer/Desktop/GitHubArTerm/corpus")
+CORPUS_SUBDIRS = ("Peinture", "Architecture", "Perspective")
 OUTPUT_DIR  = Path("output")
 # ──────────────────────────────────────────────────────────────────────────
 
 # Vérifications rapides
 assert CSV_PATH.exists(),   f"CSV introuvable : {CSV_PATH}"
 assert CORPUS_DIR.exists(), f"Dossier corpus introuvable : {CORPUS_DIR}"
+assert all((CORPUS_DIR / name).is_dir() for name in CORPUS_SUBDIRS), \
+    f"Un ou plusieurs sous-dossiers corpus sont introuvables : {CORPUS_SUBDIRS}"
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 print(f"CSV     : {CSV_PATH.resolve()}")
@@ -65,18 +68,22 @@ print("Imports OK")
 # ==============================================================================
 # ## 3. Fonctions utilitaires sur les identifiants
 #
-# Les identifiants ont la forme `Auteur_Titre_…_Pn_sXX` :
+# Les identifiants ont la forme `Auteur_Titre_…_Pn_sXX` ou sont déjà des IDs de paragraphe `Auteur_Titre_…_Pn` :
 #
-# - `sentence_to_para_id()` retire le dernier segment (`_sXX`) pour obtenir l'identifiant de paragraphe (`…_Pn`), qui correspond au `@xml:id` des `<p>` dans les fichiers TEI.
+# - `sentence_to_para_id()` retire uniquement un suffixe de phrase (`_sXX`) ; un ID de paragraphe déjà complet est conservé tel quel.
 # - `file_key()` extrait les deux premiers segments (`Auteur_Titre`) pour identifier le fichier XML correspondant.
 # ==============================================================================
 
 def sentence_to_para_id(sentence_id: str) -> str:
     """
     'FEL_E1_L1_E2_C75_P1_s04'  →  'FEL_E1_L1_E2_C75_P1'
-    Retire le dernier segment (_sXX) ; le @xml:id des <p> s'arrête à _Pn.
+    'FEL_E4_L4_E8_P254'        →  'FEL_E4_L4_E8_P254'
+    Retire le suffixe uniquement s'il s'agit d'un numéro de phrase.
     """
-    return sentence_id.rsplit("_", 1)[0]
+    prefix, separator, suffix = sentence_id.rpartition("_")
+    if separator and suffix.startswith("s") and suffix[1:].isdigit():
+        return prefix
+    return sentence_id
 
 
 def file_key(para_id: str) -> str:
@@ -91,6 +98,7 @@ def file_key(para_id: str) -> str:
 # ── Tests unitaires rapides ────────────────────────────────────────────────
 assert sentence_to_para_id("FEL_E1_L1_E2_C75_P1_s04") == "FEL_E1_L1_E2_C75_P1"
 assert sentence_to_para_id("VIN_TP_C75_P3_s01")        == "VIN_TP_C75_P3"
+assert sentence_to_para_id("FEL_E4_L4_E8_P254")        == "FEL_E4_L4_E8_P254"
 assert file_key("FEL_E1_L1_E2_C75_P1")                 == "FEL_E1"
 assert file_key("VIN_TP_C75_P3")                        == "VIN_TP"
 print("Fonctions utilitaires OK")
@@ -180,7 +188,7 @@ print(f"Clés de fichiers concernées       : {sorted(link_map.keys())}")
 # ==============================================================================
 # ## 6. Indexation des fichiers XML du corpus
 #
-# Le script parcourt récursivement `CORPUS_DIR`, lit le premier `@xml:id` d'un `<p>` dans chaque fichier, et en dérive la clé `Auteur_Titre`. Cela permet d'associer chaque clé du `link_map` au bon fichier, indépendamment du nom de fichier.
+# Le script parcourt récursivement les trois sous-dossiers définis dans `CORPUS_SUBDIRS`, lit le premier `@xml:id` d'un `<p>` dans chaque fichier, et en dérive la clé `Auteur_Titre`. Cela permet d'associer chaque clé du `link_map` au bon fichier, indépendamment du nom de fichier.
 # ==============================================================================
 
 def find_xml_files(corpus_dir: Path) -> dict[str, Path]:
@@ -189,17 +197,18 @@ def find_xml_files(corpus_dir: Path) -> dict[str, Path]:
     du premier @xml:id d'un <p> dans chaque fichier XML.
     """
     index: dict[str, Path] = {}
-    for xml_file in sorted(corpus_dir.rglob("*.xml")):
-        try:
-            tree    = etree.parse(str(xml_file))
-            first_p = tree.find(f".//{TAG_P}[@{ATTR_ID}]")
-            if first_p is not None:
-                pid  = first_p.get(ATTR_ID, "")
-                fkey = file_key(pid)
-                if fkey and fkey not in index:
-                    index[fkey] = xml_file
-        except etree.XMLSyntaxError:
-            print(f"  [AVERT.] XML invalide ignoré : {xml_file}")
+    for subdir in CORPUS_SUBDIRS:
+        for xml_file in sorted((corpus_dir / subdir).rglob("*.xml")):
+            try:
+                tree    = etree.parse(str(xml_file))
+                first_p = tree.find(f".//{TAG_P}[@{ATTR_ID}]")
+                if first_p is not None:
+                    pid  = first_p.get(ATTR_ID, "")
+                    fkey = file_key(pid)
+                    if fkey and fkey not in index:
+                        index[fkey] = xml_file
+            except etree.XMLSyntaxError:
+                print(f"  [AVERT.] XML invalide ignoré : {xml_file}")
     return index
 
 
